@@ -10,12 +10,12 @@
 - Bernat Roselló Muñoz
 
 ## Índice
-- 1.	Introducción	5
-- 2.	Identificación de las consultas	7
-- 3.	Creación de Documentos	10
-- 4.	Diseño de operaciones CRUD	16
-- 5.	Conclusiones	45
-- 6.	Bibliografía	46
+- 1.	Introducción
+- 2.	Identificación de las consultas
+- 3.	Creación de Documentos
+- 4.	Diseño de operaciones CRUD
+- 5.	Conclusiones
+- 6.	Bibliografía
  
 # 1.	Introducción
 En este documento se detalla y justifica el proceso de rediseño y adaptación a MongoDB de la base de datos creada en las anteriores prácticas, sobre el videojuego Dark Souls, así como las decisiones tomadas según las consultas.

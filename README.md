@@ -127,7 +127,8 @@ Además, para la medición de tiempos de las consultas que utilizan Aggregation 
 A pesar de ser esta última una opción no determinista, nos permite comparar en términos generales la eficiencia de una misma consulta, pero aplicando la creación de índices.
 Además, es importante mencionar que algunas de las consultas que se realizaron en la primera práctica, no contenían varias condiciones, es por ello por lo que se ha hecho una selección de algunas de las consultas originales, pero añadiendo alguna condición extra. 
 
-| Para ver las consultas acceder al pdf |
+| Para ver las consultas acceder al pdf | [MEMORIA](https://github.com/leunamanuelgc/MongoDB-DS-database/blob/main/GDMD_Practica3_DarkSoulsBBDD_MongoDB.pdf) |
+| --- | --- |
 
 # 5.	Conclusiones
 A lo largo de este trabajo se ha adaptado la base de datos relacional de las anteriores dos prácticas al programa de Bases de datos NoSQL MongoDB, que tomaba como referencia el videojuego Dark Souls. Esta adaptación ha supuesto un rediseño, que ha permitido optimizar tanto el almacenamiento como la eficiencia de acceso a los datos, gracias a decisiones clave como la unificación de entidades (jugadores, partidas e invasiones), que han simplificado las consultas y mejorado la coherencia del modelo. Además, se ha introducido la entidad “mancha de sangre”, no solo para reflejar una mecánica fundamental del juego, sino que también para hacer un mejor uso de las posibilidades de MongoDB y así poder realizar un análisis más detallado de la información de los jugadores.

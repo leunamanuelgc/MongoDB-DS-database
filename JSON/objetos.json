@@ -1,0 +1,3781 @@
+[
+				{
+					"nombre": "Fang Boar Helm",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura0"
+				},
+				{
+					"nombre": "Gargoyle Helm",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura1"
+				},
+				{
+					"nombre": "Sunlight Maggot",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "80",
+					"_pieza_armadura_id": "pieza_armadura2"
+				},
+				{
+					"nombre": "Symbol of Avarice",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "-",
+					"_pieza_armadura_id": "pieza_armadura3"
+				},
+				{
+					"nombre": "Helm of the Wise",
+					"conjunto": "Adventurer's Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura4"
+				},
+				{
+					"nombre": "Sack",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura5"
+				},
+				{
+					"nombre": "Armor of the Glorious",
+					"conjunto": "Adventurer's Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura6"
+				},
+				{
+					"nombre": "Crown of Dusk",
+					"conjunto": "Antiquated Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura7"
+				},
+				{
+					"nombre": "Bloated Sorcerer Head",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura8"
+				},
+				{
+					"nombre": "Helm of Artorias",
+					"conjunto": "Artorias' Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura9"
+				},
+				{
+					"nombre": "Gauntlets of the Vanquisher",
+					"conjunto": "Adventurer's Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura10"
+				},
+				{
+					"nombre": "Antiquated Dress",
+					"conjunto": "Antiquated Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura11"
+				},
+				{
+					"nombre": "Armor of Artorias",
+					"conjunto": "Artorias' Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura12"
+				},
+				{
+					"nombre": "Balder Helm",
+					"conjunto": "Balder Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura13"
+				},
+				{
+					"nombre": "Royal Helm",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura14"
+				},
+				{
+					"nombre": "Boots of the Explorer",
+					"conjunto": "Adventurer's Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura15"
+				},
+				{
+					"nombre": "Antiquated Gloves",
+					"conjunto": "Antiquated Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura16"
+				},
+				{
+					"nombre": "Mask of the Father",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura17"
+				},
+				{
+					"nombre": "Gauntlets of Artorias",
+					"conjunto": "Artorias' Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura18"
+				},
+				{
+					"nombre": "Balder Armor",
+					"conjunto": "Balder Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura19"
+				},
+				{
+					"nombre": "Brigand Hood",
+					"conjunto": "Bandit Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura20"
+				},
+				{
+					"nombre": "Antiquated Skirt",
+					"conjunto": "Antiquated Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura21"
+				},
+				{
+					"nombre": "Mask of the Mother",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura22"
+				},
+				{
+					"nombre": "Leggings of Artorias",
+					"conjunto": "Artorias' Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura23"
+				},
+				{
+					"nombre": "Balder Gauntlets",
+					"conjunto": "Balder Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura24"
+				},
+				{
+					"nombre": "Brigand Armor",
+					"conjunto": "Bandit Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura25"
+				},
+				{
+					"nombre": "Big Hat",
+					"conjunto": "Big Hat's Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura26"
+				},
+				{
+					"nombre": "Mask of the Child",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura27"
+				},
+				{
+					"nombre": "Balder Leggings",
+					"conjunto": "Balder Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura28"
+				},
+				{
+					"nombre": "Brigand Gauntlets",
+					"conjunto": "Bandit Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura29"
+				},
+				{
+					"nombre": "Sage Robe",
+					"conjunto": "Big Hat's Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura30"
+				},
+				{
+					"nombre": "Black Iron Helm",
+					"conjunto": "Black Iron Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura31"
+				},
+				{
+					"nombre": "Bloated Head",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura32"
+				},
+				{
+					"nombre": "Brigand Trousers",
+					"conjunto": "Bandit Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura33"
+				},
+				{
+					"nombre": "Travelling Gloves",
+					"conjunto": "Big Hat's Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura34"
+				},
+				{
+					"nombre": "Black Iron Armor",
+					"conjunto": "Black Iron Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura35"
+				},
+				{
+					"nombre": "Black Knight Helm",
+					"conjunto": "Black Knight Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "550",
+					"_pieza_armadura_id": "pieza_armadura36"
+				},
+				{
+					"nombre": "Egg Head",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "None",
+					"_pieza_armadura_id": "pieza_armadura37"
+				},
+				{
+					"nombre": "Travelling Boots",
+					"conjunto": "Big Hat's Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura38"
+				},
+				{
+					"nombre": "Black Iron Gauntlets",
+					"conjunto": "Black Iron Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura39"
+				},
+				{
+					"nombre": "Black Knight Armor",
+					"conjunto": "Black Knight Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "550",
+					"_pieza_armadura_id": "pieza_armadura40"
+				},
+				{
+					"nombre": "Mask of Velka",
+					"conjunto": "Black Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura41"
+				},
+				{
+					"nombre": "Black Iron Leggings",
+					"conjunto": "Black Iron Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura42"
+				},
+				{
+					"nombre": "Black Knight Gauntlets",
+					"conjunto": "Black Knight Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "550",
+					"_pieza_armadura_id": "pieza_armadura43"
+				},
+				{
+					"nombre": "Pharis's Hat",
+					"conjunto": "Unique Piece of Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura44"
+				},
+				{
+					"nombre": "Black Cleric Robe",
+					"conjunto": "Black Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura45"
+				},
+				{
+					"nombre": "Black Knight Leggings",
+					"conjunto": "Black Knight Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "550",
+					"_pieza_armadura_id": "pieza_armadura46"
+				},
+				{
+					"nombre": "Black Manchette",
+					"conjunto": "Black Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura47"
+				},
+				{
+					"nombre": "Black Sorcerer Hat",
+					"conjunto": "Black Sorcerer Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura48"
+				},
+				{
+					"nombre": "Black Tights",
+					"conjunto": "Black Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura49"
+				},
+				{
+					"nombre": "Black Sorcerer Cloak",
+					"conjunto": "Black Sorcerer Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura50"
+				},
+				{
+					"nombre": "Brass Helm",
+					"conjunto": "Brass Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura51"
+				},
+				{
+					"nombre": "Black Sorcerer Gauntlets",
+					"conjunto": "Black Sorcerer Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura52"
+				},
+				{
+					"nombre": "Brass Armor",
+					"conjunto": "Brass Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura53"
+				},
+				{
+					"nombre": "Black Sorcerer Boots",
+					"conjunto": "Black Sorcerer Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura54"
+				},
+				{
+					"nombre": "Brass Gauntlets",
+					"conjunto": "Brass Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura55"
+				},
+				{
+					"nombre": "Catarina Helm",
+					"conjunto": "Catarina Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura56"
+				},
+				{
+					"nombre": "Chain Helm",
+					"conjunto": "Chain Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura57"
+				},
+				{
+					"nombre": "Brass Leggings",
+					"conjunto": "Brass Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura58"
+				},
+				{
+					"nombre": "Catarina Armor",
+					"conjunto": "Catarina Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura59"
+				},
+				{
+					"nombre": "Chain Armor",
+					"conjunto": "Chain Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura60"
+				},
+				{
+					"nombre": "Catarina Gauntlets",
+					"conjunto": "Catarina Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura61"
+				},
+				{
+					"nombre": "Leather Gauntlets",
+					"conjunto": "Chain Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura62"
+				},
+				{
+					"nombre": "Six-Eyed Helm of the Channelers",
+					"conjunto": "Channeler Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura63"
+				},
+				{
+					"nombre": "Catarina Leggings",
+					"conjunto": "Catarina Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura64"
+				},
+				{
+					"nombre": "Chain Leggings",
+					"conjunto": "Chain Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura65"
+				},
+				{
+					"nombre": "Robe of the Channelers",
+					"conjunto": "Channeler Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura66"
+				},
+				{
+					"nombre": "Snickering Top Hat",
+					"conjunto": "Chester's Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura67"
+				},
+				{
+					"nombre": "Gauntlets of the Channelers",
+					"conjunto": "Channeler Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura68"
+				},
+				{
+					"nombre": "Cleric Helm",
+					"conjunto": "Cleric Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura69"
+				},
+				{
+					"nombre": "Chester's Long Coat",
+					"conjunto": "Chester's Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura70"
+				},
+				{
+					"nombre": "Waistcloth of the Channelers",
+					"conjunto": "Channeler Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura71"
+				},
+				{
+					"nombre": "Cleric Armor",
+					"conjunto": "Cleric Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura72"
+				},
+				{
+					"nombre": "Mask of the Sealer",
+					"conjunto": "Crimson Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura73"
+				},
+				{
+					"nombre": "Chester's Gloves",
+					"conjunto": "Chester's Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura74"
+				},
+				{
+					"nombre": "Cleric Gauntlets",
+					"conjunto": "Cleric Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura75"
+				},
+				{
+					"nombre": "Crimson Robe",
+					"conjunto": "Crimson Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura76"
+				},
+				{
+					"nombre": "Crystalline Helm",
+					"conjunto": "Crystalline Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura77"
+				},
+				{
+					"nombre": "Chester's Trousers",
+					"conjunto": "Chester's Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura78"
+				},
+				{
+					"nombre": "Cleric Leggings",
+					"conjunto": "Cleric Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura79"
+				},
+				{
+					"nombre": "Crimson Gloves",
+					"conjunto": "Crimson Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura80"
+				},
+				{
+					"nombre": "Crystalline Armor",
+					"conjunto": "Crystalline Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura81"
+				},
+				{
+					"nombre": "Dark Mask",
+					"conjunto": "Dark Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura82"
+				},
+				{
+					"nombre": "Dingy Hood",
+					"conjunto": "Dingy Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura83"
+				},
+				{
+					"nombre": "Crimson Waistcloth",
+					"conjunto": "Crimson Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura84"
+				},
+				{
+					"nombre": "Crystalline Gauntlets",
+					"conjunto": "Crystalline Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura85"
+				},
+				{
+					"nombre": "Dark Armor",
+					"conjunto": "Dark Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura86"
+				},
+				{
+					"nombre": "Dingy Robe",
+					"conjunto": "Dingy Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura87"
+				},
+				{
+					"nombre": "Crystalline Leggings",
+					"conjunto": "Crystalline Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura88"
+				},
+				{
+					"nombre": "Dark Gauntlets",
+					"conjunto": "Dark Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura89"
+				},
+				{
+					"nombre": "Dingy Gloves",
+					"conjunto": "Dingy Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura90"
+				},
+				{
+					"nombre": "Eastern Helm",
+					"conjunto": "Eastern Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura91"
+				},
+				{
+					"nombre": "Elite Knight Helm",
+					"conjunto": "Elite Knight Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura92"
+				},
+				{
+					"nombre": "Dark Leggings",
+					"conjunto": "Dark Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura93"
+				},
+				{
+					"nombre": "Blood-Stained Skirt",
+					"conjunto": "Dingy Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura94"
+				},
+				{
+					"nombre": "Eastern Armor",
+					"conjunto": "Eastern Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura95"
+				},
+				{
+					"nombre": "Elite Knight Chest",
+					"conjunto": "Elite Knight Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura96"
+				},
+				{
+					"nombre": "Eastern Gauntlets",
+					"conjunto": "Eastern Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura97"
+				},
+				{
+					"nombre": "Elite Knight Gauntlets",
+					"conjunto": "Elite Knight Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura98"
+				},
+				{
+					"nombre": "Helm of Favor",
+					"conjunto": "Favor Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura99"
+				},
+				{
+					"nombre": "Giant Helm",
+					"conjunto": "Giant Armor Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura100"
+				},
+				{
+					"nombre": "Gold-Hemmed Black Hood",
+					"conjunto": "Gold-Hemmed Black Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura101"
+				},
+				{
+					"nombre": "Gough's Helm",
+					"conjunto": "Gough's Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura102"
+				},
+				{
+					"nombre": "Eastern Leggings",
+					"conjunto": "Eastern Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura103"
+				},
+				{
+					"nombre": "Elite Knight Leggings",
+					"conjunto": "Elite Knight Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura104"
+				},
+				{
+					"nombre": "Embraced Armor of Favor",
+					"conjunto": "Favor Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura105"
+				},
+				{
+					"nombre": "Giant Armor",
+					"conjunto": "Giant Armor Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura106"
+				},
+				{
+					"nombre": "Gold-Hemmed Black Cloak",
+					"conjunto": "Gold-Hemmed Black Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura107"
+				},
+				{
+					"nombre": "Gough's Chest",
+					"conjunto": "Gough's Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura108"
+				},
+				{
+					"nombre": "Gauntlets of Favor",
+					"conjunto": "Favor Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura109"
+				},
+				{
+					"nombre": "Giant Gauntlets",
+					"conjunto": "Giant Armor Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura110"
+				},
+				{
+					"nombre": "Gold-Hemmed Black Gloves",
+					"conjunto": "Gold-Hemmed Black Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura111"
+				},
+				{
+					"nombre": "Gough's Gloves",
+					"conjunto": "Gough's Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura112"
+				},
+				{
+					"nombre": "Leggings of Favor",
+					"conjunto": "Favor Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura113"
+				},
+				{
+					"nombre": "Giant Leggings",
+					"conjunto": "Giant Armor Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura114"
+				},
+				{
+					"nombre": "Gold-Hemmed Black Skirt",
+					"conjunto": "Gold-Hemmed Black Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura115"
+				},
+				{
+					"nombre": "Gough's Leggings",
+					"conjunto": "Gough's Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "450",
+					"_pieza_armadura_id": "pieza_armadura116"
+				},
+				{
+					"nombre": "Crown of the Great Lord",
+					"conjunto": "Great Lord Armor",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura117"
+				},
+				{
+					"nombre": "Guardian Helm",
+					"conjunto": "Guardian Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura118"
+				},
+				{
+					"nombre": "Robe of the Great Lord",
+					"conjunto": "Great Lord Armor",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura119"
+				},
+				{
+					"nombre": "Guardian Armor",
+					"conjunto": "Guardian Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura120"
+				},
+				{
+					"nombre": "Bracelet of the Great Lord",
+					"conjunto": "Great Lord Armor",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura121"
+				},
+				{
+					"nombre": "Guardian Gauntlets",
+					"conjunto": "Guardian Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura122"
+				},
+				{
+					"nombre": "Anklet of the Great Lord",
+					"conjunto": "Great Lord Armor",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura123"
+				},
+				{
+					"nombre": "Guardian Leggings",
+					"conjunto": "Guardian Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura124"
+				},
+				{
+					"nombre": "Crown of the Dark Sun",
+					"conjunto": "Gwyndolin Moonlight Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "300",
+					"_pieza_armadura_id": "pieza_armadura125"
+				},
+				{
+					"nombre": "Havel's Helm",
+					"conjunto": "Havel's Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "900",
+					"_pieza_armadura_id": "pieza_armadura126"
+				},
+				{
+					"nombre": "Moonlight Robe",
+					"conjunto": "Gwyndolin Moonlight Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "80",
+					"_pieza_armadura_id": "pieza_armadura127"
+				},
+				{
+					"nombre": "Havel's Armor",
+					"conjunto": "Havel's Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "900",
+					"_pieza_armadura_id": "pieza_armadura128"
+				},
+				{
+					"nombre": "Moonlight Gloves",
+					"conjunto": "Gwyndolin Moonlight Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "80",
+					"_pieza_armadura_id": "pieza_armadura129"
+				},
+				{
+					"nombre": "Havel's Gauntlets",
+					"conjunto": "Havel's Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "900",
+					"_pieza_armadura_id": "pieza_armadura130"
+				},
+				{
+					"nombre": "Hollow Soldier Helm",
+					"conjunto": "Hollow Soldier Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura131"
+				},
+				{
+					"nombre": "Hollow Thief's Hood",
+					"conjunto": "Hollow Thief Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura132"
+				},
+				{
+					"nombre": "Moonlight Waistcloth",
+					"conjunto": "Gwyndolin Moonlight Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "80",
+					"_pieza_armadura_id": "pieza_armadura133"
+				},
+				{
+					"nombre": "Havel's Leggings",
+					"conjunto": "Havel's Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "900",
+					"_pieza_armadura_id": "pieza_armadura134"
+				},
+				{
+					"nombre": "Hollow Soldier Armor",
+					"conjunto": "Hollow Soldier Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura135"
+				},
+				{
+					"nombre": "Hollow Thief's Leather Armor",
+					"conjunto": "Hollow Thief Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura136"
+				},
+				{
+					"nombre": "Hollow Warrior Helm",
+					"conjunto": "Hollow Warrior Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura137"
+				},
+				{
+					"nombre": "Hollow Soldier Waistcloth",
+					"conjunto": "Hollow Soldier Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura138"
+				},
+				{
+					"nombre": "Hollow Thief's Tights",
+					"conjunto": "Hollow Thief Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura139"
+				},
+				{
+					"nombre": "Hollow Warrior Armor",
+					"conjunto": "Hollow Warrior Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura140"
+				},
+				{
+					"nombre": "Priest's Hat",
+					"conjunto": "Holy Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "350",
+					"_pieza_armadura_id": "pieza_armadura141"
+				},
+				{
+					"nombre": "Pharis's Hat",
+					"conjunto": "Hunter Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura142"
+				},
+				{
+					"nombre": "Golem Helm",
+					"conjunto": "Iron Golem Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura143"
+				},
+				{
+					"nombre": "Hollow Warrior Waistcloth",
+					"conjunto": "Hollow Warrior Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura144"
+				},
+				{
+					"nombre": "Holy Robe",
+					"conjunto": "Holy Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "350",
+					"_pieza_armadura_id": "pieza_armadura145"
+				},
+				{
+					"nombre": "Leather Armor",
+					"conjunto": "Hunter Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura146"
+				},
+				{
+					"nombre": "Golem Armor",
+					"conjunto": "Iron Golem Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura147"
+				},
+				{
+					"nombre": "Travelling Gloves",
+					"conjunto": "Holy Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "350",
+					"_pieza_armadura_id": "pieza_armadura148"
+				},
+				{
+					"nombre": "Leather Gloves",
+					"conjunto": "Hunter Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura149"
+				},
+				{
+					"nombre": "Golem Gauntlets",
+					"conjunto": "Iron Golem Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura150"
+				},
+				{
+					"nombre": "Iron Helm",
+					"conjunto": "Iron Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "350",
+					"_pieza_armadura_id": "pieza_armadura151"
+				},
+				{
+					"nombre": "Holy Trousers",
+					"conjunto": "Holy Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "350",
+					"_pieza_armadura_id": "pieza_armadura152"
+				},
+				{
+					"nombre": "Leather Boots",
+					"conjunto": "Hunter Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura153"
+				},
+				{
+					"nombre": "Golem Leggings",
+					"conjunto": "Iron Golem Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura154"
+				},
+				{
+					"nombre": "Armor of the Sun",
+					"conjunto": "Iron Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "350",
+					"_pieza_armadura_id": "pieza_armadura155"
+				},
+				{
+					"nombre": "Iron Bracelet",
+					"conjunto": "Iron Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "350",
+					"_pieza_armadura_id": "pieza_armadura156"
+				},
+				{
+					"nombre": "Knight Helm",
+					"conjunto": "Knight Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura157"
+				},
+				{
+					"nombre": "Porcelain Mask",
+					"conjunto": "Lord's Blade Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura158"
+				},
+				{
+					"nombre": "Iron Leggings",
+					"conjunto": "Iron Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "350",
+					"_pieza_armadura_id": "pieza_armadura159"
+				},
+				{
+					"nombre": "Knight Gauntlets",
+					"conjunto": "Knight Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura160"
+				},
+				{
+					"nombre": "Lord's Blade Robe",
+					"conjunto": "Lord's Blade Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura161"
+				},
+				{
+					"nombre": "Knight Leggings",
+					"conjunto": "Knight Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura162"
+				},
+				{
+					"nombre": "Lord's Blade Gloves",
+					"conjunto": "Lord's Blade Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura163"
+				},
+				{
+					"nombre": "Maiden Hood",
+					"conjunto": "Maiden Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura164"
+				},
+				{
+					"nombre": "Lord's Blade Waistcloth",
+					"conjunto": "Lord's Blade Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura165"
+				},
+				{
+					"nombre": "Maiden Robe",
+					"conjunto": "Maiden Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura166"
+				},
+				{
+					"nombre": "Ornstein's Helm",
+					"conjunto": "Ornstein's Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura167"
+				},
+				{
+					"nombre": "Maiden Gloves",
+					"conjunto": "Maiden Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura168"
+				},
+				{
+					"nombre": "Ornstein's Armor",
+					"conjunto": "Ornstein's Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura169"
+				},
+				{
+					"nombre": "Maiden Skirt",
+					"conjunto": "Maiden Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura170"
+				},
+				{
+					"nombre": "Ornstein's Gauntlets",
+					"conjunto": "Ornstein's Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura171"
+				},
+				{
+					"nombre": "Painting Guardian Hood",
+					"conjunto": "Painting Guardian Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura172"
+				},
+				{
+					"nombre": "Paladin Helm",
+					"conjunto": "Paladin Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura173"
+				},
+				{
+					"nombre": "Ornstein's Leggings",
+					"conjunto": "Ornstein's Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura174"
+				},
+				{
+					"nombre": "Painting Guardian Robe",
+					"conjunto": "Painting Guardian Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura175"
+				},
+				{
+					"nombre": "Paladin Armor",
+					"conjunto": "Paladin Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura176"
+				},
+				{
+					"nombre": "Painting Guardian Gloves",
+					"conjunto": "Painting Guardian Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura177"
+				},
+				{
+					"nombre": "Paladin Gauntlets",
+					"conjunto": "Paladin Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura178"
+				},
+				{
+					"nombre": "Tattered Cloth Hood",
+					"conjunto": "Pyromancer Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura179"
+				},
+				{
+					"nombre": "Helm of Thorns",
+					"conjunto": "Thorns Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura180"
+				},
+				{
+					"nombre": "Painting Guardian Waistcloth",
+					"conjunto": "Painting Guardian Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "150",
+					"_pieza_armadura_id": "pieza_armadura181"
+				},
+				{
+					"nombre": "Paladin Leggings",
+					"conjunto": "Paladin Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura182"
+				},
+				{
+					"nombre": "Tattered Cloth Robe",
+					"conjunto": "Pyromancer Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura183"
+				},
+				{
+					"nombre": "Armor of Thorns",
+					"conjunto": "Thorns Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura184"
+				},
+				{
+					"nombre": "Shadow Mask",
+					"conjunto": "Shadow Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura185"
+				},
+				{
+					"nombre": "Tattered Cloth Manchette",
+					"conjunto": "Pyromancer Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura186"
+				},
+				{
+					"nombre": "Gauntlets of Thorns",
+					"conjunto": "Thorns Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura187"
+				},
+				{
+					"nombre": "Silver Knight Helm",
+					"conjunto": "Silver Knight Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura188"
+				},
+				{
+					"nombre": "Shadow Garb",
+					"conjunto": "Shadow Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura189"
+				},
+				{
+					"nombre": "Heavy Boots",
+					"conjunto": "Pyromancer Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura190"
+				},
+				{
+					"nombre": "Leggings of Thorns",
+					"conjunto": "Thorns Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura191"
+				},
+				{
+					"nombre": "Silver Knight Armor",
+					"conjunto": "Silver Knight Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura192"
+				},
+				{
+					"nombre": "Smough's Helm",
+					"conjunto": "Smough's Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura193"
+				},
+				{
+					"nombre": "Sorcerer Hat",
+					"conjunto": "Sorcerer Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura194"
+				},
+				{
+					"nombre": "Shadow Leggings",
+					"conjunto": "Shadow Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura195"
+				},
+				{
+					"nombre": "Silver Knight Gauntlets",
+					"conjunto": "Silver Knight Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura196"
+				},
+				{
+					"nombre": "Smough's Armor",
+					"conjunto": "Smough's Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura197"
+				},
+				{
+					"nombre": "Sorcerer Cloak",
+					"conjunto": "Sorcerer Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura198"
+				},
+				{
+					"nombre": "Total",
+					"conjunto": "Shadow Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura199"
+				},
+				{
+					"nombre": "Silver Knight Leggings",
+					"conjunto": "Silver Knight Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "600",
+					"_pieza_armadura_id": "pieza_armadura200"
+				},
+				{
+					"nombre": "Smough's Gauntlets",
+					"conjunto": "Smough's Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura201"
+				},
+				{
+					"nombre": "Sorcerer Gauntlets",
+					"conjunto": "Sorcerer Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura202"
+				},
+				{
+					"nombre": "Steel Helm",
+					"conjunto": "Steel Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura203"
+				},
+				{
+					"nombre": "Stone Helm",
+					"conjunto": "Stone Knight Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura204"
+				},
+				{
+					"nombre": "Smough's Leggings",
+					"conjunto": "Smough's Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "700",
+					"_pieza_armadura_id": "pieza_armadura205"
+				},
+				{
+					"nombre": "Sorcerer Boots",
+					"conjunto": "Sorcerer Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "200",
+					"_pieza_armadura_id": "pieza_armadura206"
+				},
+				{
+					"nombre": "Steel Armor",
+					"conjunto": "Steel Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura207"
+				},
+				{
+					"nombre": "Stone Armor",
+					"conjunto": "Stone Knight Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura208"
+				},
+				{
+					"nombre": "Steel Gauntlets",
+					"conjunto": "Steel Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura209"
+				},
+				{
+					"nombre": "Stone Gauntlets",
+					"conjunto": "Stone Knight Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura210"
+				},
+				{
+					"nombre": "Thief Mask",
+					"conjunto": "Thief Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura211"
+				},
+				{
+					"nombre": "Steel Leggings",
+					"conjunto": "Steel Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "500",
+					"_pieza_armadura_id": "pieza_armadura212"
+				},
+				{
+					"nombre": "Stone Leggings",
+					"conjunto": "Stone Knight Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "800",
+					"_pieza_armadura_id": "pieza_armadura213"
+				},
+				{
+					"nombre": "Black Leather Armor",
+					"conjunto": "Thief Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura214"
+				},
+				{
+					"nombre": "Wanderer Hood",
+					"conjunto": "Wanderer Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura215"
+				},
+				{
+					"nombre": "Black Leather Gloves",
+					"conjunto": "Thief Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura216"
+				},
+				{
+					"nombre": "Wanderer Coat",
+					"conjunto": "Wanderer Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura217"
+				},
+				{
+					"nombre": "Black Leather Boots",
+					"conjunto": "Thief Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura218"
+				},
+				{
+					"nombre": "Wanderer Manchette",
+					"conjunto": "Wanderer Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura219"
+				},
+				{
+					"nombre": "Wanderer Boots",
+					"conjunto": "Wanderer Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura220"
+				},
+				{
+					"nombre": "Standard Helm",
+					"conjunto": "Warrior Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura221"
+				},
+				{
+					"nombre": "Hard Leather Armor",
+					"conjunto": "Warrior Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura222"
+				},
+				{
+					"nombre": "Hard Leather Gauntlets",
+					"conjunto": "Warrior Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura223"
+				},
+				{
+					"nombre": "Hard Leather Boots",
+					"conjunto": "Warrior Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura224"
+				},
+				{
+					"nombre": "Witch Hat",
+					"conjunto": "Witch Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura225"
+				},
+				{
+					"nombre": "Witch Cloak",
+					"conjunto": "Witch Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura226"
+				},
+				{
+					"nombre": "Witch Gloves",
+					"conjunto": "Witch Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura227"
+				},
+				{
+					"nombre": "Witch Skirt",
+					"conjunto": "Witch Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "250",
+					"_pieza_armadura_id": "pieza_armadura228"
+				},
+				{
+					"nombre": "Xanthous Crown",
+					"conjunto": "Xanthous Set",
+					"slot_armadura": "Cabeza",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura229"
+				},
+				{
+					"nombre": "Xanthous Overcoat",
+					"conjunto": "Xanthous Set",
+					"slot_armadura": "Torso",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura230"
+				},
+				{
+					"nombre": "Xanthous Gloves",
+					"conjunto": "Xanthous Set",
+					"slot_armadura": "Manos",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura231"
+				},
+				{
+					"nombre": "Xanthous Waistcloth",
+					"conjunto": "Xanthous Set",
+					"slot_armadura": "Piernas",
+					"durabilidad_max": "400",
+					"_pieza_armadura_id": "pieza_armadura232"
+				},
+				{
+					"nombre": "Estus Flask",
+					"tipo": "Consumables",
+					"descripcion": "Used to gather Estus at bonfires for HP recovery in the field",
+					"_item_id": "item0"
+				},
+				{
+					"nombre": "Humanity",
+					"tipo": "Consumables",
+					"descripcion": "Increases Humanity by 1 and fully restores HP when consumed.",
+					"_item_id": "item1"
+				},
+				{
+					"nombre": "Twin Humanities",
+					"tipo": "Consumables",
+					"descripcion": "Increases Humanity by 2 and fully restores HP when consumed.",
+					"_item_id": "item2"
+				},
+				{
+					"nombre": "Fire Keeper Soul",
+					"tipo": "Consumables",
+					"descripcion": "Used to upgrade Estus Flask to heal more HP per flaskCan also be used as an item to gain 5 Humanity (NOT recommended).",
+					"_item_id": "item3"
+				},
+				{
+					"nombre": "Divine Blessing",
+					"tipo": "Consumables",
+					"descripcion": "Healing Item which restores all health and removes all negative status ailments except for Curse.",
+					"_item_id": "item4"
+				},
+				{
+					"nombre": "Prism Stone",
+					"tipo": "Consumables",
+					"descripcion": "Used to determine height and lethality of a fall.",
+					"_item_id": "item5"
+				},
+				{
+					"nombre": "Repair Powder",
+					"tipo": "Consumables",
+					"descripcion": "Used to repair broken equipment without the need of a repair box or smith.",
+					"_item_id": "item6"
+				},
+				{
+					"nombre": "Transient Curse",
+					"tipo": "Consumables",
+					"descripcion": "Lets you damage ghosts for a limited time",
+					"_item_id": "item7"
+				},
+				{
+					"nombre": "Homeward Bone",
+					"tipo": "Consumables",
+					"descripcion": "Transports player to the last visited Bonfire without loss of souls or humanity.",
+					"_item_id": "item8"
+				},
+				{
+					"nombre": "Green Blossom",
+					"tipo": "Consumables",
+					"descripcion": "Temporary boost to stamina recovery speed",
+					"_item_id": "item9"
+				},
+				{
+					"nombre": "Bloodred Moss Clump",
+					"tipo": "Consumables",
+					"descripcion": "Reduces the accumulation of bleed",
+					"_item_id": "item10"
+				},
+				{
+					"nombre": "Purple Moss Clump",
+					"tipo": "Consumables",
+					"descripcion": "Reduces the accumulation of poison and cancels poisoned status",
+					"_item_id": "item11"
+				},
+				{
+					"nombre": "Blooming Purple Moss Clump",
+					"tipo": "Consumables",
+					"descripcion": "Reduces the accumulation of poison and toxic and cancels Toxic status",
+					"_item_id": "item12"
+				},
+				{
+					"nombre": "Purging Stone",
+					"tipo": "Consumables",
+					"descripcion": "Reduces curse build-up and breaks curse",
+					"_item_id": "item13"
+				},
+				{
+					"nombre": "Charcoal Pine Resin",
+					"tipo": "Consumables",
+					"descripcion": "Applies Fire to your right-hand weapon",
+					"_item_id": "item14"
+				},
+				{
+					"nombre": "Rotten Pine Resin",
+					"tipo": "Consumables",
+					"descripcion": "Applies Poison build-up to your right-hand weapon",
+					"_item_id": "item15"
+				},
+				{
+					"nombre": "Gold Pine Resin",
+					"tipo": "Consumables",
+					"descripcion": "Applies Lightning to your right-hand weapon",
+					"_item_id": "item16"
+				},
+				{
+					"nombre": "Egg Vermifuge",
+					"tipo": "Consumables",
+					"descripcion": "Removes parasitic egg from body",
+					"_item_id": "item17"
+				},
+				{
+					"nombre": "Elizabeth's Mushroom",
+					"tipo": "Consumables",
+					"descripcion": "Regenerates HP for 30 seconds",
+					"_item_id": "item18"
+				},
+				{
+					"nombre": "Standard Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "45",
+					"_item_id": "item19"
+				},
+				{
+					"nombre": "Large Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "60",
+					"_item_id": "item20"
+				},
+				{
+					"nombre": "Feather Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "50",
+					"_item_id": "item21"
+				},
+				{
+					"nombre": "Fire Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "35",
+					"_item_id": "item22"
+				},
+				{
+					"nombre": "Poison Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "42",
+					"_item_id": "item23"
+				},
+				{
+					"nombre": "Moonlight Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "0",
+					"_item_id": "item24"
+				},
+				{
+					"nombre": "Wooden Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "35",
+					"_item_id": "item25"
+				},
+				{
+					"nombre": "Dragonslayer Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "100",
+					"_item_id": "item26"
+				},
+				{
+					"nombre": "Gough's Great Arrow",
+					"tipo": "Ammunition",
+					"descripcion": "105",
+					"_item_id": "item27"
+				},
+				{
+					"nombre": "Standard Bolt",
+					"tipo": "Ammunition",
+					"descripcion": "48",
+					"_item_id": "item28"
+				},
+				{
+					"nombre": "Heavy Bolt",
+					"tipo": "Ammunition",
+					"descripcion": "64",
+					"_item_id": "item29"
+				},
+				{
+					"nombre": "Sniper Bolt",
+					"tipo": "Ammunition",
+					"descripcion": "53",
+					"_item_id": "item30"
+				},
+				{
+					"nombre": "Wood Bolt",
+					"tipo": "Ammunition",
+					"descripcion": "38",
+					"_item_id": "item31"
+				},
+				{
+					"nombre": "Lightning Bolt",
+					"tipo": "Ammunition",
+					"descripcion": "38",
+					"_item_id": "item32"
+				},
+				{
+					"nombre": "Large Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +5 Normal weapons into +10 Normal.\nModify +5 Normal weapons into +5 Raw.\nBlacksmith: Andre",
+					"_item_id": "item33"
+				},
+				{
+					"nombre": "Very Large Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +10 Normal weapons into +15 Normal.\nBlacksmith: Andre",
+					"_item_id": "item34"
+				},
+				{
+					"nombre": "Divine Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +5 Normal weapons into +5 Divine.\nBlacksmith: Andre",
+					"_item_id": "item35"
+				},
+				{
+					"nombre": "Large Divine Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +5 Divine weapons into +10 Divine.\nBlacksmith: Andre",
+					"_item_id": "item36"
+				},
+				{
+					"nombre": "Dark Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +5 Divine weapons into +5 Occult.\nBlacksmith: Andre",
+					"_item_id": "item37"
+				},
+				{
+					"nombre": "Large Magic Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +5 Magic weapons into +10 Magic.\nBlacksmith: Rickert",
+					"_item_id": "item38"
+				},
+				{
+					"nombre": "Enchanted Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +5 Magic weapons into +5 Enchanted.\nBlacksmith: Rickert",
+					"_item_id": "item39"
+				},
+				{
+					"nombre": "Crystal Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +10 Normal weapons into +5 Crystal.\nBlacksmith: Giant Blacksmith",
+					"_item_id": "item40"
+				},
+				{
+					"nombre": "Large Flame Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +5 Fire weapons into +10 Fire.\nBlacksmith: Blacksmith Vamos",
+					"_item_id": "item41"
+				},
+				{
+					"nombre": "Chaos Flame Ember",
+					"tipo": "Embers",
+					"descripcion": "Modify +5 Fire weapons into +5 Chaos.\nBlacksmith: Blacksmith Vamos",
+					"_item_id": "item42"
+				},
+				{
+					"nombre": "Repairbox",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Used to repair damaged equipment.Only needs to be bought once, but you still need to use souls as you would if a Blacksmith did the repair for you.",
+					"_item_id": "item43"
+				},
+				{
+					"nombre": "Weapon Smithbox",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Tool used to etch Titanite into weapons for reinforcement.Only needs to be bought once, but you still need to use souls as you would if a Blacksmith did the reinforcement for you.Some upgrades, especially the first branch of a new upgrade path, require a Blacksmith.Example: You must have Blacksmith turn a +5 weapon into a divine weapon,but you can then use the smithbox to upgrade to Divine level +1..+5",
+					"_item_id": "item44"
+				},
+				{
+					"nombre": "Armor Smithbox",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Tool used to etch titanite into armor for reinforcement.Only needs to be bought once, but you still need to use souls as you would if a Blacksmith did the reinforcement for you.",
+					"_item_id": "item45"
+				},
+				{
+					"nombre": "Bottomless Box",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Store excess items without limit.",
+					"_item_id": "item46"
+				},
+				{
+					"nombre": "Rite of Kindling",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Kindle bonfires past their limit.",
+					"_item_id": "item47"
+				},
+				{
+					"nombre": "Lordvessel",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Warp between Bonfires. This only applies to certain bonfires.Unlock final area, the Kiln of the First Flame.",
+					"_item_id": "item48"
+				},
+				{
+					"nombre": "Soul of Four Kings",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Kindle Lordvessel at Firelink Altar.",
+					"_item_id": "item49"
+				},
+				{
+					"nombre": "Soul of Seath the Scaleless",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Kindle Lordvessel at Firelink Altar.",
+					"_item_id": "item50"
+				},
+				{
+					"nombre": "Soul of Gravelord Nito",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Kindle Lordvessel at Firelink Altar",
+					"_item_id": "item51"
+				},
+				{
+					"nombre": "Soul of Bed of Chaos",
+					"tipo": "Key Bonfire Items",
+					"descripcion": "Kindle Lordvessel at Firelink Altar",
+					"_item_id": "item52"
+				},
+				{
+					"nombre": "Master Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Gotten by choosing it as a gift, or the thief class, at the start of the game. Buy it for 5,000 souls from Domhnall of Zena  after he moves under the bridge by Firelink Shrine.\nUnlocks Location: Unlocks many locks in the early areas. See which locks it opens in the MK section to the right, or on the Master Key page.\nIn Master Key?: MK",
+					"_item_id": "item53"
+				},
+				{
+					"nombre": "Dungeon Cell Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Northern Undead Asylum. On corpse dropped into cell.\nUnlocks Location: Northern Undead Asylum. Cell door.\nIn Master Key?: No",
+					"_item_id": "item54"
+				},
+				{
+					"nombre": "Undead Asylum F2 East Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Undead Asylum. Gift from Oscar of Astora.\nUnlocks Location: Undead Asylum. Door behind boulder trap.\nIn Master Key?: No",
+					"_item_id": "item55"
+				},
+				{
+					"nombre": "Undead Asylum F2 West Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Firelink Shrine. Roof of building flooded with water. Accessible after unlocking lift to Undead Church.\nUnlocks Location: Undead Asylum. Open the door guarded by Elite Undead, leads to Rusted Iron Ring.\nIn Master Key?: No",
+					"_item_id": "item56"
+				},
+				{
+					"nombre": "Big Pilgrim's Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Dropped by Asylum Demon. Also given by Oscar of Astora if the Asylum Demon is slain before acquiring the Estus Flask.\nUnlocks Location: Undead Asylum. Exit Asylum.\nIn Master Key?: No",
+					"_item_id": "item57"
+				},
+				{
+					"nombre": "Residence Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Undead Burg. Bought from Undead Merchant.\nUnlocks Location:  Access 3x Gold Pine Resin in a residence in Undead Burg.Frees Griggs of Vinheim in Lower Undead Burg. \nIn Master Key?: Yes",
+					"_item_id": "item58"
+				},
+				{
+					"nombre": "Mystery Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Undead Parish. On the rafters behind a ladder in the room under the Fang Boar.\nUnlocks Location: Frees Lautrec. Behind a breakable door, on the second floor of the Undead Church.\nIn Master Key?: Yes",
+					"_item_id": "item59"
+				},
+				{
+					"nombre": "Basement Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Found on the steps to Undead Church, right behind the big gate.\nUnlocks Location: Unlocks the small door at the start of the Hellkite bridge, leading to Lower Undead Burg\nIn Master Key?: No",
+					"_item_id": "item60"
+				},
+				{
+					"nombre": "Key to Depths",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Lower Undead Burg. Dropped by Capra Demon.\nUnlocks Location: Unlocks the door to the Depths. Go right just before the Capra Demon's fog wall, the door is at the bottom of the tower by two thieves.\nIn Master Key?: No",
+					"_item_id": "item61"
+				},
+				{
+					"nombre": "Sewer Chamber Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Depths. On a corpse in the room with the giant rat. The key is also accessible from the other side of the iron bars.\nUnlocks Location: Unlocks Bonfire room in the first slime-hallway in Depths.\nIn Master Key?: Yes",
+					"_item_id": "item62"
+				},
+				{
+					"nombre": "Blighttown Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Depths. Dropped by Gaping Dragon.\nUnlocks Location: Unlocks Blighttown. Huge doors beside Domhnall of Zena (sewer merchant) in Depths.\nIn Master Key?: No",
+					"_item_id": "item63"
+				},
+				{
+					"nombre": "Watchtower Basement Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Darkroot Garden. On top of the tower, after crossing the Moonlight Butterfly bridge.\nUnlocks Location: Unlock shortcut between Undead Burg and Darkroot Basin, guarded by Havel.\nIn Master Key?: Yes",
+					"_item_id": "item64"
+				},
+				{
+					"nombre": "Key to New Londo Ruins",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Blighttown. In the Chest at the end of the cave, when entering from the Valley of Drakes.\nUnlocks Location: Unlocks shortcut between New Londo Ruins and Valley of Drakes.\nIn Master Key?: Yes",
+					"_item_id": "item65"
+				},
+				{
+					"nombre": "Key to the Seal",
+					"tipo": "Keys",
+					"descripcion": "Found Location: New Londo Ruins. Gift from Ingward after getting the Lordvessel. He will also drop it if killed.\nUnlocks Location: Access lower New Londo, Valley of Drakes (2nd entrance) and The Abyss.\nIn Master Key?: No",
+					"_item_id": "item66"
+				},
+				{
+					"nombre": "Cage Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Sen's Fortress. At the bottom of the tower with Crestfallen Merchant. Jump across the broken bridge to access the tower.\nUnlocks Location:  Unlocks hidden cages in Sen's Fortress. Frees Logan and a Soul of a Hero.Unlocks cage elevator in Sen's Fortress. \nIn Master Key?: Yes",
+					"_item_id": "item67"
+				},
+				{
+					"nombre": "Archive Tower Cell Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: The Duke's Archives. Dropped by the sleeping Man-Serpent just outside the bonfire.\nUnlocks Location: Opens prison in Archive Tower. Opens the third door down from the bonfire.\nIn Master Key?: No",
+					"_item_id": "item68"
+				},
+				{
+					"nombre": "Archive Prison Extra Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: The Duke's Archives. Found on corpse after dropping down from cell 3 to 4.\nUnlocks Location: Opens the other cell doors in Archive Tower. Also opens the second door in the Bonfire cell, and a shortcut to the gramophone.\nIn Master Key?: No",
+					"_item_id": "item69"
+				},
+				{
+					"nombre": "Archive Tower Giant Door Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: The Duke's Archives. Found in the chest behind the gramophone.\nUnlocks Location: Exit Archive Tower.\nIn Master Key?: No",
+					"_item_id": "item70"
+				},
+				{
+					"nombre": "Archive Tower Giant Cell Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: The Duke's Archives. Found in the chest at the bottom of the Archives, by the exit to the Crystal Cave.\nUnlocks Location: Opens the cell behind the Pisacas. Free Big Hat Logan.\nIn Master Key?: No",
+					"_item_id": "item71"
+				},
+				{
+					"nombre": "Annex Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Painted World of Ariamis.Found in the underground sewers section, located in a dead end behind an illusory wall.\nUnlocks Location: Opens Annex in Painted World. Get Dark Ember.\nIn Master Key?: No",
+					"_item_id": "item72"
+				},
+				{
+					"nombre": "Crest of Artorias",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Bought from Blacksmith Andre for 20,000 souls. Dropped by Blacksmith Andre\nUnlocks Location: Opens the sealed gate within Darkroot Garden.\nIn Master Key?: No",
+					"_item_id": "item73"
+				},
+				{
+					"nombre": "Peculiar Doll",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Undead Asylum, found near the Dungeon Cell Key after Firelink Shrine has been visited.\nUnlocks Location: Access Painted World of Ariamis.\nIn Master Key?: No",
+					"_item_id": "item74"
+				},
+				{
+					"nombre": "Broken Pendant",
+					"tipo": "Keys",
+					"descripcion": "Found Location: The Duke's Archives. Dropped by the Crystal Golem after the first elevator. Dusk of Oolacile must have been rescued for the pendant to drop. (AotA only)\nUnlocks Location: Access Lost Oolacile from the Darkroot Basin.\nIn Master Key?: No",
+					"_item_id": "item75"
+				},
+				{
+					"nombre": "Crest Key",
+					"tipo": "Keys",
+					"descripcion": "Found Location: Oolacile Township. Found inside a Mimic near a lit fireplace. (AotA only)\nUnlocks Location: Access Hawkeye Gough.\nIn Master Key?: No",
+					"_item_id": "item76"
+				},
+				{
+					"nombre": "Orange Guidance Soapstone",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Online play item used to write and rate messages left by other players.",
+					"_item_id": "item77"
+				},
+				{
+					"nombre": "White Sign Soapstone",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Online play item used to leave a summon sign for cooperative play.",
+					"_item_id": "item78"
+				},
+				{
+					"nombre": "Black Separation Crystal",
+					"tipo": "Multiplayer Items",
+					"descripcion": "The crystal sends phantoms back to their world or sends you back to yours.",
+					"_item_id": "item79"
+				},
+				{
+					"nombre": "Red Sign Soapstone",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Online play item used to leave summon sign for competitive play.",
+					"_item_id": "item80"
+				},
+				{
+					"nombre": "Cracked Red Eye Orb",
+					"tipo": "Multiplayer Items",
+					"descripcion": "This consumable item will allow you to invade another player's world.",
+					"_item_id": "item81"
+				},
+				{
+					"nombre": "Red Eye Orb",
+					"tipo": "Multiplayer Items",
+					"descripcion": "This reusable item allows the player to invade another player's world.",
+					"_item_id": "item82"
+				},
+				{
+					"nombre": "Blue Eye Orb",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Invade the world of a sinner.",
+					"_item_id": "item83"
+				},
+				{
+					"nombre": "Dried Finger",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Resets invasion timer.",
+					"_item_id": "item84"
+				},
+				{
+					"nombre": "Book of the Guilty",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Online play item. Checklist of indicted players.",
+					"_item_id": "item85"
+				},
+				{
+					"nombre": "Indictment",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Online play item. Indict invader.",
+					"_item_id": "item86"
+				},
+				{
+					"nombre": "Servant Roster",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Check servants of the Daughters of Chaos.",
+					"_item_id": "item87"
+				},
+				{
+					"nombre": "Dragon Eye",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Invade the world of a possessor of a Dragon Scale.",
+					"_item_id": "item88"
+				},
+				{
+					"nombre": "Eye Of Death",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Lure Phantoms from other worlds.",
+					"_item_id": "item89"
+				},
+				{
+					"nombre": "Sunlight Medal",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Used to rank up in the Warriors of Sunlight covenant",
+					"_item_id": "item90"
+				},
+				{
+					"nombre": "Souvenir of Reprisal",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Used to rank up in the Blades of the Darkmoon covenant",
+					"_item_id": "item91"
+				},
+				{
+					"nombre": "Purple Coward's Crystal",
+					"tipo": "Multiplayer Items",
+					"descripcion": "Online play item used to exit Battle of Stoicism. (AotA Only)",
+					"_item_id": "item92"
+				},
+				{
+					"nombre": "Titanite Shard",
+					"tipo": "Ore",
+					"descripcion": "Reinforce standard weapons to +5 Reinforce standard armor to +3",
+					"_item_id": "item93"
+				},
+				{
+					"nombre": "Large Titanite Shard",
+					"tipo": "Ore",
+					"descripcion": "Reinforce standard weapons to +10, Raw weapons to +5 Reinforce standard armor to +6",
+					"_item_id": "item94"
+				},
+				{
+					"nombre": "Titanite Chunk",
+					"tipo": "Ore",
+					"descripcion": "Reinforce standard weapons to +14, Crystal and Lightning weapons to +4, Reinforce standard armor to +9",
+					"_item_id": "item95"
+				},
+				{
+					"nombre": "Titanite Slab",
+					"tipo": "Ore",
+					"descripcion": "Reinforce standard weapons to +15, Crystal and Lightning weapons to +5, Reinforce standard armor to +10",
+					"_item_id": "item96"
+				},
+				{
+					"nombre": "Green Titanite Shard",
+					"tipo": "Ore",
+					"descripcion": "Reinforce Magic, Divine, and Fire weapons to +5",
+					"_item_id": "item97"
+				},
+				{
+					"nombre": "Blue Titanite Chunk",
+					"tipo": "Ore",
+					"descripcion": "Reinforce Magic weapons to +9, Enchanted weapons to +4",
+					"_item_id": "item98"
+				},
+				{
+					"nombre": "Blue Titanite Slab",
+					"tipo": "Ore",
+					"descripcion": "Reinforce Magic weapons to +10, Enchanted weapons to +5",
+					"_item_id": "item99"
+				},
+				{
+					"nombre": "Red Titanite Chunk",
+					"tipo": "Ore",
+					"descripcion": "Reinforce Fire weapons to +9, Chaos weapons to +4",
+					"_item_id": "item100"
+				},
+				{
+					"nombre": "Red Titanite Slab",
+					"tipo": "Ore",
+					"descripcion": "Reinforce Fire weapons to +10, Chaos weapons to +5",
+					"_item_id": "item101"
+				},
+				{
+					"nombre": "White Titanite Chunk",
+					"tipo": "Ore",
+					"descripcion": "Reinforce Divine weapons to +9, Occult weapons to +4",
+					"_item_id": "item102"
+				},
+				{
+					"nombre": "White Titanite Slab",
+					"tipo": "Ore",
+					"descripcion": "Reinforce Divine weapons to +10, Occult weapons to +5",
+					"_item_id": "item103"
+				},
+				{
+					"nombre": "Twinkling Titanite",
+					"tipo": "Ore",
+					"descripcion": "Reinforce non-infusable weapons and rare armor to +5",
+					"_item_id": "item104"
+				},
+				{
+					"nombre": "Demon Titanite",
+					"tipo": "Ore",
+					"descripcion": "Reinforce weapons made with Boss Souls to +5",
+					"_item_id": "item105"
+				},
+				{
+					"nombre": "Dragon Scale",
+					"tipo": "Ore",
+					"descripcion": "Reinforce Dragon weapons to +5",
+					"_item_id": "item106"
+				},
+				{
+					"nombre": "Firebomb",
+					"tipo": "Projectiles",
+					"descripcion": "Throwable item. Deals AOE fire damage.",
+					"_item_id": "item107"
+				},
+				{
+					"nombre": "Black Firebomb",
+					"tipo": "Projectiles",
+					"descripcion": "Throwable item. Deals heavy AOE fire damage.",
+					"_item_id": "item108"
+				},
+				{
+					"nombre": "Dung Pie",
+					"tipo": "Projectiles",
+					"descripcion": "Throwable item. Inflicts toxic status on enemies and the user.",
+					"_item_id": "item109"
+				},
+				{
+					"nombre": "Throwing Knife",
+					"tipo": "Projectiles",
+					"descripcion": "Projectile that deals light damage.",
+					"_item_id": "item110"
+				},
+				{
+					"nombre": "Poison Throwing Knife",
+					"tipo": "Projectiles",
+					"descripcion": "Projectile that deals poison damage.",
+					"_item_id": "item111"
+				},
+				{
+					"nombre": "Alluring Skull",
+					"tipo": "Projectiles",
+					"descripcion": "Throwable item. Attracts some enemies.",
+					"_item_id": "item112"
+				},
+				{
+					"nombre": "Lloyd's Talisman",
+					"tipo": "Projectiles",
+					"descripcion": "Throwable item. Prevents the use of Estus within the area of effect.",
+					"_item_id": "item113"
+				},
+				{
+					"nombre": "Soul of a Lost Undead",
+					"tipo": "Souls",
+					"descripcion": "Gives 200 souls when consumed. Can be sold to Frampt for 500 souls.",
+					"_item_id": "item114"
+				},
+				{
+					"nombre": "Large Soul of a Lost Undead",
+					"tipo": "Souls",
+					"descripcion": "Gives 400 souls when consumed. Can be sold to Frampt for 500 souls.",
+					"_item_id": "item115"
+				},
+				{
+					"nombre": "Soul of a Nameless Soldier",
+					"tipo": "Souls",
+					"descripcion": "Gives 800 souls when consumed.",
+					"_item_id": "item116"
+				},
+				{
+					"nombre": "Large Soul of a Nameless Soldier",
+					"tipo": "Souls",
+					"descripcion": "Gives 1,000 souls when consumed.",
+					"_item_id": "item117"
+				},
+				{
+					"nombre": "Soul of a Proud Knight",
+					"tipo": "Souls",
+					"descripcion": "Gives 2,000 souls when consumed.",
+					"_item_id": "item118"
+				},
+				{
+					"nombre": "Large Soul of a Proud Knight",
+					"tipo": "Souls",
+					"descripcion": "Gives 3,000 souls when consumed.",
+					"_item_id": "item119"
+				},
+				{
+					"nombre": "Soul of a Brave Warrior",
+					"tipo": "Souls",
+					"descripcion": "Gives 5,000 souls when consumed.",
+					"_item_id": "item120"
+				},
+				{
+					"nombre": "Large Soul of a Brave Warrior",
+					"tipo": "Souls",
+					"descripcion": "Gives 8,000 souls when consumed.",
+					"_item_id": "item121"
+				},
+				{
+					"nombre": "Soul of a Hero",
+					"tipo": "Souls",
+					"descripcion": "Gives 10,000 souls when consumed.",
+					"_item_id": "item122"
+				},
+				{
+					"nombre": "Soul of a Great Hero",
+					"tipo": "Souls",
+					"descripcion": "Gives 20,000 souls when consumed.",
+					"_item_id": "item123"
+				},
+				{
+					"nombre": "Soul of the Moonlight Butterfly",
+					"tipo": "Souls",
+					"descripcion": "Moonlight Butterfly Horn (Ascended from +10 spear weapons) \n        Crystal Ring Shield (Ascended from +10 shields) \n        1,200 souls if consumed. Can also be sold to Kingseeker Frampt for 8,000 souls.",
+					"_item_id": "item124"
+				},
+				{
+					"nombre": "Soul of Quelaag",
+					"tipo": "Souls",
+					"descripcion": "Quelaag's Furysword (Ascended from +10 curved sword) \n        Chaos Blade (Ascended from +10 katana sword) \n        Gives 8,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls.",
+					"_item_id": "item125"
+				},
+				{
+					"nombre": "Core of an Iron Golem",
+					"tipo": "Souls",
+					"descripcion": "Dragon Bone Fist (Ascended from +10 fist weapons) \n        Golem Axe (Ascended from +10 axe weapons) \n        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 8,000 souls (less value).",
+					"_item_id": "item126"
+				},
+				{
+					"nombre": "Soul of Gwyndolin",
+					"tipo": "Souls",
+					"descripcion": "Darkmoon Bow (Ascended from +10 bow weapons) \n        Tin Darkmoon Catalyst (Ascended from cane catalyst) \n        Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 20,000 souls.",
+					"_item_id": "item127"
+				},
+				{
+					"nombre": "Soul of Ornstein",
+					"tipo": "Souls",
+					"descripcion": "Dragonslayer Spear (Ascended from +10 spear weapons) \n        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 8,000 souls (less value).",
+					"_item_id": "item128"
+				},
+				{
+					"nombre": "Soul of Smough",
+					"tipo": "Souls",
+					"descripcion": "Smough's Hammer (Ascended from +10 strike weapons) \n        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 1 (one) soul (less value).",
+					"_item_id": "item129"
+				},
+				{
+					"nombre": "Soul of (Great Wolf) Sif",
+					"tipo": "Souls",
+					"descripcion": "Greatsword of Artorias (Ascended from +10 Broken Straight Sword or Straight Sword Hilt) \n        Greatsword of Artorias (Cursed) (Ascended from +10 great sword weapons) \n        Greatshield of Artorias (Ascended from +10 shields) \n        Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 4,000 souls (less value).",
+					"_item_id": "item130"
+				},
+				{
+					"nombre": "Soul of Priscilla",
+					"tipo": "Souls",
+					"descripcion": "Lifehunt Scythe (Ascended from +10 scythe or whip weapons) \n        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 15,000 souls.",
+					"_item_id": "item131"
+				},
+				{
+					"nombre": "Soul of Gwyn, Lord of Cinder",
+					"tipo": "Souls",
+					"descripcion": "Great Lord Greatsword (Ascended from +10 greatsword weapons) \n        Sunlight Spear (10 Sunlight Medals at Sunlight Altar) \n        Gives 20,000 souls when consumed. Can also be sold to Kingseeker Frampt for 40,000 souls.",
+					"_item_id": "item132"
+				},
+				{
+					"nombre": "Guardian Soul",
+					"tipo": "Souls",
+					"descripcion": "(AotA Only) \n        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value).",
+					"_item_id": "item133"
+				},
+				{
+					"nombre": "Soul of Artorias",
+					"tipo": "Souls",
+					"descripcion": "(AotA Only) \n        Abyss Greatsword (Ascended from +10 greatsword weapons) \n        Dark Silver Tracer and Gold Tracer (give soul to Ciaran, or kill her) \n        Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value).",
+					"_item_id": "item134"
+				},
+				{
+					"nombre": "Soul of Manus",
+					"tipo": "Souls",
+					"descripcion": "(AotA Only) \n        Manus Catalyst (Ascended from catalysts) \n        Pursuers (trade to Snuggly) \n        Gives 18,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value).",
+					"_item_id": "item135"
+				},
+				{
+					"nombre": "Skull Lantern",
+					"tipo": "Tools",
+					"descripcion": "Holding it in the left hand (shield-hand) and holding L1 or LB causes it to light an area around the character like a torch.",
+					"_item_id": "item136"
+				},
+				{
+					"nombre": "Binoculars",
+					"tipo": "Tools",
+					"descripcion": "Using it as an item causes you to use the binoculars to see further.Can be used to aim Crossbows for long-distance shooting.",
+					"_item_id": "item137"
+				},
+				{
+					"nombre": "Darksign",
+					"tipo": "Tools",
+					"descripcion": "Sends the user back to the last used bonfire upon death.Can be used as an item (unlimited uses) to warp back to previous bonfire at any point, losing all souls and humanity",
+					"_item_id": "item138"
+				},
+				{
+					"nombre": "Dragon Head Stone",
+					"tipo": "Tools",
+					"descripcion": "Turns your head into one of a dragon.",
+					"_item_id": "item139"
+				},
+				{
+					"nombre": "Dragon Torso Stone",
+					"tipo": "Tools",
+					"descripcion": "Turns you completely into a Dragonoid.",
+					"_item_id": "item140"
+				},
+				{
+					"nombre": "Black Eye Orb",
+					"tipo": "Tools",
+					"descripcion": "Invade the world of the murderer of a firekeeper",
+					"_item_id": "item141"
+				},
+				{
+					"nombre": "Silver Pendant",
+					"tipo": "Tools",
+					"descripcion": "Creates a field around the player that deflects Dark Magic for a few seconds. It is activated in a way similar to Force, though the player is able to move briefly whilst the pendant is still in effect.",
+					"_item_id": "item142"
+				},
+				{
+					"nombre": "Pendant",
+					"tipo": "Unequippable",
+					"descripcion": "Appears to have no use. Can be chosen as a gift upon character creation. Dropped by Reah of Thorolund if Petrus kills her. Rare drop from invaders in Darkroot Garden. Can be traded with Snuggly for a Souvenir of Reprisal.",
+					"_item_id": "item143"
+				},
+				{
+					"nombre": "Rubbish",
+					"tipo": "Unequippable",
+					"descripcion": "It has no value. Found by dropping down, to the area below, right in front of the first fog door in Undead Burg.Possible reward from defeating a trespasser while in the Forest Hunters. Can be traded with Snuggly for a Titanite Chunk.",
+					"_item_id": "item144"
+				},
+				{
+					"nombre": "Copper Coin",
+					"tipo": "Unequippable",
+					"descripcion": "Coin made of copper. Its face shows an image of Old Man McLoyf, god of medicine and drink. Talk to Petrus of Thorolund a couple times before Reah arrives and he will give you one. Can be sold to Kingseeker Frampt for 1.000 souls.",
+					"_item_id": "item145"
+				},
+				{
+					"nombre": "Silver Coin",
+					"tipo": "Unequippable",
+					"descripcion": "Coin made of silver, with the portrait of the legendary Knight King Rendal on its face. A Mimic in Anor Londo drops 5 of these. Can be sold to Kingseeker Frampt for 3.000 souls.",
+					"_item_id": "item146"
+				},
+				{
+					"nombre": "Gold Coin",
+					"tipo": "Unequippable",
+					"descripcion": "Coin made of gold, with Allfather Lloyd and his white halo shown on its face. Dropped by a Mimic in Anor Londo. Found on a body in the Painted World. Can be sold to Kingseeker Frampt for 5.000 souls.",
+					"_item_id": "item147"
+				},
+				{
+					"nombre": "Soul Arrow",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Fires a magical projectile. Excellent starting spell which does very good damage against most enemies in the early game areas.",
+					"_hechizo_id": "hechizo0"
+				},
+				{
+					"nombre": "Great Soul Arrow",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Stronger soul arrow, same cast time as soul arrow, fewer uses.",
+					"_hechizo_id": "hechizo1"
+				},
+				{
+					"nombre": "Heavy Soul Arrow",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Stronger than greater soul arrow, longer casting time.",
+					"_hechizo_id": "hechizo2"
+				},
+				{
+					"nombre": "Great Heavy Soul Arrow",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Stronger than heavy soul arrow, fewer uses. Has a slow cast time, but deals a tremendous amount of damage, even against bosses.",
+					"_hechizo_id": "hechizo3"
+				},
+				{
+					"nombre": "Homing Soulmass",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Fires multiple, homing magic projectiles. Can be successfully cast without an initial \"lock on\". Multiple soul arrows will hover above the player. Each individual soul arrow will seek the closest target, in the direction the player is facing, when in range. Because the spell can be cast in advance, it has a unique advantage in that, if timed correctly, it can be cast in synchronicity with other attacks.",
+					"_hechizo_id": "hechizo4"
+				},
+				{
+					"nombre": "Homing Crystal Soulmass",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Fires multiple, homing crystal projectiles. Can be successfully cast without an initial \"lock on\". Multiple crystal arrows will hover above the player. Each individual soul arrow will seek the closest target, in the direction the player is facing, when in range.",
+					"_hechizo_id": "hechizo5"
+				},
+				{
+					"nombre": "Soul Spear",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Fire piercing soul spear.",
+					"_hechizo_id": "hechizo6"
+				},
+				{
+					"nombre": "Crystal Soul Spear",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Fire an even more powerful, piercing ranged attack.",
+					"_hechizo_id": "hechizo7"
+				},
+				{
+					"nombre": "White Dragon Breath",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "A straight line of crystals pop out of the ground in front of you, shooting towards your target. One advantage of this spell is that it will take out large groups of enemies if they are lined up one behind the other. It has a medium cast time, but once it fires, it will take out anything in its path. 20 casts make this a great high level replacement for the soul arrow at high levels, as it's not as useful on most bosses.",
+					"_hechizo_id": "hechizo8"
+				},
+				{
+					"nombre": "Magic Weapon",
+					"tipo": "Sorcery - Weapon Buff",
+					"efecto": "Enhances the right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 0.8x your Magic Adjustment stat (NOT Intelligence) magic damage to your weapon.",
+					"_hechizo_id": "hechizo9"
+				},
+				{
+					"nombre": "Great Magic Weapon",
+					"tipo": "Sorcery - Weapon Buff",
+					"efecto": "Enhances the right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 1.1x your Magic Adjustment stat (NOT Intelligence) magic damage to your weapon.",
+					"_hechizo_id": "hechizo10"
+				},
+				{
+					"nombre": "Crystal Magic Weapon",
+					"tipo": "Sorcery - Weapon Buff",
+					"efecto": "Enhances and crystallizes right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 1.4x your Magic Adjustment stat (NOT Intelligence) as magic damage to your weapon.",
+					"_hechizo_id": "hechizo11"
+				},
+				{
+					"nombre": "Magic Shield",
+					"tipo": "Sorcery - Support Defense (",
+					"efecto": "Reinforces the equipped shield or weapon able to block in the left hand with magic. Works on all types of shields (even unique or upgraded to any path) and on all weapons able to block while on the left hand (even unique or upgraded to any path). Halves stamina used on hit deflection (only on shields) and improves the weapon's or shield's magic resistance by 30% (by up to a maximum of 90%). Lasts 15 seconds, 5 casts.",
+					"_hechizo_id": "hechizo12"
+				},
+				{
+					"nombre": "Strong Magic Shield",
+					"tipo": "Sorcery - Support Defense (",
+					"efecto": "Reinforces the equipped shield or weapon able to block in the left hand with a stronger magic effect. Works on all types of shields (even unique or upgraded to any path) and on all weapons able to block while on the left hand (even unique or upgraded to any path). Reduces the stamina used to deflect a hit considerably (only on shields) and improves all the resistances of the shield or weapon enchanted to 100%. Lasts 15 seconds, 3 casts.",
+					"_hechizo_id": "hechizo13"
+				},
+				{
+					"nombre": "Aural Decoy",
+					"tipo": "Sorcery - Support Defense",
+					"efecto": "Lures enemies away by creating a sound originating in the distance.",
+					"_hechizo_id": "hechizo14"
+				},
+				{
+					"nombre": "Hush",
+					"tipo": "Sorcery - Support Defense (",
+					"efecto": "Masks all noises of caster.",
+					"_hechizo_id": "hechizo15"
+				},
+				{
+					"nombre": "Fall Control",
+					"tipo": "Sorcery - Support Defense (",
+					"efecto": "Reduces damage and noise from fall. However, terminal falls will still kill you even with this active.",
+					"_hechizo_id": "hechizo16"
+				},
+				{
+					"nombre": "Hidden Weapon",
+					"tipo": "Sorcery - Support (",
+					"efecto": "Turns your right hand weapon invisible. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too.",
+					"_hechizo_id": "hechizo17"
+				},
+				{
+					"nombre": "Hidden Body",
+					"tipo": "Sorcery - Support (",
+					"efecto": "Masks your presence, making detection harder.",
+					"_hechizo_id": "hechizo18"
+				},
+				{
+					"nombre": "Repair",
+					"tipo": "Sorcery - Support",
+					"efecto": "Repairs weapons and armor",
+					"_hechizo_id": "hechizo19"
+				},
+				{
+					"nombre": "Cast Light",
+					"tipo": "Sorcery - Support",
+					"efecto": "Cast a bright light upon surroundings, and lasts 5 minutes. Particularly useful for Tomb of Giants",
+					"_hechizo_id": "hechizo20"
+				},
+				{
+					"nombre": "Chameleon",
+					"tipo": "Sorcery - Support",
+					"efecto": "Transform the caster into an inanimate object. Generally, the object you become is something common to the area you are in. Could be a vase, or a box, etc. Some strategy must be used, and the most effective is to place yourself in a cluster of similar objects. Once cast, you can move slowly and position yourself. If done properly, an enemy will walk by you and never know you're there. Cannot run when using, any other action breaks the effect.",
+					"_hechizo_id": "hechizo21"
+				},
+				{
+					"nombre": "Remedy",
+					"tipo": "Sorcery - Support",
+					"efecto": "Removes poison/toxic/bleeding build up, and cures poison/toxic status.",
+					"_hechizo_id": "hechizo22"
+				},
+				{
+					"nombre": "Resist Curse",
+					"tipo": "Sorcery - Support",
+					"efecto": "Removes curse build up.",
+					"_hechizo_id": "hechizo23"
+				},
+				{
+					"nombre": "Dark Orb",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "After a brief charge, fires a large shot at your target.",
+					"_hechizo_id": "hechizo24"
+				},
+				{
+					"nombre": "Dark Bead",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Fires a large amount of small dark orbs that fan outwards—very fast cast time. Excellent against large bosses.",
+					"_hechizo_id": "hechizo25"
+				},
+				{
+					"nombre": "Dark Fog",
+					"tipo": "Sorcery - AoE Ranged Sorcery",
+					"efecto": "Creates a fog that inflicts poison. The fog is created at the location of the locked target.",
+					"_hechizo_id": "hechizo26"
+				},
+				{
+					"nombre": "Pursuers",
+					"tipo": "Sorcery - Ranged Magic Attack",
+					"efecto": "Slow moving dark soul mass, fires and homes in on target when in range. Slower moving than homing soul mass but has much better homing capabilities.",
+					"_hechizo_id": "hechizo27"
+				},
+				{
+					"nombre": "Fireball",
+					"tipo": "Pyromancy - Ranged Attack",
+					"efecto": "Standard pyromancy of the Great Swamp. Hurl fireball.",
+					"_hechizo_id": "hechizo28"
+				},
+				{
+					"nombre": "Fire Orb",
+					"tipo": "Pyromancy - Ranged Attack",
+					"efecto": "Pyromancy which improves upon Fireball. Hurl fire orb.",
+					"_hechizo_id": "hechizo29"
+				},
+				{
+					"nombre": "Great Fireball",
+					"tipo": "Pyromancy - Ranged Attack",
+					"efecto": "Ultimate fireball pyromancy. Hurl giant fireball.",
+					"_hechizo_id": "hechizo30"
+				},
+				{
+					"nombre": "Great Chaos Fireball",
+					"tipo": "Pyromancy - Ranged AoE Attack",
+					"efecto": "Hurl giant chaos fireball, leaving a large amount of temporary lava",
+					"_hechizo_id": "hechizo31"
+				},
+				{
+					"nombre": "Firestorm",
+					"tipo": "Pyromancy - Big AoE Attack",
+					"efecto": "Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity. Note: Uses 17 uses per cast.",
+					"_hechizo_id": "hechizo32"
+				},
+				{
+					"nombre": "Fire Tempest",
+					"tipo": "Pyromancy - Big AoE Attack",
+					"efecto": "Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity.",
+					"_hechizo_id": "hechizo33"
+				},
+				{
+					"nombre": "Chaos Storm",
+					"tipo": "Pyromancy - Big AoE Attack",
+					"efecto": "Erect localized chaos fire pillars which leave blobs of temporary lava Note: Like firestorm and leaves a little lava behind.",
+					"_hechizo_id": "hechizo34"
+				},
+				{
+					"nombre": "Combustion",
+					"tipo": "Pyromancy - Melee Range Attack",
+					"efecto": "Elementary pyromancy. Create powerful flame in hand Note: Good 'melee' range spell, very quick too.",
+					"_hechizo_id": "hechizo35"
+				},
+				{
+					"nombre": "Great Combustion",
+					"tipo": "Pyromancy - Melee Range Attack",
+					"efecto": "Pyromancy which improves upon Combustion. Create powerful, giant flame in hand. Note: Very good melee range spell.",
+					"_hechizo_id": "hechizo36"
+				},
+				{
+					"nombre": "Fire Surge",
+					"tipo": "Pyromancy - Short-Ranged Attack",
+					"efecto": "Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand. Note: Rapid fire spell you can cast while moving.",
+					"_hechizo_id": "hechizo37"
+				},
+				{
+					"nombre": "Fire Whip",
+					"tipo": "Pyromancy - Short-Ranged Attack",
+					"efecto": "Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip. Note: Uses 21 uses per cast. Note:Hits twice/cast",
+					"_hechizo_id": "hechizo38"
+				},
+				{
+					"nombre": "Chaos Fire Whip",
+					"tipo": "Pyromancy - Short-Ranged Attack",
+					"efecto": "Sweep foes with chaos fire whip with lava traces Note: Leaves lava behind for a bit. Follows same mechanics as Fire Whip.",
+					"_hechizo_id": "hechizo39"
+				},
+				{
+					"nombre": "Poison Mist",
+					"tipo": "Pyromancy - AoE",
+					"efecto": "Breathes out a cone of poison mist that fills the surrounding area causing poison status.",
+					"_hechizo_id": "hechizo40"
+				},
+				{
+					"nombre": "Toxic Mist",
+					"tipo": "Pyromancy - AoE",
+					"efecto": "Breathes out a cone of toxic mist that fills the surrounding area causing toxic status.",
+					"_hechizo_id": "hechizo41"
+				},
+				{
+					"nombre": "Acid Surge",
+					"tipo": "Pyromancy - AoE Attack",
+					"efecto": "Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor damaging their durability. Does not affect user.",
+					"_hechizo_id": "hechizo42"
+				},
+				{
+					"nombre": "Flash Sweat",
+					"tipo": "Pyromancy - Buff",
+					"efecto": "Covers the player in water, reduces fire damage.",
+					"_hechizo_id": "hechizo43"
+				},
+				{
+					"nombre": "Iron Flesh",
+					"tipo": "Pyromancy - Buff",
+					"efecto": "Self-buff, raises defenses and poise. Note: User becomes heavy and unable to move freely: can only walk, can't run, sprint, roll, or jump.",
+					"_hechizo_id": "hechizo44"
+				},
+				{
+					"nombre": "Power Within",
+					"tipo": "Pyromancy - Buff",
+					"efecto": "Increases Attack and Defense but gradually drains HP",
+					"_hechizo_id": "hechizo45"
+				},
+				{
+					"nombre": "Undead Rapport",
+					"tipo": "Pyromancy - Melee Range Attack",
+					"efecto": "Advanced pyromancy of Quelana of Izalith. Charm undead and gain temporary allies. Melee ranged support spell with about 2 second cast time.",
+					"_hechizo_id": "hechizo46"
+				},
+				{
+					"nombre": "Black Flame",
+					"tipo": "Pyromancy - Melee Range Attack",
+					"efecto": "Similar to Great Combustion. Melee-range pyromancy. Main difference with Great Combustion is that when Black Flame is blocked, it consumes a much higher amount of stamina than Great Combustion, making this pyromancy great for breaking guards.",
+					"_hechizo_id": "hechizo47"
+				},
+				{
+					"nombre": "Heal",
+					"tipo": "Miracle - Heal",
+					"efecto": "Heals a moderate amount of the casters HP, depending on faith.",
+					"_hechizo_id": "hechizo48"
+				},
+				{
+					"nombre": "Great Heal Excerpt",
+					"tipo": "Miracle - Heal",
+					"efecto": "Cut down version of Great Heal. Heals large amount of HP to the caster. (NOTE: This spell does not affect allies as the erroneous load screen info would have you believe.)",
+					"_hechizo_id": "hechizo49"
+				},
+				{
+					"nombre": "Great Heal",
+					"tipo": "Miracle - Heal",
+					"efecto": "Heals a large amount of the casters HP, depending on faith.",
+					"_hechizo_id": "hechizo50"
+				},
+				{
+					"nombre": "Soothing Sunlight",
+					"tipo": "Miracle - Heal",
+					"efecto": "Heals large amount of HP to the caster and nearby allies. Scales with faith. Must be part of the Princess's Guard to use.",
+					"_hechizo_id": "hechizo51"
+				},
+				{
+					"nombre": "Replenishment",
+					"tipo": "Miracle - Heal (",
+					"efecto": "Gradually restores HP over time for a short duration.",
+					"_hechizo_id": "hechizo52"
+				},
+				{
+					"nombre": "Bountiful Sunlight",
+					"tipo": "Miracle - Heal",
+					"efecto": "Gradually restores HP over time for a short duration to you and nearby allies. Must be part of the Princess's Guard to use.",
+					"_hechizo_id": "hechizo53"
+				},
+				{
+					"nombre": "Force",
+					"tipo": "Miracle - AoE Attack",
+					"efecto": "AoE effect that does no damage but knocks back most surrounding enemies Must be very close to cause knockdown Can deflect sorceries such as Homing Soulmass.",
+					"_hechizo_id": "hechizo54"
+				},
+				{
+					"nombre": "Wrath of the Gods",
+					"tipo": "Miracle - AoE Attack",
+					"efecto": "A fast casting force spell that deals high damage in a bubble around you. One of the most powerful offensive miracles in the game. Can deflect sorceries.",
+					"_hechizo_id": "hechizo55"
+				},
+				{
+					"nombre": "Emit Force",
+					"tipo": "Miracle - AoE Attack",
+					"efecto": "Shoots a large ball of force energy to explode on the target causing damage to the target and close surrounding enemies. Can deflect sorceries.",
+					"_hechizo_id": "hechizo56"
+				},
+				{
+					"nombre": "Magic Barrier",
+					"tipo": "Miracle - Support (",
+					"efecto": "Reduces incoming magic damage for a short duration. (70%)?",
+					"_hechizo_id": "hechizo57"
+				},
+				{
+					"nombre": "Great Magic Barrier",
+					"tipo": "Miracle - Support (",
+					"efecto": "As Magic Barrier but reduces even more magic damage. (90%)?",
+					"_hechizo_id": "hechizo58"
+				},
+				{
+					"nombre": "Homeward",
+					"tipo": "Miracle - Support",
+					"efecto": "Transports you back to the last used bonfire.",
+					"_hechizo_id": "hechizo59"
+				},
+				{
+					"nombre": "Seek Guidance",
+					"tipo": "Miracle - Support (",
+					"efecto": "The Seek Guidance miracle allows the player to see more messages on the ground as well as their positive and negative ratings. Additional developer messages, providing hints, can also be seen in some areas.",
+					"_hechizo_id": "hechizo60"
+				},
+				{
+					"nombre": "Karmic Justice",
+					"tipo": "Miracle - Support (",
+					"efecto": "Karmic Justice is a self-buff that lasts for 1 minute. If the player takes successive hits in PHYSICAL damage (meaning melee and non-magical), the spell explodes, dealing massive damage to all nearby enemies and knocking them all down. A very effective miracle for players who wear cloth armor with no poise. If they get stunlocked by a combo, this spell can save you from certain death.",
+					"_hechizo_id": "hechizo61"
+				},
+				{
+					"nombre": "Vow of Silence",
+					"tipo": "Miracle - Support",
+					"efecto": "An AoE silence around you that stops all casting in the area, including your own, for about 25 seconds. Does not scale with faith.",
+					"_hechizo_id": "hechizo62"
+				},
+				{
+					"nombre": "Tranquil Walk of Peace",
+					"tipo": "Miracle - Support",
+					"efecto": "Applies a debuff to nearby enemies which slows movement speed, that lasts for about 10 seconds.",
+					"_hechizo_id": "hechizo63"
+				},
+				{
+					"nombre": "Lightning Spear",
+					"tipo": "Miracle - Ranged Attack",
+					"efecto": "A powerful spear of light that inflicts lightning damage. Scales with faith. Can be thrown into bodies of water to cause AoE. (Puddles, lakes,etc.)",
+					"_hechizo_id": "hechizo64"
+				},
+				{
+					"nombre": "Great Lightning Spear",
+					"tipo": "Miracle - Ranged Attack",
+					"efecto": "A larger, more powerful spear of light that inflicts lightning damage. Scales with faith. Can be thrown into water to cause AoE. (Puddles, lakes,etc.)",
+					"_hechizo_id": "hechizo65"
+				},
+				{
+					"nombre": "Sunlight Spear",
+					"tipo": "Miracle - Ranged Attack",
+					"efecto": "A very powerful version of the lightning spear. Fewer charges but a lot more damage. Scales with faith. Can be thrown into water to cause AoE. (Puddles, lakes,etc.) Must remain part of Warriors of Sunlight to use.",
+					"_hechizo_id": "hechizo66"
+				},
+				{
+					"nombre": "Sunlight Blade",
+					"tipo": "Miracle - Weapon Buff",
+					"efecto": "Coats right hand weapon in lightning. Adds 1.8x your talisman's Magic Adjustment value as Lightning Damage.",
+					"_hechizo_id": "hechizo67"
+				},
+				{
+					"nombre": "Darkmoon Blade",
+					"tipo": "Miracle - Weapon Buff",
+					"efecto": "Boosts right hand weapon with rays of Darkmoon. Adds 1.8x your talisman's Magic Adjustment value as Magic Damage at Covenant Rank 0. Scaling increases by 0.1x for each rank to a maximum of 2.1x at Covenant Rank 3. • Must be member of Darkmoon covenant to use.",
+					"_hechizo_id": "hechizo68"
+				},
+				{
+					"nombre": "Gravelord Sword Dance",
+					"tipo": "Miracle - AoE Attack",
+					"efecto": "AoE miracle similar to Gravelord Nito's \"scream sword\" attack. Several swords will pierce the ground impaling enemies in the area. Miracle is very effective when used in close quarters such as hallways or bridges as several swords may impale the same enemy.",
+					"_hechizo_id": "hechizo69"
+				},
+				{
+					"nombre": "Gravelord Greatsword Dance",
+					"tipo": "Miracle - AoE Attack",
+					"efecto": "Upgraded version of Gravelord Sword Dance miracle. Area of effect is expanded and increased damage.",
+					"_hechizo_id": "hechizo70"
+				},
+				{
+					"nombre": "Escape Death",
+					"tipo": "Miracle - Support",
+					"efecto": "Escape Death is a self-buff that prevents the user from losing souls and humanity after death. The miracle will not work if the user has two other self-buffs active (i.e. having both the Green Blossom stamina regen effect and the Transient Curse's effect will prevent the use of this miracle). Upon death, the message \"Magic Revived\" appears in green lettering identical to the \"Ring Revival\" message produced when a player dies with a Ring of Sacrifice equipped.",
+					"_hechizo_id": "hechizo71"
+				},
+				{
+					"nombre": "Ghost Blade",
+					"tipo": "Dagger",
+					"durabilidad_max": "100",
+					"_arma_id": "arma0"
+				},
+				{
+					"nombre": "Dagger",
+					"tipo": "Dagger",
+					"durabilidad_max": "200",
+					"_arma_id": "arma1"
+				},
+				{
+					"nombre": "Priscilla's Dagger",
+					"tipo": "Dagger",
+					"durabilidad_max": "100",
+					"_arma_id": "arma2"
+				},
+				{
+					"nombre": "Bandit's Knife",
+					"tipo": "Dagger",
+					"durabilidad_max": "200",
+					"_arma_id": "arma3"
+				},
+				{
+					"nombre": "Dark Silver Tracer",
+					"tipo": "Dagger",
+					"durabilidad_max": "120",
+					"_arma_id": "arma4"
+				},
+				{
+					"nombre": "Parrying dagger",
+					"tipo": "Dagger",
+					"durabilidad_max": "200",
+					"_arma_id": "arma5"
+				},
+				{
+					"nombre": "Velka's Talisman",
+					"tipo": "Catalyst",
+					"durabilidad_max": "50",
+					"_arma_id": "arma6"
+				},
+				{
+					"nombre": "Sunlight Talisman",
+					"tipo": "Catalyst",
+					"durabilidad_max": "50",
+					"_arma_id": "arma7"
+				},
+				{
+					"nombre": "Darkmoon Talisman",
+					"tipo": "Talisman",
+					"durabilidad_max": "50",
+					"_arma_id": "arma8"
+				},
+				{
+					"nombre": "Talisman",
+					"tipo": "Talisman",
+					"durabilidad_max": "50",
+					"_arma_id": "arma9"
+				},
+				{
+					"nombre": "Canvas Talisman",
+					"tipo": "Talisman",
+					"durabilidad_max": "50",
+					"_arma_id": "arma10"
+				},
+				{
+					"nombre": "Ivory Talisman",
+					"tipo": "Catalyst",
+					"durabilidad_max": "50",
+					"_arma_id": "arma11"
+				},
+				{
+					"nombre": "Thorolund Talisman",
+					"tipo": "Talisman",
+					"durabilidad_max": "50",
+					"_arma_id": "arma12"
+				},
+				{
+					"nombre": "Manus Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "200",
+					"_arma_id": "arma13"
+				},
+				{
+					"nombre": "Tin Banishment Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "160",
+					"_arma_id": "arma14"
+				},
+				{
+					"nombre": "Tin Darkmoon Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "60",
+					"_arma_id": "arma15"
+				},
+				{
+					"nombre": "Tin Crystallization Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "90",
+					"_arma_id": "arma16"
+				},
+				{
+					"nombre": "Oolacile Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "55",
+					"_arma_id": "arma17"
+				},
+				{
+					"nombre": "Logan's Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "90",
+					"_arma_id": "arma18"
+				},
+				{
+					"nombre": "Beatrice's Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "90",
+					"_arma_id": "arma19"
+				},
+				{
+					"nombre": "Oolacile Ivory Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "30",
+					"_arma_id": "arma20"
+				},
+				{
+					"nombre": "Demon's Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "300",
+					"_arma_id": "arma21"
+				},
+				{
+					"nombre": "Sorcerer's Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "90",
+					"_arma_id": "arma22"
+				},
+				{
+					"nombre": "Izalith Catalyst",
+					"tipo": "Catalyst",
+					"durabilidad_max": "300",
+					"_arma_id": "arma23"
+				},
+				{
+					"nombre": "Sniper Crossbow",
+					"tipo": "Crossbow",
+					"durabilidad_max": "150",
+					"_arma_id": "arma24"
+				},
+				{
+					"nombre": "Avelyn",
+					"tipo": "Crossbow",
+					"durabilidad_max": "150",
+					"_arma_id": "arma25"
+				},
+				{
+					"nombre": "Pyromancy Flame",
+					"tipo": "Flame",
+					"durabilidad_max": "30",
+					"_arma_id": "arma26"
+				},
+				{
+					"nombre": "Gough's Greatbow",
+					"tipo": "Greatbow",
+					"durabilidad_max": "100",
+					"_arma_id": "arma27"
+				},
+				{
+					"nombre": "Dragonslayer Greatbow",
+					"tipo": "Greatbow",
+					"durabilidad_max": "100",
+					"_arma_id": "arma28"
+				},
+				{
+					"nombre": "Heavy Crossbow",
+					"tipo": "Crossbow",
+					"durabilidad_max": "150",
+					"_arma_id": "arma29"
+				},
+				{
+					"nombre": "Light Crossbow",
+					"tipo": "Crossbow",
+					"durabilidad_max": "150",
+					"_arma_id": "arma30"
+				},
+				{
+					"nombre": "Darkmoon Bow",
+					"tipo": "Bows",
+					"durabilidad_max": "400",
+					"_arma_id": "arma31"
+				},
+				{
+					"nombre": "Black Bow of Pharis",
+					"tipo": "Bows",
+					"durabilidad_max": "100",
+					"_arma_id": "arma32"
+				},
+				{
+					"nombre": "Composite Bow",
+					"tipo": "Bows",
+					"durabilidad_max": "100",
+					"_arma_id": "arma33"
+				},
+				{
+					"nombre": "Short Bow",
+					"tipo": "Bow",
+					"durabilidad_max": "100",
+					"_arma_id": "arma34"
+				},
+				{
+					"nombre": "Longbow",
+					"tipo": "Bows",
+					"durabilidad_max": "100",
+					"_arma_id": "arma35"
+				},
+				{
+					"nombre": "Guardian Tail",
+					"tipo": "Whip",
+					"durabilidad_max": "250",
+					"_arma_id": "arma36"
+				},
+				{
+					"nombre": "Whip",
+					"tipo": "Whip",
+					"durabilidad_max": "200",
+					"_arma_id": "arma37"
+				},
+				{
+					"nombre": "Notched Whip",
+					"tipo": "Notched Whip",
+					"durabilidad_max": "200",
+					"_arma_id": "arma38"
+				},
+				{
+					"nombre": "Lifehunt Scythe",
+					"tipo": "Halberd",
+					"durabilidad_max": "100",
+					"_arma_id": "arma39"
+				},
+				{
+					"nombre": "Lucerne",
+					"tipo": "Halberd",
+					"durabilidad_max": "200",
+					"_arma_id": "arma40"
+				},
+				{
+					"nombre": "Scythe",
+					"tipo": "Halberd",
+					"durabilidad_max": "150",
+					"_arma_id": "arma41"
+				},
+				{
+					"nombre": "Giant's Halberd",
+					"tipo": "Halberd",
+					"durabilidad_max": "300",
+					"_arma_id": "arma42"
+				},
+				{
+					"nombre": "Great Scythe",
+					"tipo": "Halberd",
+					"durabilidad_max": "130",
+					"_arma_id": "arma43"
+				},
+				{
+					"nombre": "Black Knight Halberd",
+					"tipo": "Halberd",
+					"durabilidad_max": "300",
+					"_arma_id": "arma44"
+				},
+				{
+					"nombre": "Titanite Catch Pole",
+					"tipo": "Halberd",
+					"durabilidad_max": "600",
+					"_arma_id": "arma45"
+				},
+				{
+					"nombre": "Four-Pronged Plow",
+					"tipo": "Spears",
+					"durabilidad_max": "300",
+					"_arma_id": "arma46"
+				},
+				{
+					"nombre": "Halberd",
+					"tipo": "Halberd",
+					"durabilidad_max": "200",
+					"_arma_id": "arma47"
+				},
+				{
+					"nombre": "Gargoyle's Halberd",
+					"tipo": "Halberds",
+					"durabilidad_max": "200",
+					"_arma_id": "arma48"
+				},
+				{
+					"nombre": "Silver Knight Spear",
+					"tipo": "Spears",
+					"durabilidad_max": "300",
+					"_arma_id": "arma49"
+				},
+				{
+					"nombre": "Moonlight Butterfly Horn",
+					"tipo": "Spears",
+					"durabilidad_max": "160",
+					"_arma_id": "arma50"
+				},
+				{
+					"nombre": "Channeler's Trident",
+					"tipo": "Spears",
+					"durabilidad_max": "240",
+					"_arma_id": "arma51"
+				},
+				{
+					"nombre": "Partizan",
+					"tipo": "Spears",
+					"durabilidad_max": "160",
+					"_arma_id": "arma52"
+				},
+				{
+					"nombre": "Dragonslayer Spear",
+					"tipo": "Spears",
+					"durabilidad_max": "300",
+					"_arma_id": "arma53"
+				},
+				{
+					"nombre": "Pike",
+					"tipo": "Spears",
+					"durabilidad_max": "180",
+					"_arma_id": "arma54"
+				},
+				{
+					"nombre": "Winged Spear",
+					"tipo": "Spears",
+					"durabilidad_max": "140",
+					"_arma_id": "arma55"
+				},
+				{
+					"nombre": "Demon's Spear",
+					"tipo": "Spears",
+					"durabilidad_max": "400",
+					"_arma_id": "arma56"
+				},
+				{
+					"nombre": "Dark Hand",
+					"tipo": "Fist Weapon",
+					"durabilidad_max": "999",
+					"_arma_id": "arma57"
+				},
+				{
+					"nombre": "Dragon Bone Fist",
+					"tipo": "Fist Weapon",
+					"durabilidad_max": "999",
+					"_arma_id": "arma58"
+				},
+				{
+					"nombre": "Spear",
+					"tipo": "Spears",
+					"durabilidad_max": "180",
+					"_arma_id": "arma59"
+				},
+				{
+					"nombre": "Caestus",
+					"tipo": "Fist Weapon",
+					"durabilidad_max": "300",
+					"_arma_id": "arma60"
+				},
+				{
+					"nombre": "Claws",
+					"tipo": "Fist Weapon",
+					"durabilidad_max": "150",
+					"_arma_id": "arma61"
+				},
+				{
+					"nombre": "Dragon Tooth",
+					"tipo": "Great Hammer",
+					"durabilidad_max": "999",
+					"_arma_id": "arma62"
+				},
+				{
+					"nombre": "Grant",
+					"tipo": "Great Hammer",
+					"durabilidad_max": "600",
+					"_arma_id": "arma63"
+				},
+				{
+					"nombre": "Smough's Hammer",
+					"tipo": "Great Hammer",
+					"durabilidad_max": "600",
+					"_arma_id": "arma64"
+				},
+				{
+					"nombre": "Hammer of Vamos",
+					"tipo": "Hammer",
+					"durabilidad_max": "250",
+					"_arma_id": "arma65"
+				},
+				{
+					"nombre": "Demon's Great Hammer",
+					"tipo": "Great Hammer",
+					"durabilidad_max": "600",
+					"_arma_id": "arma66"
+				},
+				{
+					"nombre": "Great Club",
+					"tipo": "Great Hammer",
+					"durabilidad_max": "250",
+					"_arma_id": "arma67"
+				},
+				{
+					"nombre": "Large Club",
+					"tipo": "Great Hammer",
+					"durabilidad_max": "250",
+					"_arma_id": "arma68"
+				},
+				{
+					"nombre": "Blacksmith Giant Hammer",
+					"tipo": "Hammer",
+					"durabilidad_max": "250",
+					"_arma_id": "arma69"
+				},
+				{
+					"nombre": "Blacksmith Hammer",
+					"tipo": "Hammer",
+					"durabilidad_max": "250",
+					"_arma_id": "arma70"
+				},
+				{
+					"nombre": "Pickaxe",
+					"tipo": "Hammer",
+					"durabilidad_max": "250",
+					"_arma_id": "arma71"
+				},
+				{
+					"nombre": "Warpick",
+					"tipo": "Hammer",
+					"durabilidad_max": "220",
+					"_arma_id": "arma72"
+				},
+				{
+					"nombre": "Morning Star",
+					"tipo": "Hammer",
+					"durabilidad_max": "180",
+					"_arma_id": "arma73"
+				},
+				{
+					"nombre": "Reinforced Club",
+					"tipo": "Hammer",
+					"durabilidad_max": "100",
+					"_arma_id": "arma74"
+				},
+				{
+					"nombre": "Mace",
+					"tipo": "Hammer",
+					"durabilidad_max": "250",
+					"_arma_id": "arma75"
+				},
+				{
+					"nombre": "Stone Greataxe",
+					"tipo": "Great Axe",
+					"durabilidad_max": "700",
+					"_arma_id": "arma76"
+				},
+				{
+					"nombre": "Black Knight Greataxe",
+					"tipo": "Great Axe",
+					"durabilidad_max": "300",
+					"_arma_id": "arma77"
+				},
+				{
+					"nombre": "Club",
+					"tipo": "Hammer",
+					"durabilidad_max": "250",
+					"_arma_id": "arma78"
+				},
+				{
+					"nombre": "Greataxe",
+					"tipo": "Great Axe",
+					"durabilidad_max": "230",
+					"_arma_id": "arma79"
+				},
+				{
+					"nombre": "Dragon King Greataxe",
+					"tipo": "Great Axe",
+					"durabilidad_max": "400",
+					"_arma_id": "arma80"
+				},
+				{
+					"nombre": "Demon's Greataxe",
+					"tipo": "Great Axe",
+					"durabilidad_max": "600",
+					"_arma_id": "arma81"
+				},
+				{
+					"nombre": "Golem Axe",
+					"tipo": "Axe",
+					"durabilidad_max": "600",
+					"_arma_id": "arma82"
+				},
+				{
+					"nombre": "Butcher Knife",
+					"tipo": "Axe",
+					"durabilidad_max": "250",
+					"_arma_id": "arma83"
+				},
+				{
+					"nombre": "Battle Axe",
+					"tipo": "Axe",
+					"durabilidad_max": "250",
+					"_arma_id": "arma84"
+				},
+				{
+					"nombre": "Crescent Axe",
+					"tipo": "Axe",
+					"durabilidad_max": "180",
+					"_arma_id": "arma85"
+				},
+				{
+					"nombre": "Gargoyle Tail Axe",
+					"tipo": "Axe",
+					"durabilidad_max": "150",
+					"_arma_id": "arma86"
+				},
+				{
+					"nombre": "Hand Axe",
+					"tipo": "Axe",
+					"durabilidad_max": "200",
+					"_arma_id": "arma87"
+				},
+				{
+					"nombre": "Velka's Rapier",
+					"tipo": "Piercing Sword",
+					"durabilidad_max": "130",
+					"_arma_id": "arma88"
+				},
+				{
+					"nombre": "Ricard's Rapier",
+					"tipo": "Piercing Sword",
+					"durabilidad_max": "100",
+					"_arma_id": "arma89"
+				},
+				{
+					"nombre": "Rapier",
+					"tipo": "Piercing Sword",
+					"durabilidad_max": "150",
+					"_arma_id": "arma90"
+				},
+				{
+					"nombre": "Mail Breaker",
+					"tipo": "Piercing Sword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma91"
+				},
+				{
+					"nombre": "Estoc",
+					"tipo": "Piercing Sword",
+					"durabilidad_max": "150",
+					"_arma_id": "arma92"
+				},
+				{
+					"nombre": "Murakumo",
+					"tipo": "Curved Greatsword",
+					"durabilidad_max": "180",
+					"_arma_id": "arma93"
+				},
+				{
+					"nombre": "Server",
+					"tipo": "Curved Greatsword",
+					"durabilidad_max": "140",
+					"_arma_id": "arma94"
+				},
+				{
+					"nombre": "Gravelord Sword",
+					"tipo": "Curved Greatsword",
+					"durabilidad_max": "600",
+					"_arma_id": "arma95"
+				},
+				{
+					"nombre": "Chaos Blade",
+					"tipo": "Katana",
+					"durabilidad_max": "120",
+					"_arma_id": "arma96"
+				},
+				{
+					"nombre": "Iaito",
+					"tipo": "Katana",
+					"durabilidad_max": "80",
+					"_arma_id": "arma97"
+				},
+				{
+					"nombre": "Gold Tracer",
+					"tipo": "Curved Sword",
+					"durabilidad_max": "240",
+					"_arma_id": "arma98"
+				},
+				{
+					"nombre": "Washing Pole",
+					"tipo": "Katana",
+					"durabilidad_max": "60",
+					"_arma_id": "arma99"
+				},
+				{
+					"nombre": "Uchigatana",
+					"tipo": "Katana",
+					"durabilidad_max": "80",
+					"_arma_id": "arma100"
+				},
+				{
+					"nombre": "Jagged Ghost Blade",
+					"tipo": "Curved Sword",
+					"durabilidad_max": "100",
+					"_arma_id": "arma101"
+				},
+				{
+					"nombre": "Painting Guardian Sword",
+					"tipo": "Curved Sword",
+					"durabilidad_max": "100",
+					"_arma_id": "arma102"
+				},
+				{
+					"nombre": "Shotel",
+					"tipo": "Curved Sword",
+					"durabilidad_max": "120",
+					"_arma_id": "arma103"
+				},
+				{
+					"nombre": "Falchion",
+					"tipo": "Curved Sword",
+					"durabilidad_max": "160",
+					"_arma_id": "arma104"
+				},
+				{
+					"nombre": "Scimitar",
+					"tipo": "Curved Sword",
+					"durabilidad_max": "160",
+					"_arma_id": "arma105"
+				},
+				{
+					"nombre": "Quelaag's Furysword",
+					"tipo": "Curved Sword",
+					"durabilidad_max": "600",
+					"_arma_id": "arma106"
+				},
+				{
+					"nombre": "Demon Great Machete",
+					"tipo": "Ultra Greatsword",
+					"durabilidad_max": "600",
+					"_arma_id": "arma107"
+				},
+				{
+					"nombre": "Zweihander",
+					"tipo": "Ultra Greatsword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma108"
+				},
+				{
+					"nombre": "Black Knight Greatsword",
+					"tipo": "Ultra Greatsword",
+					"durabilidad_max": "300",
+					"_arma_id": "arma109"
+				},
+				{
+					"nombre": "Greatsword",
+					"tipo": "Ultra Greatswords",
+					"durabilidad_max": "200",
+					"_arma_id": "arma110"
+				},
+				{
+					"nombre": "Dragon Greatsword",
+					"tipo": "Ultra Greatsword",
+					"durabilidad_max": "400",
+					"_arma_id": "arma111"
+				},
+				{
+					"nombre": "Obsidian Greatsword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "350",
+					"_arma_id": "arma112"
+				},
+				{
+					"nombre": "Abyss Greatsword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "300",
+					"_arma_id": "arma113"
+				},
+				{
+					"nombre": "Stone Greatsword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "800",
+					"_arma_id": "arma114"
+				},
+				{
+					"nombre": "Greatsword of Artorias (Cursed)",
+					"tipo": "Greatsword",
+					"durabilidad_max": "400",
+					"_arma_id": "arma115"
+				},
+				{
+					"nombre": "Great Lord Greatsword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "400",
+					"_arma_id": "arma116"
+				},
+				{
+					"nombre": "Moonlight Greatsword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "300",
+					"_arma_id": "arma117"
+				},
+				{
+					"nombre": "Greatsword of Artorias",
+					"tipo": "Greatsword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma118"
+				},
+				{
+					"nombre": "Man-Serpent greatsword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "300",
+					"_arma_id": "arma119"
+				},
+				{
+					"nombre": "Claymore",
+					"tipo": "Greatsword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma120"
+				},
+				{
+					"nombre": "Flamberge",
+					"tipo": "Greatsword",
+					"durabilidad_max": "160",
+					"_arma_id": "arma121"
+				},
+				{
+					"nombre": "Crystal Greatsword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "60",
+					"_arma_id": "arma122"
+				},
+				{
+					"nombre": "Black Knight Sword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "300",
+					"_arma_id": "arma123"
+				},
+				{
+					"nombre": "Bastard Sword",
+					"tipo": "Greatsword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma124"
+				},
+				{
+					"nombre": "Crystal Straight Sword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "60",
+					"_arma_id": "arma125"
+				},
+				{
+					"nombre": "Darksword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma126"
+				},
+				{
+					"nombre": "Drake Sword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "360",
+					"_arma_id": "arma127"
+				},
+				{
+					"nombre": "Silver Knight Straight Sword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "300",
+					"_arma_id": "arma128"
+				},
+				{
+					"nombre": "Astora's Straight Sword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "160",
+					"_arma_id": "arma129"
+				},
+				{
+					"nombre": "Balder Side Sword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "120",
+					"_arma_id": "arma130"
+				},
+				{
+					"nombre": "Longsword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma131"
+				},
+				{
+					"nombre": "Shortsword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma132"
+				},
+				{
+					"nombre": "Sunlight Straight Sword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "240",
+					"_arma_id": "arma133"
+				},
+				{
+					"nombre": "Barbed Straight Sword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma134"
+				},
+				{
+					"nombre": "Broken Straight Sword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma135"
+				},
+				{
+					"nombre": "Broadsword",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma136"
+				},
+				{
+					"nombre": "Straight Sword Hilt",
+					"tipo": "Straight Sword",
+					"durabilidad_max": "200",
+					"_arma_id": "arma137"
+				}
+]

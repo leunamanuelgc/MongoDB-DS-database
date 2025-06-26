@@ -1,0 +1,3312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<objetos><piezas_armaduras>
+    <pieza_armadura pieza_armadura_id="pieza_armadura0">
+        <nombre>Fang Boar Helm</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura1">
+        <nombre>Gargoyle Helm</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura2">
+        <nombre>Sunlight Maggot</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>80</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura3">
+        <nombre>Symbol of Avarice</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>-</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura4">
+        <nombre>Helm of the Wise</nombre>
+        <conjunto>Adventurer's Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura5">
+        <nombre>Sack</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura6">
+        <nombre>Armor of the Glorious</nombre>
+        <conjunto>Adventurer's Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura7">
+        <nombre>Crown of Dusk</nombre>
+        <conjunto>Antiquated Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura8">
+        <nombre>Bloated Sorcerer Head</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura9">
+        <nombre>Helm of Artorias</nombre>
+        <conjunto>Artorias' Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>600 </durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura10">
+        <nombre>Gauntlets of the Vanquisher</nombre>
+        <conjunto>Adventurer's Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura11">
+        <nombre>Antiquated Dress</nombre>
+        <conjunto>Antiquated Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura12">
+        <nombre>Armor of Artorias</nombre>
+        <conjunto>Artorias' Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>600 </durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura13">
+        <nombre>Balder Helm</nombre>
+        <conjunto>Balder Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura14">
+        <nombre>Royal Helm</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura15">
+        <nombre>Boots of the Explorer</nombre>
+        <conjunto>Adventurer's Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura16">
+        <nombre>Antiquated Gloves</nombre>
+        <conjunto>Antiquated Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura17">
+        <nombre>Mask of the Father</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura18">
+        <nombre>Gauntlets of Artorias</nombre>
+        <conjunto>Artorias' Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>600 </durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura19">
+        <nombre>Balder Armor</nombre>
+        <conjunto>Balder Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura20">
+        <nombre>Brigand Hood</nombre>
+        <conjunto>Bandit Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura21">
+        <nombre>Antiquated Skirt</nombre>
+        <conjunto>Antiquated Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura22">
+        <nombre>Mask of the Mother</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura23">
+        <nombre>Leggings of Artorias</nombre>
+        <conjunto>Artorias' Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>600 </durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura24">
+        <nombre>Balder Gauntlets</nombre>
+        <conjunto>Balder Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura25">
+        <nombre>Brigand Armor</nombre>
+        <conjunto>Bandit Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura26">
+        <nombre>Big Hat</nombre>
+        <conjunto>Big Hat's Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura27">
+        <nombre>Mask of the Child</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura28">
+        <nombre>Balder Leggings</nombre>
+        <conjunto>Balder Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura29">
+        <nombre>Brigand Gauntlets</nombre>
+        <conjunto>Bandit Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura30">
+        <nombre>Sage Robe</nombre>
+        <conjunto>Big Hat's Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura31">
+        <nombre>Black Iron Helm</nombre>
+        <conjunto>Black Iron Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura32">
+        <nombre>Bloated Head</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura33">
+        <nombre>Brigand Trousers</nombre>
+        <conjunto>Bandit Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura34">
+        <nombre>Travelling Gloves</nombre>
+        <conjunto>Big Hat's Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura35">
+        <nombre>Black Iron Armor</nombre>
+        <conjunto>Black Iron Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura36">
+        <nombre>Black Knight Helm</nombre>
+        <conjunto>Black Knight Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>550</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura37">
+        <nombre>Egg Head</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>None</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura38">
+        <nombre>Travelling Boots</nombre>
+        <conjunto>Big Hat's Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura39">
+        <nombre>Black Iron Gauntlets</nombre>
+        <conjunto>Black Iron Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura40">
+        <nombre>Black Knight Armor</nombre>
+        <conjunto>Black Knight Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>550</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura41">
+        <nombre>Mask of Velka</nombre>
+        <conjunto>Black Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura42">
+        <nombre>Black Iron Leggings</nombre>
+        <conjunto>Black Iron Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura43">
+        <nombre>Black Knight Gauntlets</nombre>
+        <conjunto>Black Knight Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>550</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura44">
+        <nombre>Pharis's Hat</nombre>
+        <conjunto>Unique Piece of Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura45">
+        <nombre>Black Cleric Robe</nombre>
+        <conjunto>Black Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura46">
+        <nombre>Black Knight Leggings</nombre>
+        <conjunto>Black Knight Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>550</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura47">
+        <nombre>Black Manchette</nombre>
+        <conjunto>Black Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura48">
+        <nombre>Black Sorcerer Hat</nombre>
+        <conjunto>Black Sorcerer Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura49">
+        <nombre>Black Tights</nombre>
+        <conjunto>Black Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura50">
+        <nombre>Black Sorcerer Cloak</nombre>
+        <conjunto>Black Sorcerer Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura51">
+        <nombre>Brass Helm</nombre>
+        <conjunto>Brass Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura52">
+        <nombre>Black Sorcerer Gauntlets</nombre>
+        <conjunto>Black Sorcerer Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura53">
+        <nombre>Brass Armor</nombre>
+        <conjunto>Brass Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura54">
+        <nombre>Black Sorcerer Boots</nombre>
+        <conjunto>Black Sorcerer Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura55">
+        <nombre>Brass Gauntlets</nombre>
+        <conjunto>Brass Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura56">
+        <nombre>Catarina Helm</nombre>
+        <conjunto>Catarina Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura57">
+        <nombre>Chain Helm</nombre>
+        <conjunto>Chain Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura58">
+        <nombre>Brass Leggings</nombre>
+        <conjunto>Brass Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura59">
+        <nombre>Catarina Armor</nombre>
+        <conjunto>Catarina Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura60">
+        <nombre>Chain Armor</nombre>
+        <conjunto>Chain Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura61">
+        <nombre>Catarina Gauntlets</nombre>
+        <conjunto>Catarina Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura62">
+        <nombre>Leather Gauntlets</nombre>
+        <conjunto>Chain Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura63">
+        <nombre>Six-Eyed Helm of the Channelers</nombre>
+        <conjunto>Channeler Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura64">
+        <nombre>Catarina Leggings</nombre>
+        <conjunto>Catarina Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura65">
+        <nombre>Chain Leggings</nombre>
+        <conjunto>Chain Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura66">
+        <nombre>Robe of the Channelers</nombre>
+        <conjunto>Channeler Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura67">
+        <nombre>Snickering Top Hat</nombre>
+        <conjunto>Chester's Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura68">
+        <nombre>Gauntlets of the Channelers</nombre>
+        <conjunto>Channeler Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura69">
+        <nombre>Cleric Helm</nombre>
+        <conjunto>Cleric Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura70">
+        <nombre>Chester's Long Coat</nombre>
+        <conjunto>Chester's Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura71">
+        <nombre>Waistcloth of the Channelers</nombre>
+        <conjunto>Channeler Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura72">
+        <nombre>Cleric Armor</nombre>
+        <conjunto>Cleric Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura73">
+        <nombre>Mask of the Sealer</nombre>
+        <conjunto>Crimson Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura74">
+        <nombre>Chester's Gloves</nombre>
+        <conjunto>Chester's Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura75">
+        <nombre>Cleric Gauntlets</nombre>
+        <conjunto>Cleric Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura76">
+        <nombre>Crimson Robe</nombre>
+        <conjunto>Crimson Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura77">
+        <nombre>Crystalline Helm</nombre>
+        <conjunto>Crystalline Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura78">
+        <nombre>Chester's Trousers</nombre>
+        <conjunto>Chester's Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura79">
+        <nombre>Cleric Leggings</nombre>
+        <conjunto>Cleric Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura80">
+        <nombre>Crimson Gloves</nombre>
+        <conjunto>Crimson Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura81">
+        <nombre>Crystalline Armor</nombre>
+        <conjunto>Crystalline Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura82">
+        <nombre>Dark Mask</nombre>
+        <conjunto>Dark Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura83">
+        <nombre>Dingy Hood</nombre>
+        <conjunto>Dingy Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura84">
+        <nombre>Crimson Waistcloth</nombre>
+        <conjunto>Crimson Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura85">
+        <nombre>Crystalline Gauntlets</nombre>
+        <conjunto>Crystalline Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura86">
+        <nombre>Dark Armor</nombre>
+        <conjunto>Dark Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura87">
+        <nombre>Dingy Robe</nombre>
+        <conjunto>Dingy Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura88">
+        <nombre>Crystalline Leggings</nombre>
+        <conjunto>Crystalline Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura89">
+        <nombre>Dark Gauntlets</nombre>
+        <conjunto>Dark Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura90">
+        <nombre>Dingy Gloves</nombre>
+        <conjunto>Dingy Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura91">
+        <nombre>Eastern Helm</nombre>
+        <conjunto>Eastern Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura92">
+        <nombre>Elite Knight Helm</nombre>
+        <conjunto>Elite Knight Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura93">
+        <nombre>Dark Leggings</nombre>
+        <conjunto>Dark Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura94">
+        <nombre>Blood-Stained Skirt</nombre>
+        <conjunto>Dingy Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura95">
+        <nombre>Eastern Armor</nombre>
+        <conjunto>Eastern Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura96">
+        <nombre>Elite Knight Chest</nombre>
+        <conjunto>Elite Knight Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura97">
+        <nombre>Eastern Gauntlets</nombre>
+        <conjunto>Eastern Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura98">
+        <nombre>Elite Knight Gauntlets</nombre>
+        <conjunto>Elite Knight Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura99">
+        <nombre>Helm of Favor</nombre>
+        <conjunto>Favor Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura100">
+        <nombre>Giant Helm</nombre>
+        <conjunto>Giant Armor Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura101">
+        <nombre>Gold-Hemmed Black Hood</nombre>
+        <conjunto>Gold-Hemmed Black Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura102">
+        <nombre>Gough's Helm</nombre>
+        <conjunto>Gough's Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura103">
+        <nombre>Eastern Leggings</nombre>
+        <conjunto>Eastern Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura104">
+        <nombre>Elite Knight Leggings</nombre>
+        <conjunto>Elite Knight Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura105">
+        <nombre>Embraced Armor of Favor</nombre>
+        <conjunto>Favor Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura106">
+        <nombre>Giant Armor</nombre>
+        <conjunto>Giant Armor Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura107">
+        <nombre>Gold-Hemmed Black Cloak</nombre>
+        <conjunto>Gold-Hemmed Black Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura108">
+        <nombre>Gough's Chest</nombre>
+        <conjunto>Gough's Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura109">
+        <nombre>Gauntlets of Favor</nombre>
+        <conjunto>Favor Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura110">
+        <nombre>Giant Gauntlets</nombre>
+        <conjunto>Giant Armor Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura111">
+        <nombre>Gold-Hemmed Black Gloves</nombre>
+        <conjunto>Gold-Hemmed Black Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura112">
+        <nombre>Gough's Gloves</nombre>
+        <conjunto>Gough's Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura113">
+        <nombre>Leggings of Favor</nombre>
+        <conjunto>Favor Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura114">
+        <nombre>Giant Leggings</nombre>
+        <conjunto>Giant Armor Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura115">
+        <nombre>Gold-Hemmed Black Skirt</nombre>
+        <conjunto>Gold-Hemmed Black Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura116">
+        <nombre>Gough's Leggings</nombre>
+        <conjunto>Gough's Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>450</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura117">
+        <nombre>Crown of the Great Lord</nombre>
+        <conjunto>Great Lord Armor</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura118">
+        <nombre>Guardian Helm</nombre>
+        <conjunto>Guardian Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura119">
+        <nombre>Robe of the Great Lord</nombre>
+        <conjunto>Great Lord Armor</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura120">
+        <nombre>Guardian Armor</nombre>
+        <conjunto>Guardian Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura121">
+        <nombre>Bracelet of the Great Lord</nombre>
+        <conjunto>Great Lord Armor</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura122">
+        <nombre>Guardian Gauntlets</nombre>
+        <conjunto>Guardian Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura123">
+        <nombre>Anklet of the Great Lord</nombre>
+        <conjunto>Great Lord Armor</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura124">
+        <nombre>Guardian Leggings</nombre>
+        <conjunto>Guardian Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura125">
+        <nombre>Crown of the Dark Sun</nombre>
+        <conjunto>Gwyndolin Moonlight Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>300</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura126">
+        <nombre>Havel's Helm</nombre>
+        <conjunto>Havel's Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>900</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura127">
+        <nombre>Moonlight Robe</nombre>
+        <conjunto>Gwyndolin Moonlight Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>80</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura128">
+        <nombre>Havel's Armor</nombre>
+        <conjunto>Havel's Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>900</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura129">
+        <nombre>Moonlight Gloves</nombre>
+        <conjunto>Gwyndolin Moonlight Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>80</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura130">
+        <nombre>Havel's Gauntlets</nombre>
+        <conjunto>Havel's Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>900</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura131">
+        <nombre>Hollow Soldier Helm</nombre>
+        <conjunto>Hollow Soldier Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura132">
+        <nombre>Hollow Thief's Hood</nombre>
+        <conjunto>Hollow Thief Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura133">
+        <nombre>Moonlight Waistcloth</nombre>
+        <conjunto>Gwyndolin Moonlight Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>80</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura134">
+        <nombre>Havel's Leggings</nombre>
+        <conjunto>Havel's Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>900</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura135">
+        <nombre>Hollow Soldier Armor</nombre>
+        <conjunto>Hollow Soldier Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura136">
+        <nombre>Hollow Thief's Leather Armor</nombre>
+        <conjunto>Hollow Thief Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura137">
+        <nombre>Hollow Warrior Helm</nombre>
+        <conjunto>Hollow Warrior Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura138">
+        <nombre>Hollow Soldier Waistcloth</nombre>
+        <conjunto>Hollow Soldier Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura139">
+        <nombre>Hollow Thief's Tights</nombre>
+        <conjunto>Hollow Thief Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura140">
+        <nombre>Hollow Warrior Armor</nombre>
+        <conjunto>Hollow Warrior Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura141">
+        <nombre>Priest's Hat</nombre>
+        <conjunto>Holy Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>350</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura142">
+        <nombre>Pharis's Hat</nombre>
+        <conjunto>Hunter Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura143">
+        <nombre>Golem Helm</nombre>
+        <conjunto>Iron Golem Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura144">
+        <nombre>Hollow Warrior Waistcloth</nombre>
+        <conjunto>Hollow Warrior Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura145">
+        <nombre>Holy Robe</nombre>
+        <conjunto>Holy Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>350</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura146">
+        <nombre>Leather Armor</nombre>
+        <conjunto>Hunter Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura147">
+        <nombre>Golem Armor</nombre>
+        <conjunto>Iron Golem Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura148">
+        <nombre>Travelling Gloves</nombre>
+        <conjunto>Holy Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>350</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura149">
+        <nombre>Leather Gloves</nombre>
+        <conjunto>Hunter Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura150">
+        <nombre>Golem Gauntlets</nombre>
+        <conjunto>Iron Golem Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura151">
+        <nombre>Iron Helm</nombre>
+        <conjunto>Iron Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>350</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura152">
+        <nombre>Holy Trousers</nombre>
+        <conjunto>Holy Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>350</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura153">
+        <nombre>Leather Boots</nombre>
+        <conjunto>Hunter Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura154">
+        <nombre>Golem Leggings</nombre>
+        <conjunto>Iron Golem Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura155">
+        <nombre>Armor of the Sun</nombre>
+        <conjunto>Iron Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>350</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura156">
+        <nombre>Iron Bracelet</nombre>
+        <conjunto>Iron Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>350</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura157">
+        <nombre>Knight Helm</nombre>
+        <conjunto>Knight Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura158">
+        <nombre>Porcelain Mask</nombre>
+        <conjunto>Lord's Blade Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura159">
+        <nombre>Iron Leggings</nombre>
+        <conjunto>Iron Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>350</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura160">
+        <nombre>Knight Gauntlets</nombre>
+        <conjunto>Knight Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura161">
+        <nombre>Lord's Blade Robe</nombre>
+        <conjunto>Lord's Blade Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura162">
+        <nombre>Knight Leggings</nombre>
+        <conjunto>Knight Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura163">
+        <nombre>Lord's Blade Gloves</nombre>
+        <conjunto>Lord's Blade Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura164">
+        <nombre>Maiden Hood</nombre>
+        <conjunto>Maiden Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura165">
+        <nombre>Lord's Blade Waistcloth</nombre>
+        <conjunto>Lord's Blade Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura166">
+        <nombre>Maiden Robe</nombre>
+        <conjunto>Maiden Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura167">
+        <nombre>Ornstein's Helm</nombre>
+        <conjunto>Ornstein's Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura168">
+        <nombre>Maiden Gloves</nombre>
+        <conjunto>Maiden Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura169">
+        <nombre>Ornstein's Armor</nombre>
+        <conjunto>Ornstein's Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura170">
+        <nombre>Maiden Skirt</nombre>
+        <conjunto>Maiden Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura171">
+        <nombre>Ornstein's Gauntlets</nombre>
+        <conjunto>Ornstein's Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura172">
+        <nombre>Painting Guardian Hood</nombre>
+        <conjunto>Painting Guardian Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura173">
+        <nombre>Paladin Helm</nombre>
+        <conjunto>Paladin Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura174">
+        <nombre>Ornstein's Leggings</nombre>
+        <conjunto>Ornstein's Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura175">
+        <nombre>Painting Guardian Robe</nombre>
+        <conjunto>Painting Guardian Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura176">
+        <nombre>Paladin Armor</nombre>
+        <conjunto>Paladin Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura177">
+        <nombre>Painting Guardian Gloves</nombre>
+        <conjunto>Painting Guardian Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura178">
+        <nombre>Paladin Gauntlets</nombre>
+        <conjunto>Paladin Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura179">
+        <nombre>Tattered Cloth Hood</nombre>
+        <conjunto>Pyromancer Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura180">
+        <nombre>Helm of Thorns</nombre>
+        <conjunto>Thorns Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura181">
+        <nombre>Painting Guardian Waistcloth</nombre>
+        <conjunto>Painting Guardian Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>150</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura182">
+        <nombre>Paladin Leggings</nombre>
+        <conjunto>Paladin Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura183">
+        <nombre>Tattered Cloth Robe</nombre>
+        <conjunto>Pyromancer Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura184">
+        <nombre>Armor of Thorns</nombre>
+        <conjunto>Thorns Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura185">
+        <nombre>Shadow Mask</nombre>
+        <conjunto>Shadow Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura186">
+        <nombre>Tattered Cloth Manchette</nombre>
+        <conjunto>Pyromancer Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura187">
+        <nombre>Gauntlets of Thorns</nombre>
+        <conjunto>Thorns Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura188">
+        <nombre>Silver Knight Helm</nombre>
+        <conjunto>Silver Knight Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura189">
+        <nombre>Shadow Garb</nombre>
+        <conjunto>Shadow Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura190">
+        <nombre>Heavy Boots</nombre>
+        <conjunto>Pyromancer Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura191">
+        <nombre>Leggings of Thorns</nombre>
+        <conjunto>Thorns Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura192">
+        <nombre>Silver Knight Armor</nombre>
+        <conjunto>Silver Knight Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura193">
+        <nombre>Smough's Helm</nombre>
+        <conjunto>Smough's Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura194">
+        <nombre>Sorcerer Hat</nombre>
+        <conjunto>Sorcerer Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura195">
+        <nombre>Shadow Leggings</nombre>
+        <conjunto>Shadow Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura196">
+        <nombre>Silver Knight Gauntlets</nombre>
+        <conjunto>Silver Knight Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura197">
+        <nombre>Smough's Armor</nombre>
+        <conjunto>Smough's Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura198">
+        <nombre>Sorcerer Cloak</nombre>
+        <conjunto>Sorcerer Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura199">
+        <nombre> Total</nombre>
+        <conjunto>Shadow Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura200">
+        <nombre>Silver Knight Leggings</nombre>
+        <conjunto>Silver Knight Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>600</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura201">
+        <nombre>Smough's Gauntlets</nombre>
+        <conjunto>Smough's Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura202">
+        <nombre>Sorcerer Gauntlets</nombre>
+        <conjunto>Sorcerer Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura203">
+        <nombre>Steel Helm</nombre>
+        <conjunto>Steel Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura204">
+        <nombre>Stone Helm</nombre>
+        <conjunto>Stone Knight Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura205">
+        <nombre>Smough's Leggings</nombre>
+        <conjunto>Smough's Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>700</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura206">
+        <nombre>Sorcerer Boots</nombre>
+        <conjunto>Sorcerer Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>200</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura207">
+        <nombre>Steel Armor</nombre>
+        <conjunto>Steel Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura208">
+        <nombre>Stone Armor</nombre>
+        <conjunto>Stone Knight Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura209">
+        <nombre>Steel Gauntlets</nombre>
+        <conjunto>Steel Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura210">
+        <nombre>Stone Gauntlets</nombre>
+        <conjunto>Stone Knight Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura211">
+        <nombre>Thief Mask</nombre>
+        <conjunto>Thief Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura212">
+        <nombre>Steel Leggings</nombre>
+        <conjunto>Steel Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>500</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura213">
+        <nombre>Stone Leggings</nombre>
+        <conjunto>Stone Knight Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>800</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura214">
+        <nombre>Black Leather Armor</nombre>
+        <conjunto>Thief Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura215">
+        <nombre>Wanderer Hood</nombre>
+        <conjunto>Wanderer Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura216">
+        <nombre>Black Leather Gloves</nombre>
+        <conjunto>Thief Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura217">
+        <nombre>Wanderer Coat</nombre>
+        <conjunto>Wanderer Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura218">
+        <nombre>Black Leather Boots</nombre>
+        <conjunto>Thief Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura219">
+        <nombre>Wanderer Manchette</nombre>
+        <conjunto>Wanderer Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura220">
+        <nombre>Wanderer Boots</nombre>
+        <conjunto>Wanderer Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura221">
+        <nombre>Standard Helm</nombre>
+        <conjunto>Warrior Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura222">
+        <nombre>Hard Leather Armor</nombre>
+        <conjunto>Warrior Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura223">
+        <nombre>Hard Leather Gauntlets</nombre>
+        <conjunto>Warrior Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura224">
+        <nombre>Hard Leather Boots</nombre>
+        <conjunto>Warrior Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura225">
+        <nombre>Witch Hat</nombre>
+        <conjunto>Witch Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura226">
+        <nombre>Witch Cloak</nombre>
+        <conjunto>Witch Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura227">
+        <nombre>Witch Gloves</nombre>
+        <conjunto>Witch Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura228">
+        <nombre>Witch Skirt</nombre>
+        <conjunto>Witch Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>250</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura229">
+        <nombre>Xanthous Crown</nombre>
+        <conjunto>Xanthous Set</conjunto>
+        <slot_armadura>Cabeza</slot_armadura>
+        <durabilidad_max> 400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura230">
+        <nombre>Xanthous Overcoat</nombre>
+        <conjunto>Xanthous Set</conjunto>
+        <slot_armadura>Torso</slot_armadura>
+        <durabilidad_max> 400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura231">
+        <nombre>Xanthous Gloves</nombre>
+        <conjunto>Xanthous Set</conjunto>
+        <slot_armadura>Manos</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+    <pieza_armadura pieza_armadura_id="pieza_armadura232">
+        <nombre>Xanthous Waistcloth</nombre>
+        <conjunto>Xanthous Set</conjunto>
+        <slot_armadura>Piernas</slot_armadura>
+        <durabilidad_max>400</durabilidad_max>
+    </pieza_armadura>
+</piezas_armaduras><items>
+    <item item_id="item0">
+        <nombre>Estus Flask</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Used to gather Estus at bonfires for HP recovery in the field</descripcion>
+    </item>
+    <item item_id="item1">
+        <nombre>Humanity</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Increases Humanity by 1 and fully restores HP when consumed.</descripcion>
+    </item>
+    <item item_id="item2">
+        <nombre>Twin Humanities</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Increases Humanity by 2 and fully restores HP when consumed.</descripcion>
+    </item>
+    <item item_id="item3">
+        <nombre>Fire Keeper Soul</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion> Used to upgrade Estus Flask to heal more HP per flaskCan also be used as an item to gain 5 Humanity (NOT recommended). </descripcion>
+    </item>
+    <item item_id="item4">
+        <nombre>Divine Blessing</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Healing Item which restores all health and removes all negative status ailments except for Curse.</descripcion>
+    </item>
+    <item item_id="item5">
+        <nombre>Prism Stone</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Used to determine height and lethality of a fall.</descripcion>
+    </item>
+    <item item_id="item6">
+        <nombre>Repair Powder</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Used to repair broken equipment without the need of a repair box or smith.</descripcion>
+    </item>
+    <item item_id="item7">
+        <nombre>Transient Curse</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Lets you damage ghosts for a limited time</descripcion>
+    </item>
+    <item item_id="item8">
+        <nombre>Homeward Bone</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Transports player to the last visited Bonfire without loss of souls or humanity.</descripcion>
+    </item>
+    <item item_id="item9">
+        <nombre>Green Blossom</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Temporary boost to stamina recovery speed</descripcion>
+    </item>
+    <item item_id="item10">
+        <nombre>Bloodred Moss Clump</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Reduces the accumulation of bleed</descripcion>
+    </item>
+    <item item_id="item11">
+        <nombre>Purple Moss Clump</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Reduces the accumulation of poison and cancels poisoned status</descripcion>
+    </item>
+    <item item_id="item12">
+        <nombre>Blooming Purple Moss Clump</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Reduces the accumulation of poison and toxic and cancels Toxic status</descripcion>
+    </item>
+    <item item_id="item13">
+        <nombre>Purging Stone</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Reduces curse build-up and breaks curse</descripcion>
+    </item>
+    <item item_id="item14">
+        <nombre>Charcoal Pine Resin</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Applies Fire to your right-hand weapon</descripcion>
+    </item>
+    <item item_id="item15">
+        <nombre>Rotten Pine Resin</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Applies Poison build-up to your right-hand weapon</descripcion>
+    </item>
+    <item item_id="item16">
+        <nombre>Gold Pine Resin</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Applies Lightning to your right-hand weapon</descripcion>
+    </item>
+    <item item_id="item17">
+        <nombre>Egg Vermifuge</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Removes parasitic egg from body</descripcion>
+    </item>
+    <item item_id="item18">
+        <nombre>Elizabeth's Mushroom</nombre>
+        <tipo>Consumables</tipo>
+        <descripcion>Regenerates HP for 30 seconds</descripcion>
+    </item>
+    <item item_id="item19">
+        <nombre>Standard Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>45</descripcion>
+    </item>
+    <item item_id="item20">
+        <nombre>Large Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>60</descripcion>
+    </item>
+    <item item_id="item21">
+        <nombre>Feather Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>50</descripcion>
+    </item>
+    <item item_id="item22">
+        <nombre>Fire Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>35</descripcion>
+    </item>
+    <item item_id="item23">
+        <nombre>Poison Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>42</descripcion>
+    </item>
+    <item item_id="item24">
+        <nombre>Moonlight Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>0</descripcion>
+    </item>
+    <item item_id="item25">
+        <nombre>Wooden Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>35</descripcion>
+    </item>
+    <item item_id="item26">
+        <nombre>Dragonslayer Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>100</descripcion>
+    </item>
+    <item item_id="item27">
+        <nombre>Gough's Great Arrow</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>105</descripcion>
+    </item>
+    <item item_id="item28">
+        <nombre>Standard Bolt</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>48</descripcion>
+    </item>
+    <item item_id="item29">
+        <nombre>Heavy Bolt</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>64</descripcion>
+    </item>
+    <item item_id="item30">
+        <nombre>Sniper Bolt</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>53</descripcion>
+    </item>
+    <item item_id="item31">
+        <nombre>Wood Bolt</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>38</descripcion>
+    </item>
+    <item item_id="item32">
+        <nombre>Lightning Bolt</nombre>
+        <tipo>Ammunition</tipo>
+        <descripcion>38</descripcion>
+    </item>
+    <item item_id="item33">
+        <nombre>Large Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +5 Normal weapons into +10 Normal.
+Modify +5 Normal weapons into +5 Raw.
+Blacksmith: Andre</descripcion>
+    </item>
+    <item item_id="item34">
+        <nombre>Very Large Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +10 Normal weapons into +15 Normal.
+Blacksmith: Andre</descripcion>
+    </item>
+    <item item_id="item35">
+        <nombre>Divine Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +5 Normal weapons into +5 Divine.
+Blacksmith: Andre</descripcion>
+    </item>
+    <item item_id="item36">
+        <nombre>Large Divine Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +5 Divine weapons into +10 Divine.
+Blacksmith: Andre</descripcion>
+    </item>
+    <item item_id="item37">
+        <nombre>Dark Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +5 Divine weapons into +5 Occult.
+Blacksmith: Andre</descripcion>
+    </item>
+    <item item_id="item38">
+        <nombre>Large Magic Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +5 Magic weapons into +10 Magic.
+Blacksmith: Rickert</descripcion>
+    </item>
+    <item item_id="item39">
+        <nombre>Enchanted Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +5 Magic weapons into +5 Enchanted.
+Blacksmith: Rickert</descripcion>
+    </item>
+    <item item_id="item40">
+        <nombre>Crystal Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +10 Normal weapons into +5 Crystal.
+Blacksmith: Giant Blacksmith</descripcion>
+    </item>
+    <item item_id="item41">
+        <nombre>Large Flame Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +5 Fire weapons into +10 Fire.
+Blacksmith: Blacksmith Vamos</descripcion>
+    </item>
+    <item item_id="item42">
+        <nombre>Chaos Flame Ember</nombre>
+        <tipo>Embers</tipo>
+        <descripcion>Modify +5 Fire weapons into +5 Chaos.
+Blacksmith: Blacksmith Vamos</descripcion>
+    </item>
+    <item item_id="item43">
+        <nombre>Repairbox</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Used to repair damaged equipment.Only needs to be bought once, but you still need to use souls as you would if a Blacksmith did the repair for you.</descripcion>
+    </item>
+    <item item_id="item44">
+        <nombre>Weapon Smithbox</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Tool used to etch Titanite into weapons for reinforcement.Only needs to be bought once, but you still need to use souls as you would if a Blacksmith did the reinforcement for you.Some upgrades, especially the first branch of a new upgrade path, require a Blacksmith.Example: You must have Blacksmith turn a +5 weapon into a divine weapon,but you can then use the smithbox to upgrade to Divine level +1..+5</descripcion>
+    </item>
+    <item item_id="item45">
+        <nombre>Armor Smithbox</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Tool used to etch titanite into armor for reinforcement.Only needs to be bought once, but you still need to use souls as you would if a Blacksmith did the reinforcement for you.</descripcion>
+    </item>
+    <item item_id="item46">
+        <nombre>Bottomless Box</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Store excess items without limit.</descripcion>
+    </item>
+    <item item_id="item47">
+        <nombre>Rite of Kindling</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Kindle bonfires past their limit.</descripcion>
+    </item>
+    <item item_id="item48">
+        <nombre>Lordvessel</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Warp between Bonfires. This only applies to certain bonfires.Unlock final area, the Kiln of the First Flame.</descripcion>
+    </item>
+    <item item_id="item49">
+        <nombre>Soul of Four Kings</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Kindle Lordvessel at Firelink Altar.</descripcion>
+    </item>
+    <item item_id="item50">
+        <nombre>Soul of Seath the Scaleless</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Kindle Lordvessel at Firelink Altar.</descripcion>
+    </item>
+    <item item_id="item51">
+        <nombre>Soul of Gravelord Nito</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Kindle Lordvessel at Firelink Altar</descripcion>
+    </item>
+    <item item_id="item52">
+        <nombre>Soul of Bed of Chaos</nombre>
+        <tipo>Key Bonfire Items</tipo>
+        <descripcion>Kindle Lordvessel at Firelink Altar</descripcion>
+    </item>
+    <item item_id="item53">
+        <nombre>Master Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Gotten by choosing it as a gift, or the thief class, at the start of the game. Buy it for 5,000 souls from Domhnall of Zena  after he moves under the bridge by Firelink Shrine.
+Unlocks Location: Unlocks many locks in the early areas. See which locks it opens in the MK section to the right, or on the Master Key page.
+In Master Key?: MK</descripcion>
+    </item>
+    <item item_id="item54">
+        <nombre>Dungeon Cell Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Northern Undead Asylum. On corpse dropped into cell.
+Unlocks Location: Northern Undead Asylum. Cell door.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item55">
+        <nombre>Undead Asylum F2 East Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Undead Asylum. Gift from Oscar of Astora.
+Unlocks Location: Undead Asylum. Door behind boulder trap.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item56">
+        <nombre>Undead Asylum F2 West Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Firelink Shrine. Roof of building flooded with water. Accessible after unlocking lift to Undead Church.
+Unlocks Location: Undead Asylum. Open the door guarded by Elite Undead, leads to Rusted Iron Ring.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item57">
+        <nombre>Big Pilgrim's Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Dropped by Asylum Demon. Also given by Oscar of Astora if the Asylum Demon is slain before acquiring the Estus Flask.
+Unlocks Location: Undead Asylum. Exit Asylum.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item58">
+        <nombre>Residence Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Undead Burg. Bought from Undead Merchant.
+Unlocks Location:  Access 3x Gold Pine Resin in a residence in Undead Burg.Frees Griggs of Vinheim in Lower Undead Burg. 
+In Master Key?: Yes</descripcion>
+    </item>
+    <item item_id="item59">
+        <nombre>Mystery Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Undead Parish. On the rafters behind a ladder in the room under the Fang Boar.
+Unlocks Location: Frees Lautrec. Behind a breakable door, on the second floor of the Undead Church.
+In Master Key?: Yes</descripcion>
+    </item>
+    <item item_id="item60">
+        <nombre>Basement Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Found on the steps to Undead Church, right behind the big gate.
+Unlocks Location: Unlocks the small door at the start of the Hellkite bridge, leading to Lower Undead Burg
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item61">
+        <nombre>Key to Depths</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Lower Undead Burg. Dropped by Capra Demon.
+Unlocks Location: Unlocks the door to the Depths. Go right just before the Capra Demon's fog wall, the door is at the bottom of the tower by two thieves.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item62">
+        <nombre>Sewer Chamber Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Depths. On a corpse in the room with the giant rat. The key is also accessible from the other side of the iron bars.
+Unlocks Location: Unlocks Bonfire room in the first slime-hallway in Depths.
+In Master Key?: Yes</descripcion>
+    </item>
+    <item item_id="item63">
+        <nombre>Blighttown Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Depths. Dropped by Gaping Dragon.
+Unlocks Location: Unlocks Blighttown. Huge doors beside Domhnall of Zena (sewer merchant) in Depths.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item64">
+        <nombre>Watchtower Basement Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Darkroot Garden. On top of the tower, after crossing the Moonlight Butterfly bridge.
+Unlocks Location: Unlock shortcut between Undead Burg and Darkroot Basin, guarded by Havel.
+In Master Key?: Yes</descripcion>
+    </item>
+    <item item_id="item65">
+        <nombre>Key to New Londo Ruins</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Blighttown. In the Chest at the end of the cave, when entering from the Valley of Drakes.
+Unlocks Location: Unlocks shortcut between New Londo Ruins and Valley of Drakes.
+In Master Key?: Yes</descripcion>
+    </item>
+    <item item_id="item66">
+        <nombre>Key to the Seal</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: New Londo Ruins. Gift from Ingward after getting the Lordvessel. He will also drop it if killed.
+Unlocks Location: Access lower New Londo, Valley of Drakes (2nd entrance) and The Abyss.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item67">
+        <nombre>Cage Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Sen's Fortress. At the bottom of the tower with Crestfallen Merchant. Jump across the broken bridge to access the tower.
+Unlocks Location:  Unlocks hidden cages in Sen's Fortress. Frees Logan and a Soul of a Hero.Unlocks cage elevator in Sen's Fortress. 
+In Master Key?: Yes</descripcion>
+    </item>
+    <item item_id="item68">
+        <nombre>Archive Tower Cell Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: The Duke's Archives. Dropped by the sleeping Man-Serpent just outside the bonfire.
+Unlocks Location: Opens prison in Archive Tower. Opens the third door down from the bonfire.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item69">
+        <nombre>Archive Prison Extra Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: The Duke's Archives. Found on corpse after dropping down from cell 3 to 4.
+Unlocks Location: Opens the other cell doors in Archive Tower. Also opens the second door in the Bonfire cell, and a shortcut to the gramophone.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item70">
+        <nombre>Archive Tower Giant Door Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: The Duke's Archives. Found in the chest behind the gramophone.
+Unlocks Location: Exit Archive Tower.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item71">
+        <nombre>Archive Tower Giant Cell Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: The Duke's Archives. Found in the chest at the bottom of the Archives, by the exit to the Crystal Cave.
+Unlocks Location: Opens the cell behind the Pisacas. Free Big Hat Logan.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item72">
+        <nombre>Annex Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Painted World of Ariamis.Found in the underground sewers section, located in a dead end behind an illusory wall.
+Unlocks Location: Opens Annex in Painted World. Get Dark Ember.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item73">
+        <nombre>Crest of Artorias</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Bought from Blacksmith Andre for 20,000 souls. Dropped by Blacksmith Andre
+Unlocks Location: Opens the sealed gate within Darkroot Garden.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item74">
+        <nombre>Peculiar Doll</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Undead Asylum, found near the Dungeon Cell Key after Firelink Shrine has been visited.
+Unlocks Location: Access Painted World of Ariamis.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item75">
+        <nombre>Broken Pendant</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: The Duke's Archives. Dropped by the Crystal Golem after the first elevator. Dusk of Oolacile must have been rescued for the pendant to drop. (AotA only)
+Unlocks Location: Access Lost Oolacile from the Darkroot Basin.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item76">
+        <nombre>Crest Key</nombre>
+        <tipo>Keys</tipo>
+        <descripcion>Found Location: Oolacile Township. Found inside a Mimic near a lit fireplace. (AotA only)
+Unlocks Location: Access Hawkeye Gough.
+In Master Key?: No</descripcion>
+    </item>
+    <item item_id="item77">
+        <nombre>Orange Guidance Soapstone</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Online play item used to write and rate messages left by other players.</descripcion>
+    </item>
+    <item item_id="item78">
+        <nombre>White Sign Soapstone</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Online play item used to leave a summon sign for cooperative play.</descripcion>
+    </item>
+    <item item_id="item79">
+        <nombre>Black Separation Crystal</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>The crystal sends phantoms back to their world or sends you back to yours.</descripcion>
+    </item>
+    <item item_id="item80">
+        <nombre>Red Sign Soapstone</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Online play item used to leave summon sign for competitive play.</descripcion>
+    </item>
+    <item item_id="item81">
+        <nombre>Cracked Red Eye Orb</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>This consumable item will allow you to invade another player's world. </descripcion>
+    </item>
+    <item item_id="item82">
+        <nombre>Red Eye Orb</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>This reusable item allows the player to invade another player's world.</descripcion>
+    </item>
+    <item item_id="item83">
+        <nombre>Blue Eye Orb</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Invade the world of a sinner.</descripcion>
+    </item>
+    <item item_id="item84">
+        <nombre>Dried Finger</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Resets invasion timer.</descripcion>
+    </item>
+    <item item_id="item85">
+        <nombre>Book of the Guilty</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Online play item. Checklist of indicted players.</descripcion>
+    </item>
+    <item item_id="item86">
+        <nombre>Indictment</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Online play item. Indict invader.</descripcion>
+    </item>
+    <item item_id="item87">
+        <nombre>Servant Roster</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Check servants of the Daughters of Chaos.</descripcion>
+    </item>
+    <item item_id="item88">
+        <nombre>Dragon Eye</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Invade the world of a possessor of a Dragon Scale.</descripcion>
+    </item>
+    <item item_id="item89">
+        <nombre>Eye Of Death</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Lure Phantoms from other worlds.</descripcion>
+    </item>
+    <item item_id="item90">
+        <nombre>Sunlight Medal</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Used to rank up in the Warriors of Sunlight covenant</descripcion>
+    </item>
+    <item item_id="item91">
+        <nombre>Souvenir of Reprisal</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Used to rank up in the Blades of the Darkmoon covenant</descripcion>
+    </item>
+    <item item_id="item92">
+        <nombre>Purple Coward's Crystal</nombre>
+        <tipo>Multiplayer Items</tipo>
+        <descripcion>Online play item used to exit Battle of Stoicism. (AotA Only)</descripcion>
+    </item>
+    <item item_id="item93">
+        <nombre>Titanite Shard</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce standard weapons to +5 Reinforce standard armor to +3</descripcion>
+    </item>
+    <item item_id="item94">
+        <nombre>Large Titanite Shard</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce standard weapons to +10, Raw weapons to +5 Reinforce standard armor to +6</descripcion>
+    </item>
+    <item item_id="item95">
+        <nombre>Titanite Chunk</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce standard weapons to +14, Crystal and Lightning weapons to +4, Reinforce standard armor to +9</descripcion>
+    </item>
+    <item item_id="item96">
+        <nombre>Titanite Slab</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce standard weapons to +15, Crystal and Lightning weapons to +5, Reinforce standard armor to +10</descripcion>
+    </item>
+    <item item_id="item97">
+        <nombre>Green Titanite Shard</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce Magic, Divine, and Fire weapons to +5</descripcion>
+    </item>
+    <item item_id="item98">
+        <nombre>Blue Titanite Chunk</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce Magic weapons to +9, Enchanted weapons to +4</descripcion>
+    </item>
+    <item item_id="item99">
+        <nombre>Blue Titanite Slab</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce Magic weapons to +10, Enchanted weapons to +5</descripcion>
+    </item>
+    <item item_id="item100">
+        <nombre>Red Titanite Chunk</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce Fire weapons to +9, Chaos weapons to +4</descripcion>
+    </item>
+    <item item_id="item101">
+        <nombre>Red Titanite Slab</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce Fire weapons to +10, Chaos weapons to +5</descripcion>
+    </item>
+    <item item_id="item102">
+        <nombre>White Titanite Chunk</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce Divine weapons to +9, Occult weapons to +4</descripcion>
+    </item>
+    <item item_id="item103">
+        <nombre>White Titanite Slab</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce Divine weapons to +10, Occult weapons to +5</descripcion>
+    </item>
+    <item item_id="item104">
+        <nombre>Twinkling Titanite</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce non-infusable weapons and rare armor to +5</descripcion>
+    </item>
+    <item item_id="item105">
+        <nombre>Demon Titanite</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce weapons made with Boss Souls to +5</descripcion>
+    </item>
+    <item item_id="item106">
+        <nombre>Dragon Scale</nombre>
+        <tipo>Ore</tipo>
+        <descripcion>Reinforce Dragon weapons to +5</descripcion>
+    </item>
+    <item item_id="item107">
+        <nombre>Firebomb</nombre>
+        <tipo>Projectiles</tipo>
+        <descripcion>Throwable item. Deals AOE fire damage.</descripcion>
+    </item>
+    <item item_id="item108">
+        <nombre>Black Firebomb</nombre>
+        <tipo>Projectiles</tipo>
+        <descripcion>Throwable item. Deals heavy AOE fire damage.</descripcion>
+    </item>
+    <item item_id="item109">
+        <nombre>Dung Pie</nombre>
+        <tipo>Projectiles</tipo>
+        <descripcion>Throwable item. Inflicts toxic status on enemies and the user.</descripcion>
+    </item>
+    <item item_id="item110">
+        <nombre>Throwing Knife</nombre>
+        <tipo>Projectiles</tipo>
+        <descripcion>Projectile that deals light damage.</descripcion>
+    </item>
+    <item item_id="item111">
+        <nombre>Poison Throwing Knife</nombre>
+        <tipo>Projectiles</tipo>
+        <descripcion>Projectile that deals poison damage.</descripcion>
+    </item>
+    <item item_id="item112">
+        <nombre>Alluring Skull</nombre>
+        <tipo>Projectiles</tipo>
+        <descripcion>Throwable item. Attracts some enemies.</descripcion>
+    </item>
+    <item item_id="item113">
+        <nombre>Lloyd's Talisman</nombre>
+        <tipo>Projectiles</tipo>
+        <descripcion>Throwable item. Prevents the use of Estus within the area of effect.</descripcion>
+    </item>
+    <item item_id="item114">
+        <nombre>Soul of a Lost Undead</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 200 souls when consumed. Can be sold to Frampt for 500 souls.</descripcion>
+    </item>
+    <item item_id="item115">
+        <nombre>Large Soul of a Lost Undead</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 400 souls when consumed. Can be sold to Frampt for 500 souls.</descripcion>
+    </item>
+    <item item_id="item116">
+        <nombre>Soul of a Nameless Soldier</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 800 souls when consumed.</descripcion>
+    </item>
+    <item item_id="item117">
+        <nombre>Large Soul of a Nameless Soldier</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 1,000 souls when consumed.</descripcion>
+    </item>
+    <item item_id="item118">
+        <nombre>Soul of a Proud Knight</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 2,000 souls when consumed.</descripcion>
+    </item>
+    <item item_id="item119">
+        <nombre>Large Soul of a Proud Knight</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 3,000 souls when consumed.</descripcion>
+    </item>
+    <item item_id="item120">
+        <nombre>Soul of a Brave Warrior</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 5,000 souls when consumed.</descripcion>
+    </item>
+    <item item_id="item121">
+        <nombre>Large Soul of a Brave Warrior</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 8,000 souls when consumed.</descripcion>
+    </item>
+    <item item_id="item122">
+        <nombre>Soul of a Hero</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 10,000 souls when consumed.</descripcion>
+    </item>
+    <item item_id="item123">
+        <nombre>Soul of a Great Hero</nombre>
+        <tipo>Souls</tipo>
+        <descripcion>Gives 20,000 souls when consumed.</descripcion>
+    </item>
+    <item item_id="item124">
+        <nombre>Soul of the Moonlight Butterfly</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Moonlight Butterfly Horn (Ascended from +10 spear weapons) 
+        Crystal Ring Shield (Ascended from +10 shields) 
+        1,200 souls if consumed. Can also be sold to Kingseeker Frampt for 8,000 souls. 
+        </descripcion>
+    </item>
+    <item item_id="item125">
+        <nombre>Soul of Quelaag</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Quelaag's Furysword (Ascended from +10 curved sword) 
+        Chaos Blade (Ascended from +10 katana sword) 
+        Gives 8,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls. 
+        </descripcion>
+    </item>
+    <item item_id="item126">
+        <nombre>Core of an Iron Golem</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Dragon Bone Fist (Ascended from +10 fist weapons) 
+        Golem Axe (Ascended from +10 axe weapons) 
+        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 8,000 souls (less value). 
+        </descripcion>
+    </item>
+    <item item_id="item127">
+        <nombre>Soul of Gwyndolin</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Darkmoon Bow (Ascended from +10 bow weapons) 
+        Tin Darkmoon Catalyst (Ascended from cane catalyst) 
+        Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 20,000 souls. 
+        </descripcion>
+    </item>
+    <item item_id="item128">
+        <nombre>Soul of Ornstein</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Dragonslayer Spear (Ascended from +10 spear weapons) 
+        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 8,000 souls (less value). 
+        </descripcion>
+    </item>
+    <item item_id="item129">
+        <nombre>Soul of Smough</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Smough's Hammer (Ascended from +10 strike weapons) 
+        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 1 (one) soul (less value). 
+        </descripcion>
+    </item>
+    <item item_id="item130">
+        <nombre>Soul of (Great Wolf) Sif</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Greatsword of Artorias (Ascended from +10 Broken Straight Sword or Straight Sword Hilt) 
+        Greatsword of Artorias (Cursed) (Ascended from +10 great sword weapons) 
+        Greatshield of Artorias (Ascended from +10 shields) 
+        Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 4,000 souls (less value). 
+        </descripcion>
+    </item>
+    <item item_id="item131">
+        <nombre>Soul of Priscilla</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Lifehunt Scythe (Ascended from +10 scythe or whip weapons) 
+        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 15,000 souls. 
+        </descripcion>
+    </item>
+    <item item_id="item132">
+        <nombre>Soul of Gwyn, Lord of Cinder</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        Great Lord Greatsword (Ascended from +10 greatsword weapons) 
+        Sunlight Spear (10 Sunlight Medals at Sunlight Altar) 
+        Gives 20,000 souls when consumed. Can also be sold to Kingseeker Frampt for 40,000 souls. 
+        </descripcion>
+    </item>
+    <item item_id="item133">
+        <nombre>Guardian Soul</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        (AotA Only) 
+        Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value). 
+        </descripcion>
+    </item>
+    <item item_id="item134">
+        <nombre>Soul of Artorias</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        (AotA Only) 
+        Abyss Greatsword (Ascended from +10 greatsword weapons) 
+        Dark Silver Tracer and Gold Tracer (give soul to Ciaran, or kill her) 
+        Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value). 
+        </descripcion>
+    </item>
+    <item item_id="item135">
+        <nombre>Soul of Manus</nombre>
+        <tipo>Souls</tipo>
+        <descripcion> 
+        
+        (AotA Only) 
+        Manus Catalyst (Ascended from catalysts) 
+        Pursuers (trade to Snuggly) 
+        Gives 18,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value). 
+        </descripcion>
+    </item>
+    <item item_id="item136">
+        <nombre>Skull Lantern</nombre>
+        <tipo>Tools</tipo>
+        <descripcion>Holding it in the left hand (shield-hand) and holding L1 or LB causes it to light an area around the character like a torch.</descripcion>
+    </item>
+    <item item_id="item137">
+        <nombre>Binoculars</nombre>
+        <tipo>Tools</tipo>
+        <descripcion>Using it as an item causes you to use the binoculars to see further.Can be used to aim Crossbows for long-distance shooting.</descripcion>
+    </item>
+    <item item_id="item138">
+        <nombre>Darksign</nombre>
+        <tipo>Tools</tipo>
+        <descripcion>Sends the user back to the last used bonfire upon death.Can be used as an item (unlimited uses) to warp back to previous bonfire at any point, losing all souls and humanity</descripcion>
+    </item>
+    <item item_id="item139">
+        <nombre>Dragon Head Stone</nombre>
+        <tipo>Tools</tipo>
+        <descripcion>Turns your head into one of a dragon.</descripcion>
+    </item>
+    <item item_id="item140">
+        <nombre>Dragon Torso Stone</nombre>
+        <tipo>Tools</tipo>
+        <descripcion>Turns you completely into a Dragonoid.</descripcion>
+    </item>
+    <item item_id="item141">
+        <nombre>Black Eye Orb</nombre>
+        <tipo>Tools</tipo>
+        <descripcion>Invade the world of the murderer of a firekeeper</descripcion>
+    </item>
+    <item item_id="item142">
+        <nombre>Silver Pendant</nombre>
+        <tipo>Tools</tipo>
+        <descripcion>Creates a field around the player that deflects Dark Magic for a few seconds. It is activated in a way similar to Force, though the player is able to move briefly whilst the pendant is still in effect.</descripcion>
+    </item>
+    <item item_id="item143">
+        <nombre>Pendant</nombre>
+        <tipo>Unequippable</tipo>
+        <descripcion>Appears to have no use. Can be chosen as a gift upon character creation. Dropped by Reah of Thorolund if Petrus kills her. Rare drop from invaders in Darkroot Garden. Can be traded with Snuggly for a Souvenir of Reprisal.</descripcion>
+    </item>
+    <item item_id="item144">
+        <nombre>Rubbish</nombre>
+        <tipo>Unequippable</tipo>
+        <descripcion>It has no value. Found by dropping down, to the area below, right in front of the first fog door in Undead Burg.Possible reward from defeating a trespasser while in the Forest Hunters. Can be traded with Snuggly for a Titanite Chunk.</descripcion>
+    </item>
+    <item item_id="item145">
+        <nombre>Copper Coin</nombre>
+        <tipo>Unequippable</tipo>
+        <descripcion>Coin made of copper. Its face shows an image of Old Man McLoyf, god of medicine and drink. Talk to Petrus of Thorolund a couple times before Reah arrives and he will give you one. Can be sold to Kingseeker Frampt for 1.000 souls.</descripcion>
+    </item>
+    <item item_id="item146">
+        <nombre>Silver Coin</nombre>
+        <tipo>Unequippable</tipo>
+        <descripcion>Coin made of silver, with the portrait of the legendary Knight King Rendal on its face. A Mimic in Anor Londo drops 5 of these. Can be sold to Kingseeker Frampt for 3.000 souls.</descripcion>
+    </item>
+    <item item_id="item147">
+        <nombre>Gold Coin</nombre>
+        <tipo>Unequippable</tipo>
+        <descripcion>Coin made of gold, with Allfather Lloyd and his white halo shown on its face. Dropped by a Mimic in Anor Londo. Found on a body in the Painted World. Can be sold to Kingseeker Frampt for 5.000 souls.</descripcion>
+    </item>
+</items><hechizos>
+    <hechizo hechizo_id="hechizo0">
+        <nombre>Soul Arrow</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Fires a magical projectile. Excellent starting spell which does very good damage against most enemies in the early game areas.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo1">
+        <nombre>Great Soul Arrow</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Stronger soul arrow, same cast time as soul arrow, fewer uses.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo2">
+        <nombre>Heavy Soul Arrow</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Stronger than greater soul arrow, longer casting time.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo3">
+        <nombre>Great Heavy Soul Arrow</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Stronger than heavy soul arrow, fewer uses. Has a slow cast time, but deals a tremendous amount of damage, even against bosses.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo4">
+        <nombre>Homing Soulmass</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Fires multiple, homing magic projectiles. Can be successfully cast without an initial "lock on". Multiple soul arrows will hover above the player. Each individual soul arrow will seek the closest target, in the direction the player is facing, when in range. Because the spell can be cast in advance, it has a unique advantage in that, if timed correctly, it can be cast in synchronicity with other attacks.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo5">
+        <nombre>Homing Crystal Soulmass</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Fires multiple, homing crystal projectiles. Can be successfully cast without an initial "lock on". Multiple crystal arrows will hover above the player. Each individual soul arrow will seek the closest target, in the direction the player is facing, when in range.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo6">
+        <nombre>Soul Spear</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Fire piercing soul spear.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo7">
+        <nombre>Crystal Soul Spear</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Fire an even more powerful, piercing ranged attack.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo8">
+        <nombre>White Dragon Breath</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>A straight line of crystals pop out of the ground in front of you, shooting towards your target. One advantage of this spell is that it will take out large groups of enemies if they are lined up one behind the other. It has a medium cast time, but once it fires, it will take out anything in its path. 20 casts make this a great high level replacement for the soul arrow at high levels, as it's not as useful on most bosses.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo9">
+        <nombre>Magic Weapon</nombre>
+        <tipo>Sorcery - Weapon Buff</tipo>
+        <efecto>Enhances the right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 0.8x your Magic Adjustment stat (NOT Intelligence) magic damage to your weapon.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo10">
+        <nombre>Great Magic Weapon</nombre>
+        <tipo>Sorcery - Weapon Buff</tipo>
+        <efecto>Enhances the right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 1.1x your Magic Adjustment stat (NOT Intelligence) magic damage to your weapon.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo11">
+        <nombre>Crystal Magic Weapon</nombre>
+        <tipo>Sorcery - Weapon Buff</tipo>
+        <efecto>Enhances and crystallizes right-hand weapon. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too. Adds 1.4x your Magic Adjustment stat (NOT Intelligence) as magic damage to your weapon.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo12">
+        <nombre>Magic Shield</nombre>
+        <tipo>Sorcery - Support Defense (</tipo>
+        <efecto>Reinforces the equipped shield or weapon able to block in the left hand with magic. Works on all types of shields (even unique or upgraded to any path) and on all weapons able to block while on the left hand (even unique or upgraded to any path). Halves stamina used on hit deflection (only on shields) and improves the weapon's or shield's magic resistance by 30% (by up to a maximum of 90%). Lasts 15 seconds, 5 casts.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo13">
+        <nombre>Strong Magic Shield</nombre>
+        <tipo>Sorcery - Support Defense (</tipo>
+        <efecto>Reinforces the equipped shield or weapon able to block in the left hand with a stronger magic effect. Works on all types of shields (even unique or upgraded to any path) and on all weapons able to block while on the left hand (even unique or upgraded to any path). Reduces the stamina used to deflect a hit considerably (only on shields) and improves all the resistances of the shield or weapon enchanted to 100%. Lasts 15 seconds, 3 casts.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo14">
+        <nombre>Aural Decoy</nombre>
+        <tipo>Sorcery - Support Defense</tipo>
+        <efecto>Lures enemies away by creating a sound originating in the distance.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo15">
+        <nombre>Hush</nombre>
+        <tipo>Sorcery - Support Defense (</tipo>
+        <efecto>Masks all noises of caster.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo16">
+        <nombre>Fall Control</nombre>
+        <tipo>Sorcery - Support Defense (</tipo>
+        <efecto>Reduces damage and noise from fall. However, terminal falls will still kill you even with this active.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo17">
+        <nombre>Hidden Weapon</nombre>
+        <tipo>Sorcery - Support (</tipo>
+        <efecto>Turns your right hand weapon invisible. Weapon must be standard, crystal, or raw. Some Dragon and Unique weapons can be enchanted too.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo18">
+        <nombre>Hidden Body</nombre>
+        <tipo>Sorcery - Support (</tipo>
+        <efecto>Masks your presence, making detection harder.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo19">
+        <nombre>Repair</nombre>
+        <tipo>Sorcery - Support</tipo>
+        <efecto>Repairs weapons and armor</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo20">
+        <nombre>Cast Light</nombre>
+        <tipo>Sorcery - Support</tipo>
+        <efecto>Cast a bright light upon surroundings, and lasts 5 minutes. Particularly useful for Tomb of Giants</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo21">
+        <nombre>Chameleon</nombre>
+        <tipo>Sorcery - Support</tipo>
+        <efecto>Transform the caster into an inanimate object. Generally, the object you become is something common to the area you are in. Could be a vase, or a box, etc. Some strategy must be used, and the most effective is to place yourself in a cluster of similar objects. Once cast, you can move slowly and position yourself. If done properly, an enemy will walk by you and never know you're there. Cannot run when using, any other action breaks the effect.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo22">
+        <nombre>Remedy</nombre>
+        <tipo>Sorcery - Support</tipo>
+        <efecto>Removes poison/toxic/bleeding build up, and cures poison/toxic status.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo23">
+        <nombre>Resist Curse</nombre>
+        <tipo>Sorcery - Support</tipo>
+        <efecto>Removes curse build up.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo24">
+        <nombre>Dark Orb</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>After a brief charge, fires a large shot at your target.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo25">
+        <nombre>Dark Bead</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Fires a large amount of small dark orbs that fan outwards—very fast cast time. Excellent against large bosses.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo26">
+        <nombre>Dark Fog</nombre>
+        <tipo>Sorcery - AoE Ranged Sorcery</tipo>
+        <efecto>Creates a fog that inflicts poison. The fog is created at the location of the locked target.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo27">
+        <nombre>Pursuers</nombre>
+        <tipo>Sorcery - Ranged Magic Attack</tipo>
+        <efecto>Slow moving dark soul mass, fires and homes in on target when in range. Slower moving than homing soul mass but has much better homing capabilities.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo28">
+        <nombre>Fireball</nombre>
+        <tipo>Pyromancy - Ranged Attack</tipo>
+        <efecto>Standard pyromancy of the Great Swamp. Hurl fireball.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo29">
+        <nombre>Fire Orb</nombre>
+        <tipo>Pyromancy - Ranged Attack</tipo>
+        <efecto>Pyromancy which improves upon Fireball. Hurl fire orb.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo30">
+        <nombre>Great Fireball</nombre>
+        <tipo>Pyromancy - Ranged Attack</tipo>
+        <efecto>Ultimate fireball pyromancy. Hurl giant fireball.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo31">
+        <nombre>Great Chaos Fireball</nombre>
+        <tipo>Pyromancy - Ranged AoE Attack</tipo>
+        <efecto>Hurl giant chaos fireball, leaving a large amount of temporary lava</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo32">
+        <nombre>Firestorm</nombre>
+        <tipo>Pyromancy - Big AoE Attack</tipo>
+        <efecto>Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity. Note: Uses 17 uses per cast.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo33">
+        <nombre>Fire Tempest</nombre>
+        <tipo>Pyromancy - Big AoE Attack</tipo>
+        <efecto>Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo34">
+        <nombre>Chaos Storm</nombre>
+        <tipo>Pyromancy - Big AoE Attack</tipo>
+        <efecto>Erect localized chaos fire pillars which leave blobs of temporary lava Note: Like firestorm and leaves a little lava behind.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo35">
+        <nombre>Combustion</nombre>
+        <tipo>Pyromancy - Melee Range Attack</tipo>
+        <efecto>Elementary pyromancy. Create powerful flame in hand Note: Good 'melee' range spell, very quick too.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo36">
+        <nombre>Great Combustion</nombre>
+        <tipo>Pyromancy - Melee Range Attack</tipo>
+        <efecto>Pyromancy which improves upon Combustion. Create powerful, giant flame in hand. Note: Very good melee range spell.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo37">
+        <nombre>Fire Surge</nombre>
+        <tipo>Pyromancy - Short-Ranged Attack</tipo>
+        <efecto>Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand. Note: Rapid fire spell you can cast while moving.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo38">
+        <nombre>Fire Whip</nombre>
+        <tipo>Pyromancy - Short-Ranged Attack</tipo>
+        <efecto>Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip. Note: Uses 21 uses per cast. Note:Hits twice/cast</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo39">
+        <nombre>Chaos Fire Whip</nombre>
+        <tipo>Pyromancy - Short-Ranged Attack</tipo>
+        <efecto>Sweep foes with chaos fire whip with lava traces Note: Leaves lava behind for a bit. Follows same mechanics as Fire Whip.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo40">
+        <nombre>Poison Mist</nombre>
+        <tipo>Pyromancy - AoE</tipo>
+        <efecto>Breathes out a cone of poison mist that fills the surrounding area causing poison status.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo41">
+        <nombre>Toxic Mist</nombre>
+        <tipo>Pyromancy - AoE</tipo>
+        <efecto>Breathes out a cone of toxic mist that fills the surrounding area causing toxic status.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo42">
+        <nombre>Acid Surge</nombre>
+        <tipo>Pyromancy - AoE Attack</tipo>
+        <efecto>Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor damaging their durability. Does not affect user.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo43">
+        <nombre>Flash Sweat</nombre>
+        <tipo>Pyromancy - Buff</tipo>
+        <efecto>Covers the player in water, reduces fire damage.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo44">
+        <nombre>Iron Flesh</nombre>
+        <tipo>Pyromancy - Buff</tipo>
+        <efecto>Self-buff, raises defenses and poise. Note: User becomes heavy and unable to move freely: can only walk, can't run, sprint, roll, or jump.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo45">
+        <nombre>Power Within</nombre>
+        <tipo>Pyromancy - Buff</tipo>
+        <efecto>Increases Attack and Defense but gradually drains HP</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo46">
+        <nombre>Undead Rapport</nombre>
+        <tipo>Pyromancy - Melee Range Attack</tipo>
+        <efecto>Advanced pyromancy of Quelana of Izalith. Charm undead and gain temporary allies. Melee ranged support spell with about 2 second cast time.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo47">
+        <nombre>Black Flame</nombre>
+        <tipo>Pyromancy - Melee Range Attack</tipo>
+        <efecto>Similar to Great Combustion. Melee-range pyromancy. Main difference with Great Combustion is that when Black Flame is blocked, it consumes a much higher amount of stamina than Great Combustion, making this pyromancy great for breaking guards.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo48">
+        <nombre>Heal</nombre>
+        <tipo>Miracle - Heal</tipo>
+        <efecto>Heals a moderate amount of the casters HP, depending on faith.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo49">
+        <nombre>Great Heal Excerpt</nombre>
+        <tipo>Miracle - Heal</tipo>
+        <efecto>Cut down version of Great Heal. Heals large amount of HP to the caster. (NOTE: This spell does not affect allies as the erroneous load screen info would have you believe.)</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo50">
+        <nombre>Great Heal</nombre>
+        <tipo>Miracle - Heal</tipo>
+        <efecto>Heals a large amount of the casters HP, depending on faith.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo51">
+        <nombre>Soothing Sunlight</nombre>
+        <tipo>Miracle - Heal</tipo>
+        <efecto>Heals large amount of HP to the caster and nearby allies. Scales with faith. Must be part of the Princess's Guard to use.   </efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo52">
+        <nombre>Replenishment</nombre>
+        <tipo>Miracle - Heal (</tipo>
+        <efecto>Gradually restores HP over time for a short duration.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo53">
+        <nombre>Bountiful Sunlight</nombre>
+        <tipo>Miracle - Heal</tipo>
+        <efecto>Gradually restores HP over time for a short duration to you and nearby allies. Must be part of the Princess's Guard to use.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo54">
+        <nombre>Force</nombre>
+        <tipo>Miracle - AoE Attack</tipo>
+        <efecto>AoE effect that does no damage but knocks back most surrounding enemies Must be very close to cause knockdown Can deflect sorceries such as Homing Soulmass.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo55">
+        <nombre>Wrath of the Gods</nombre>
+        <tipo>Miracle - AoE Attack</tipo>
+        <efecto>A fast casting force spell that deals high damage in a bubble around you. One of the most powerful offensive miracles in the game. Can deflect sorceries.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo56">
+        <nombre>Emit Force</nombre>
+        <tipo>Miracle - AoE Attack</tipo>
+        <efecto>Shoots a large ball of force energy to explode on the target causing damage to the target and close surrounding enemies. Can deflect sorceries.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo57">
+        <nombre>Magic Barrier</nombre>
+        <tipo>Miracle - Support (</tipo>
+        <efecto>Reduces incoming magic damage for a short duration. (70%)?</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo58">
+        <nombre>Great Magic Barrier</nombre>
+        <tipo>Miracle - Support (</tipo>
+        <efecto>As Magic Barrier but reduces even more magic damage. (90%)?</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo59">
+        <nombre>Homeward</nombre>
+        <tipo>Miracle - Support</tipo>
+        <efecto>Transports you back to the last used bonfire.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo60">
+        <nombre>Seek Guidance</nombre>
+        <tipo>Miracle - Support (</tipo>
+        <efecto>The Seek Guidance miracle allows the player to see more messages on the ground as well as their positive and negative ratings. Additional developer messages, providing hints, can also be seen in some areas.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo61">
+        <nombre>Karmic Justice</nombre>
+        <tipo>Miracle - Support (</tipo>
+        <efecto>Karmic Justice is a self-buff that lasts for 1 minute. If the player takes successive hits in PHYSICAL damage (meaning melee and non-magical), the spell explodes, dealing massive damage to all nearby enemies and knocking them all down. A very effective miracle for players who wear cloth armor with no poise. If they get stunlocked by a combo, this spell can save you from certain death.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo62">
+        <nombre>Vow of Silence</nombre>
+        <tipo>Miracle - Support</tipo>
+        <efecto>An AoE silence around you that stops all casting in the area, including your own, for about 25 seconds. Does not scale with faith.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo63">
+        <nombre>Tranquil Walk of Peace</nombre>
+        <tipo>Miracle - Support</tipo>
+        <efecto>Applies a debuff to nearby enemies which slows movement speed, that lasts for about 10 seconds.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo64">
+        <nombre>Lightning Spear</nombre>
+        <tipo>Miracle - Ranged Attack</tipo>
+        <efecto>A powerful spear of light that inflicts lightning damage. Scales with faith. Can be thrown into bodies of water to cause AoE. (Puddles, lakes,etc.)</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo65">
+        <nombre>Great Lightning Spear</nombre>
+        <tipo>Miracle - Ranged Attack</tipo>
+        <efecto>A larger, more powerful spear of light that inflicts lightning damage. Scales with faith. Can be thrown into water to cause AoE. (Puddles, lakes,etc.)</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo66">
+        <nombre>Sunlight Spear</nombre>
+        <tipo>Miracle - Ranged Attack</tipo>
+        <efecto>A very powerful version of the lightning spear. Fewer charges but a lot more damage. Scales with faith. Can be thrown into water to cause AoE. (Puddles, lakes,etc.) Must remain part of Warriors of Sunlight to use.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo67">
+        <nombre>Sunlight Blade</nombre>
+        <tipo>Miracle - Weapon Buff</tipo>
+        <efecto>Coats right hand weapon in lightning. Adds 1.8x your talisman's Magic Adjustment value as Lightning Damage.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo68">
+        <nombre>Darkmoon Blade</nombre>
+        <tipo>Miracle - Weapon Buff</tipo>
+        <efecto>Boosts right hand weapon with rays of Darkmoon. Adds 1.8x your talisman's Magic Adjustment value as Magic Damage at Covenant Rank 0. Scaling increases by 0.1x for each rank to a maximum of 2.1x at Covenant Rank 3. • Must be member of Darkmoon covenant to use.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo69">
+        <nombre>Gravelord Sword Dance</nombre>
+        <tipo>Miracle - AoE Attack</tipo>
+        <efecto>AoE miracle similar to Gravelord Nito's "scream sword" attack. Several swords will pierce the ground impaling enemies in the area. Miracle is very effective when used in close quarters such as hallways or bridges as several swords may impale the same enemy.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo70">
+        <nombre>Gravelord Greatsword Dance</nombre>
+        <tipo>Miracle - AoE Attack</tipo>
+        <efecto>Upgraded version of Gravelord Sword Dance miracle. Area of effect is expanded and increased damage.</efecto>
+    </hechizo>
+    <hechizo hechizo_id="hechizo71">
+        <nombre>Escape Death</nombre>
+        <tipo>Miracle - Support</tipo>
+        <efecto>Escape Death is a self-buff that prevents the user from losing souls and humanity after death. The miracle will not work if the user has two other self-buffs active (i.e. having both the Green Blossom stamina regen effect and the Transient Curse's effect will prevent the use of this miracle). Upon death, the message "Magic Revived" appears in green lettering identical to the "Ring Revival" message produced when a player dies with a Ring of Sacrifice equipped.</efecto>
+    </hechizo>
+</hechizos><armas>
+    <arma arma_id="arma0">
+        <nombre>Ghost Blade</nombre>
+        <tipo>Dagger</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma1">
+        <nombre>Dagger</nombre>
+        <tipo>Dagger</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma2">
+        <nombre>Priscilla's Dagger</nombre>
+        <tipo>Dagger</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma3">
+        <nombre>Bandit's Knife</nombre>
+        <tipo>Dagger</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma4">
+        <nombre>Dark Silver Tracer</nombre>
+        <tipo>Dagger</tipo>
+        <durabilidad_max>120</durabilidad_max>
+    </arma>
+    <arma arma_id="arma5">
+        <nombre>Parrying dagger</nombre>
+        <tipo>Dagger</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma6">
+        <nombre>Velka's Talisman</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>50</durabilidad_max>
+    </arma>
+    <arma arma_id="arma7">
+        <nombre>Sunlight Talisman</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>50</durabilidad_max>
+    </arma>
+    <arma arma_id="arma8">
+        <nombre>Darkmoon Talisman</nombre>
+        <tipo>Talisman</tipo>
+        <durabilidad_max>50</durabilidad_max>
+    </arma>
+    <arma arma_id="arma9">
+        <nombre>Talisman</nombre>
+        <tipo>Talisman</tipo>
+        <durabilidad_max>50</durabilidad_max>
+    </arma>
+    <arma arma_id="arma10">
+        <nombre>Canvas Talisman</nombre>
+        <tipo>Talisman</tipo>
+        <durabilidad_max>50</durabilidad_max>
+    </arma>
+    <arma arma_id="arma11">
+        <nombre>Ivory Talisman</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>50</durabilidad_max>
+    </arma>
+    <arma arma_id="arma12">
+        <nombre>Thorolund Talisman</nombre>
+        <tipo>Talisman</tipo>
+        <durabilidad_max>50</durabilidad_max>
+    </arma>
+    <arma arma_id="arma13">
+        <nombre>Manus Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma14">
+        <nombre>Tin Banishment Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>160</durabilidad_max>
+    </arma>
+    <arma arma_id="arma15">
+        <nombre>Tin Darkmoon Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>60</durabilidad_max>
+    </arma>
+    <arma arma_id="arma16">
+        <nombre>Tin Crystallization Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>90</durabilidad_max>
+    </arma>
+    <arma arma_id="arma17">
+        <nombre>Oolacile Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>55</durabilidad_max>
+    </arma>
+    <arma arma_id="arma18">
+        <nombre>Logan's Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>90</durabilidad_max>
+    </arma>
+    <arma arma_id="arma19">
+        <nombre>Beatrice's Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>90</durabilidad_max>
+    </arma>
+    <arma arma_id="arma20">
+        <nombre>Oolacile Ivory Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>30</durabilidad_max>
+    </arma>
+    <arma arma_id="arma21">
+        <nombre>Demon's Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma22">
+        <nombre>Sorcerer's Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>90</durabilidad_max>
+    </arma>
+    <arma arma_id="arma23">
+        <nombre>Izalith Catalyst</nombre>
+        <tipo>Catalyst</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma24">
+        <nombre>Sniper Crossbow</nombre>
+        <tipo>Crossbow</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma25">
+        <nombre>Avelyn</nombre>
+        <tipo>Crossbow</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma26">
+        <nombre>Pyromancy Flame</nombre>
+        <tipo>Flame</tipo>
+        <durabilidad_max>30</durabilidad_max>
+    </arma>
+    <arma arma_id="arma27">
+        <nombre>Gough's Greatbow</nombre>
+        <tipo>Greatbow</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma28">
+        <nombre>Dragonslayer Greatbow</nombre>
+        <tipo>Greatbow</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma29">
+        <nombre>Heavy Crossbow</nombre>
+        <tipo>Crossbow</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma30">
+        <nombre>Light Crossbow</nombre>
+        <tipo>Crossbow</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma31">
+        <nombre>Darkmoon Bow</nombre>
+        <tipo>Bows</tipo>
+        <durabilidad_max>400</durabilidad_max>
+    </arma>
+    <arma arma_id="arma32">
+        <nombre>Black Bow of Pharis</nombre>
+        <tipo>Bows</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma33">
+        <nombre>Composite Bow</nombre>
+        <tipo>Bows</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma34">
+        <nombre>Short Bow</nombre>
+        <tipo>Bow</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma35">
+        <nombre>Longbow</nombre>
+        <tipo>Bows</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma36">
+        <nombre>Guardian Tail</nombre>
+        <tipo>Whip</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma37">
+        <nombre>Whip</nombre>
+        <tipo>Whip</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma38">
+        <nombre>Notched Whip</nombre>
+        <tipo>Notched Whip</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma39">
+        <nombre>Lifehunt Scythe</nombre>
+        <tipo>Halberd</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma40">
+        <nombre>Lucerne</nombre>
+        <tipo>Halberd</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma41">
+        <nombre>Scythe</nombre>
+        <tipo>Halberd</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma42">
+        <nombre>Giant's Halberd</nombre>
+        <tipo>Halberd</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma43">
+        <nombre>Great Scythe</nombre>
+        <tipo>Halberd</tipo>
+        <durabilidad_max>130</durabilidad_max>
+    </arma>
+    <arma arma_id="arma44">
+        <nombre>Black Knight Halberd</nombre>
+        <tipo>Halberd</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma45">
+        <nombre>Titanite Catch Pole</nombre>
+        <tipo>Halberd</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma46">
+        <nombre>Four-Pronged Plow</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma47">
+        <nombre>Halberd</nombre>
+        <tipo>Halberd</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma48">
+        <nombre>Gargoyle's Halberd</nombre>
+        <tipo>Halberds</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma49">
+        <nombre>Silver Knight Spear</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma50">
+        <nombre>Moonlight Butterfly Horn</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>160</durabilidad_max>
+    </arma>
+    <arma arma_id="arma51">
+        <nombre>Channeler's Trident</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>240</durabilidad_max>
+    </arma>
+    <arma arma_id="arma52">
+        <nombre>Partizan</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>160</durabilidad_max>
+    </arma>
+    <arma arma_id="arma53">
+        <nombre>Dragonslayer Spear</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma54">
+        <nombre>Pike</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>180</durabilidad_max>
+    </arma>
+    <arma arma_id="arma55">
+        <nombre>Winged Spear</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>140</durabilidad_max>
+    </arma>
+    <arma arma_id="arma56">
+        <nombre>Demon's Spear</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>400</durabilidad_max>
+    </arma>
+    <arma arma_id="arma57">
+        <nombre>Dark Hand</nombre>
+        <tipo>Fist Weapon</tipo>
+        <durabilidad_max>999</durabilidad_max>
+    </arma>
+    <arma arma_id="arma58">
+        <nombre>Dragon Bone Fist</nombre>
+        <tipo>Fist Weapon</tipo>
+        <durabilidad_max>999</durabilidad_max>
+    </arma>
+    <arma arma_id="arma59">
+        <nombre>Spear</nombre>
+        <tipo>Spears</tipo>
+        <durabilidad_max>180</durabilidad_max>
+    </arma>
+    <arma arma_id="arma60">
+        <nombre>Caestus</nombre>
+        <tipo>Fist Weapon</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma61">
+        <nombre>Claws</nombre>
+        <tipo>Fist Weapon</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma62">
+        <nombre>Dragon Tooth</nombre>
+        <tipo>Great Hammer</tipo>
+        <durabilidad_max>999</durabilidad_max>
+    </arma>
+    <arma arma_id="arma63">
+        <nombre>Grant</nombre>
+        <tipo>Great Hammer</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma64">
+        <nombre>Smough's Hammer</nombre>
+        <tipo>Great Hammer</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma65">
+        <nombre>Hammer of Vamos</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma66">
+        <nombre>Demon's Great Hammer</nombre>
+        <tipo>Great Hammer</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma67">
+        <nombre>Great Club</nombre>
+        <tipo>Great Hammer</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma68">
+        <nombre>Large Club</nombre>
+        <tipo>Great Hammer</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma69">
+        <nombre>Blacksmith Giant Hammer</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma70">
+        <nombre>Blacksmith Hammer</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma71">
+        <nombre>Pickaxe</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma72">
+        <nombre>Warpick</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>220</durabilidad_max>
+    </arma>
+    <arma arma_id="arma73">
+        <nombre>Morning Star</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>180</durabilidad_max>
+    </arma>
+    <arma arma_id="arma74">
+        <nombre>Reinforced Club</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma75">
+        <nombre>Mace</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma76">
+        <nombre>Stone Greataxe</nombre>
+        <tipo>Great Axe</tipo>
+        <durabilidad_max>700</durabilidad_max>
+    </arma>
+    <arma arma_id="arma77">
+        <nombre>Black Knight Greataxe</nombre>
+        <tipo>Great Axe</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma78">
+        <nombre>Club</nombre>
+        <tipo>Hammer</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma79">
+        <nombre>Greataxe</nombre>
+        <tipo>Great Axe</tipo>
+        <durabilidad_max>230</durabilidad_max>
+    </arma>
+    <arma arma_id="arma80">
+        <nombre>Dragon King Greataxe</nombre>
+        <tipo>Great Axe</tipo>
+        <durabilidad_max>400</durabilidad_max>
+    </arma>
+    <arma arma_id="arma81">
+        <nombre>Demon's Greataxe</nombre>
+        <tipo>Great Axe</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma82">
+        <nombre>Golem Axe</nombre>
+        <tipo>Axe</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma83">
+        <nombre>Butcher Knife</nombre>
+        <tipo>Axe</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma84">
+        <nombre>Battle Axe</nombre>
+        <tipo>Axe</tipo>
+        <durabilidad_max>250</durabilidad_max>
+    </arma>
+    <arma arma_id="arma85">
+        <nombre>Crescent Axe</nombre>
+        <tipo>Axe</tipo>
+        <durabilidad_max>180</durabilidad_max>
+    </arma>
+    <arma arma_id="arma86">
+        <nombre>Gargoyle Tail Axe</nombre>
+        <tipo>Axe</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma87">
+        <nombre>Hand Axe</nombre>
+        <tipo>Axe</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma88">
+        <nombre>Velka's Rapier</nombre>
+        <tipo>Piercing Sword</tipo>
+        <durabilidad_max>130</durabilidad_max>
+    </arma>
+    <arma arma_id="arma89">
+        <nombre>Ricard's Rapier</nombre>
+        <tipo>Piercing Sword</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma90">
+        <nombre>Rapier</nombre>
+        <tipo>Piercing Sword</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma91">
+        <nombre>Mail Breaker</nombre>
+        <tipo>Piercing Sword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma92">
+        <nombre>Estoc</nombre>
+        <tipo>Piercing Sword</tipo>
+        <durabilidad_max>150</durabilidad_max>
+    </arma>
+    <arma arma_id="arma93">
+        <nombre>Murakumo</nombre>
+        <tipo>Curved Greatsword</tipo>
+        <durabilidad_max>180</durabilidad_max>
+    </arma>
+    <arma arma_id="arma94">
+        <nombre>Server</nombre>
+        <tipo>Curved Greatsword</tipo>
+        <durabilidad_max>140</durabilidad_max>
+    </arma>
+    <arma arma_id="arma95">
+        <nombre>Gravelord Sword</nombre>
+        <tipo>Curved Greatsword</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma96">
+        <nombre>Chaos Blade</nombre>
+        <tipo>Katana</tipo>
+        <durabilidad_max>120</durabilidad_max>
+    </arma>
+    <arma arma_id="arma97">
+        <nombre>Iaito</nombre>
+        <tipo>Katana</tipo>
+        <durabilidad_max>80</durabilidad_max>
+    </arma>
+    <arma arma_id="arma98">
+        <nombre>Gold Tracer</nombre>
+        <tipo>Curved Sword</tipo>
+        <durabilidad_max>240</durabilidad_max>
+    </arma>
+    <arma arma_id="arma99">
+        <nombre>Washing Pole</nombre>
+        <tipo>Katana</tipo>
+        <durabilidad_max>60</durabilidad_max>
+    </arma>
+    <arma arma_id="arma100">
+        <nombre>Uchigatana</nombre>
+        <tipo>Katana</tipo>
+        <durabilidad_max>80</durabilidad_max>
+    </arma>
+    <arma arma_id="arma101">
+        <nombre>Jagged Ghost Blade</nombre>
+        <tipo>Curved Sword</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma102">
+        <nombre>Painting Guardian Sword</nombre>
+        <tipo>Curved Sword</tipo>
+        <durabilidad_max>100</durabilidad_max>
+    </arma>
+    <arma arma_id="arma103">
+        <nombre>Shotel</nombre>
+        <tipo>Curved Sword</tipo>
+        <durabilidad_max>120</durabilidad_max>
+    </arma>
+    <arma arma_id="arma104">
+        <nombre>Falchion</nombre>
+        <tipo>Curved Sword</tipo>
+        <durabilidad_max>160</durabilidad_max>
+    </arma>
+    <arma arma_id="arma105">
+        <nombre>Scimitar</nombre>
+        <tipo>Curved Sword</tipo>
+        <durabilidad_max>160</durabilidad_max>
+    </arma>
+    <arma arma_id="arma106">
+        <nombre>Quelaag's Furysword</nombre>
+        <tipo>Curved Sword</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma107">
+        <nombre>Demon Great Machete</nombre>
+        <tipo>Ultra Greatsword</tipo>
+        <durabilidad_max>600</durabilidad_max>
+    </arma>
+    <arma arma_id="arma108">
+        <nombre>Zweihander</nombre>
+        <tipo>Ultra Greatsword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma109">
+        <nombre>Black Knight Greatsword</nombre>
+        <tipo>Ultra Greatsword</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma110">
+        <nombre>Greatsword</nombre>
+        <tipo>Ultra Greatswords</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma111">
+        <nombre>Dragon Greatsword</nombre>
+        <tipo>Ultra Greatsword</tipo>
+        <durabilidad_max>400</durabilidad_max>
+    </arma>
+    <arma arma_id="arma112">
+        <nombre>Obsidian Greatsword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>350</durabilidad_max>
+    </arma>
+    <arma arma_id="arma113">
+        <nombre>Abyss Greatsword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma114">
+        <nombre>Stone Greatsword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>800</durabilidad_max>
+    </arma>
+    <arma arma_id="arma115">
+        <nombre>Greatsword of Artorias (Cursed)</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>400</durabilidad_max>
+    </arma>
+    <arma arma_id="arma116">
+        <nombre>Great Lord Greatsword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>400</durabilidad_max>
+    </arma>
+    <arma arma_id="arma117">
+        <nombre>Moonlight Greatsword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma118">
+        <nombre>Greatsword of Artorias</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma119">
+        <nombre>Man-Serpent greatsword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma120">
+        <nombre>Claymore</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma121">
+        <nombre>Flamberge</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>160</durabilidad_max>
+    </arma>
+    <arma arma_id="arma122">
+        <nombre>Crystal Greatsword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>60</durabilidad_max>
+    </arma>
+    <arma arma_id="arma123">
+        <nombre>Black Knight Sword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma124">
+        <nombre>Bastard Sword</nombre>
+        <tipo>Greatsword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma125">
+        <nombre>Crystal Straight Sword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>60</durabilidad_max>
+    </arma>
+    <arma arma_id="arma126">
+        <nombre>Darksword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma127">
+        <nombre>Drake Sword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>360</durabilidad_max>
+    </arma>
+    <arma arma_id="arma128">
+        <nombre>Silver Knight Straight Sword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>300</durabilidad_max>
+    </arma>
+    <arma arma_id="arma129">
+        <nombre>Astora's Straight Sword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>160</durabilidad_max>
+    </arma>
+    <arma arma_id="arma130">
+        <nombre>Balder Side Sword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>120</durabilidad_max>
+    </arma>
+    <arma arma_id="arma131">
+        <nombre>Longsword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma132">
+        <nombre>Shortsword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma133">
+        <nombre>Sunlight Straight Sword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>240</durabilidad_max>
+    </arma>
+    <arma arma_id="arma134">
+        <nombre>Barbed Straight Sword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma135">
+        <nombre>Broken Straight Sword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma136">
+        <nombre>Broadsword</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+    <arma arma_id="arma137">
+        <nombre>Straight Sword Hilt</nombre>
+        <tipo>Straight Sword</tipo>
+        <durabilidad_max>200</durabilidad_max>
+    </arma>
+</armas></objetos>

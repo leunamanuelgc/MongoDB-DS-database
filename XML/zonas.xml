@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE zonas SYSTEM "zonas.dtd">
+<zonas>
+  <zona zona_id="0">
+    <nombre>Refugio de los No Muertos</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="1">enemigo85</enemigo>
+      <enemigo cantidad="2">enemigo59</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>0</hoguera>
+      <hoguera>1</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="1">
+    <nombre>Santuario de Enlace de Fuego</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="7">enemigo50</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>2</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="2">
+    <nombre>Burgo de los No Muertos</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="8">enemigo51</enemigo>
+      <enemigo cantidad="10">enemigo34</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>3</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="3">
+    <nombre>Parroquia de los No Muertos</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="2">enemigo83</enemigo>
+      <enemigo cantidad="6">enemigo3</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>4</hoguera>
+      <hoguera>5</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="4">
+    <nombre>Jardín Tenebroso</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="3">enemigo110</enemigo>
+      <enemigo cantidad="4">enemigo70</enemigo>
+      <enemigo cantidad="9">enemigo52</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>6</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="5">
+    <nombre>Cuenca Tenebrosa</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="3">enemigo75</enemigo>
+      <enemigo cantidad="8">enemigo107</enemigo>
+      <enemigo cantidad="9">enemigo78</enemigo>
+      <enemigo cantidad="3">enemigo1</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>7</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="6">
+    <nombre>Profundidades</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="1">enemigo12</enemigo>
+      <enemigo cantidad="9">enemigo26</enemigo>
+      <enemigo cantidad="6">enemigo106</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>8</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="7">
+    <nombre>Ciudad Infestada</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="1">enemigo34</enemigo>
+      <enemigo cantidad="7">enemigo14</enemigo>
+      <enemigo cantidad="4">enemigo44</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>9</hoguera>
+      <hoguera>10</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="8">
+    <nombre>Dominios de Quelaag</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="8">enemigo56</enemigo>
+      <enemigo cantidad="3">enemigo104</enemigo>
+      <enemigo cantidad="7">enemigo14</enemigo>
+      <enemigo cantidad="8">enemigo52</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>11</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="9">
+    <nombre>Fortaleza de Sen</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="9">enemigo105</enemigo>
+      <enemigo cantidad="4">enemigo70</enemigo>
+      <enemigo cantidad="9">enemigo73</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>12</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="10">
+    <nombre>Anor Londo</nombre>
+    <lista_enemigos />
+    <lista_hogueras>
+      <hoguera>13</hoguera>
+      <hoguera>14</hoguera>
+      <hoguera>15</hoguera>
+      <hoguera>16</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="11">
+    <nombre>Mundo Pintado de Ariamis</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="6">enemigo16</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>17</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="12">
+    <nombre>El Gran Hueco</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="7">enemigo38</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>18</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="13">
+    <nombre>Lago de Ceniza</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="3">enemigo96</enemigo>
+      <enemigo cantidad="9">enemigo34</enemigo>
+      <enemigo cantidad="5">enemigo35</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>19</hoguera>
+      <hoguera>20</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="14">
+    <nombre>Las Catacumbas</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="6">enemigo17</enemigo>
+      <enemigo cantidad="2">enemigo51</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>21</hoguera>
+      <hoguera>22</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="15">
+    <nombre>Tumba de los Gigantes</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="9">enemigo83</enemigo>
+      <enemigo cantidad="6">enemigo88</enemigo>
+      <enemigo cantidad="2">enemigo37</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>23</hoguera>
+      <hoguera>24</hoguera>
+      <hoguera>25</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="16">
+    <nombre>Los Archivos del Duque</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="1">enemigo17</enemigo>
+      <enemigo cantidad="9">enemigo76</enemigo>
+      <enemigo cantidad="8">enemigo95</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>26</hoguera>
+      <hoguera>27</hoguera>
+      <hoguera>28</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="17">
+    <nombre>Cueva de Cristal</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="7">enemigo92</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>29</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="18">
+    <nombre>Ruinas de Nuevo Londo</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="4">enemigo22</enemigo>
+      <enemigo cantidad="6">enemigo102</enemigo>
+    </lista_enemigos>
+    <lista_hogueras />
+  </zona>
+  <zona zona_id="19">
+    <nombre>El Abismo</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="10">enemigo59</enemigo>
+      <enemigo cantidad="8">enemigo118</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>30</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="20">
+    <nombre>Valle de los Dragones</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="3">enemigo69</enemigo>
+      <enemigo cantidad="3">enemigo61</enemigo>
+      <enemigo cantidad="3">enemigo68</enemigo>
+    </lista_enemigos>
+    <lista_hogueras />
+  </zona>
+  <zona zona_id="21">
+    <nombre>Ruinas de los Demonios</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="6">enemigo105</enemigo>
+      <enemigo cantidad="8">enemigo60</enemigo>
+      <enemigo cantidad="9">enemigo0</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>31</hoguera>
+      <hoguera>32</hoguera>
+      <hoguera>33</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="22">
+    <nombre>Izalith Perdida</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="4">enemigo82</enemigo>
+      <enemigo cantidad="10">enemigo101</enemigo>
+      <enemigo cantidad="8">enemigo49</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>34</hoguera>
+      <hoguera>35</hoguera>
+      <hoguera>36</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="23">
+    <nombre>Altar del Enlace de Fuego</nombre>
+    <lista_enemigos />
+    <lista_hogueras>
+      <hoguera>37</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="24">
+    <nombre>Horno de la Primera Llama</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="1">enemigo0</enemigo>
+      <enemigo cantidad="1">enemigo49</enemigo>
+    </lista_enemigos>
+    <lista_hogueras />
+  </zona>
+  <zona zona_id="25">
+    <nombre>Jardín del Santuario</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="10">enemigo3</enemigo>
+      <enemigo cantidad="10">enemigo102</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>38</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="26">
+    <nombre>Santuario de Oolacile</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="1">enemigo39</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>39</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="27">
+    <nombre>Bosque Real</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="4">enemigo64</enemigo>
+      <enemigo cantidad="9">enemigo18</enemigo>
+      <enemigo cantidad="9">enemigo61</enemigo>
+      <enemigo cantidad="10">enemigo16</enemigo>
+    </lista_enemigos>
+    <lista_hogueras />
+  </zona>
+  <zona zona_id="28">
+    <nombre>Municipio de Oolacile</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="3">enemigo38</enemigo>
+      <enemigo cantidad="1">enemigo65</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>40</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="29">
+    <nombre>Mazmorra Municipal de Oolacile</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="10">enemigo12</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>41</hoguera>
+    </lista_hogueras>
+  </zona>
+  <zona zona_id="30">
+    <nombre>Sima del Abismo</nombre>
+    <lista_enemigos>
+      <enemigo cantidad="3">enemigo31</enemigo>
+      <enemigo cantidad="6">enemigo7</enemigo>
+    </lista_enemigos>
+    <lista_hogueras>
+      <hoguera>42</hoguera>
+    </lista_hogueras>
+  </zona>
+</zonas>

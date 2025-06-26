@@ -1,0 +1,15 @@
+<!-- ELEMENTO RAIZ -->
+
+<!ELEMENT enemigos (enemigo)+>
+
+<!-- ELEMENTOS PRINCIPALES -->
+
+<!ELEMENT enemigo (nombre, vida, es_jefe, almas)>
+<!ATTLIST enemigo enemigo_id ID #REQUIRED>
+
+<!-- SUBELEMENTOS -->
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT vida (#PCDATA)>
+<!ELEMENT es_jefe (#PCDATA)>
+<!ELEMENT almas (#PCDATA)>

@@ -1,0 +1,226 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <!-- JUGADORES -->
+  <xs:element name="jugadores">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- JUGADOR -->
+        <xs:element name="jugador" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="nombre"/>
+              <xs:element type="xs:int" name="almas"/>
+              <xs:element name="pacto">
+                  <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                          <xs:enumeration value="Way of White"/>
+                          <xs:enumeration value="Princess's Guard"/>
+                          <xs:enumeration value="Blade of the Darkmoon"/>
+                          <xs:enumeration value="Warrior of Sunlight"/>
+                          <xs:enumeration value="Forest Hunter"/>
+                          <xs:enumeration value="Chaos Servant"/>
+                          <xs:enumeration value="Gravelord Servant"/>
+                          <xs:enumeration value="Path of the Dragon"/>
+                          <xs:enumeration value="Darkwraith"/>
+                      </xs:restriction>
+                  </xs:simpleType>
+              </xs:element>
+              <!-- ARMAS -->
+              <xs:element name="lista_armas">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="arma" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:short" name="durabilidad"/>
+                          <xs:element type="xs:byte" name="nivel"/>
+                          <xs:element name="elemento">
+                              <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                      <xs:enumeration value="Crystal"/>
+                                      <xs:enumeration value="Lightning"/>
+                                      <xs:enumeration value="Raw"/>
+                                      <xs:enumeration value="Magic"/>
+                                      <xs:enumeration value="Enchanted"/>
+                                      <xs:enumeration value="Divine"/>
+                                      <xs:enumeration value="Occult"/>
+                                      <xs:enumeration value="Fire"/>
+                                      <xs:enumeration value="Chaos"/>
+                                  </xs:restriction>
+                              </xs:simpleType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="arma_id"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <xs:element type="xs:string" name="arma_equipada"/>
+              <!-- HECHIZOS -->
+              <xs:element name="lista_hechizos">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="hechizo" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                          <xs:attribute type="xs:string" name="hechizo_id"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <xs:element type="xs:string" name="hechizo_equipado"/>
+              
+              <!-- ARMADURAS -->
+              <xs:element name="lista_piezas_armaduras">
+                <xs:complexType>
+                  <xs:choice maxOccurs="unbounded" minOccurs="0">
+                    <xs:element name="pieza_armadura">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="durabilidad"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="pieza_armadura_id"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+
+              <xs:element type="xs:string" name="casco_equipado"/>
+              <xs:element type="xs:string" name="torso_equipado"/>
+              <xs:element type="xs:string" name="pernera_equipada"/>
+              <xs:element type="xs:string" name="guantes_equipado"/>
+
+              <!-- ITEMS -->
+              <xs:element name="lista_items">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="item" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:byte" name="cantidad"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="item_id"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <xs:element type="xs:string" name="item_equipado"/>
+              <!-- ZONA ACTUAL -->
+              <xs:element type="xs:string" name="zona_actual_id"/>
+              <!-- INVASION -->
+              <xs:element name="invasion" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="jugador_invadido_id" minOccurs="0"/>
+                    <xs:element type="xs:string" name="es_aliado" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <!-- MANCHAS DE SANGRE -->
+              <xs:element name="manchas_sangre">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="mancha_sangre" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="tiempo_muerte"/>
+                          <xs:element type="xs:string" name="causa_muerte"/>
+                          <xs:element type="xs:int" name="zona_muerte"/>
+                          <xs:element type="xs:int" name="almas_al_morir"/>
+                          <xs:element name="piezas_armaduras_al_morir">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="casco_id"/>
+                                <xs:element type="xs:string" name="torso_id"/>
+                                <xs:element type="xs:string" name="piernas_id"/>
+                                <xs:element type="xs:string" name="guantes_id"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element type="xs:string" name="arma_al_morir"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:int" name="jugador_id"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+
+    <!-- PRIMARY KEY DE JUGADOR -->
+    <xs:key name="jugadorPK">
+      <xs:selector xpath="jugador"/>
+      <xs:field xpath="@jugador_id"/>
+    </xs:key>
+
+    <!-- RESTRICCIONES DE LOS OBJETOS -->
+    <!-- ARMA EQUIPADA -->
+    <xs:key name="armaPK">
+      <xs:selector xpath="lista_armas/arma"/>
+      <xs:field xpath="@arma_id"/>
+    </xs:key>
+
+    <xs:keyref name="arma_equipadaFK" refer="armaPK">
+      <xs:selector xpath="arma_equipada"/>
+      <xs:field xpath="@arma_equipada"/>
+    </xs:keyref>
+
+    <!-- HECHIZO EQUIPADO -->
+    <xs:key name="hechizoPK">
+      <xs:selector xpath="lista_hechizos/hechizo"/>
+      <xs:field xpath="@hechizo_id"/>
+    </xs:key>
+
+    <xs:keyref name="hechizo_equipadoFK" refer="hechizoPK">
+      <xs:selector xpath="hechizo_equipado"/>
+      <xs:field xpath="@hechizo_equipado"/>
+    </xs:keyref>
+
+      <!-- ARMADURA EQUIPADA -->
+    <xs:key name="pieza_armaduraPK">
+      <xs:selector xpath="lista_piezas_armaduras/pieza_armadura"/>
+      <xs:field xpath="@pieza_armadura_id"/>
+    </xs:key>
+
+    <xs:keyref name="casco_equipadoFK" refer="pieza_armaduraPK">
+      <xs:selector xpath="casco_equipado"/>
+      <xs:field xpath="@casco_equipado"/>
+    </xs:keyref>
+
+    <xs:keyref name="torso_equipadoFK" refer="pieza_armaduraPK">
+      <xs:selector xpath="torso_equipado"/>
+      <xs:field xpath="@torso_equipado"/>
+    </xs:keyref>
+
+    <xs:keyref name="pernera_equipadaFK" refer="pieza_armaduraPK">
+      <xs:selector xpath="pernera_equipada"/>
+      <xs:field xpath="@pernera_equipada"/>
+    </xs:keyref>
+
+    <xs:keyref name="guantes_equipadoFK" refer="pieza_armaduraPK">
+      <xs:selector xpath="guantes_equipado"/>
+      <xs:field xpath="@guantes_equipado"/>
+    </xs:keyref>
+
+    <!-- ITEM EQUIPADO -->
+    <xs:key name="itemPK">
+      <xs:selector xpath="lista_items/item"/>
+      <xs:field xpath="@item_id"/>
+    </xs:key>
+
+    <xs:keyref name="item_equipadoFK" refer="itemPK">
+      <xs:selector xpath="item_equipado"/>
+      <xs:field xpath="@item_equipado"/>
+    </xs:keyref>
+
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,835 @@
+[
+	{
+		"nombre": "Hueco",
+		"vida": "220",
+		"es_jefe": "0",
+		"almas": "300",
+		"_enemigo_id": "enemigo0"
+	},
+	{
+		"nombre": "Hueco con antorcha",
+		"vida": "220",
+		"es_jefe": "0",
+		"almas": "300",
+		"_enemigo_id": "enemigo1"
+	},
+	{
+		"nombre": "Guerrero hueco",
+		"vida": "75",
+		"es_jefe": "0",
+		"almas": "60",
+		"_enemigo_id": "enemigo2"
+	},
+	{
+		"nombre": "Asesino no muerto",
+		"vida": "138",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo3"
+	},
+	{
+		"nombre": "Gerrero no muerto",
+		"vida": "144",
+		"es_jefe": "0",
+		"almas": "150",
+		"_enemigo_id": "enemigo4"
+	},
+	{
+		"nombre": "Caballero de Balder",
+		"vida": "385",
+		"es_jefe": "0",
+		"almas": "500",
+		"_enemigo_id": "enemigo5"
+	},
+	{
+		"nombre": "Arquero no muerto",
+		"vida": "130",
+		"es_jefe": "0",
+		"almas": "500",
+		"_enemigo_id": "enemigo6"
+	},
+	{
+		"nombre": "Hueco hinchado",
+		"vida": "330",
+		"es_jefe": "0",
+		"almas": "400",
+		"_enemigo_id": "enemigo7"
+	},
+	{
+		"nombre": "Bárbaro infestado",
+		"vida": "883",
+		"es_jefe": "0",
+		"almas": "500",
+		"_enemigo_id": "enemigo8"
+	},
+	{
+		"nombre": "Soldado no muerto de cristal",
+		"vida": "212",
+		"es_jefe": "0",
+		"almas": "400",
+		"_enemigo_id": "enemigo9"
+	},
+	{
+		"nombre": "Arquero no muerto de cristal",
+		"vida": "155",
+		"es_jefe": "0",
+		"almas": "400",
+		"_enemigo_id": "enemigo10"
+	},
+	{
+		"nombre": "Caballero de cristal",
+		"vida": "742",
+		"es_jefe": "0",
+		"almas": "3000",
+		"_enemigo_id": "enemigo11"
+	},
+	{
+		"nombre": "Perro de ataque no muerto",
+		"vida": "210",
+		"es_jefe": "0",
+		"almas": "300",
+		"_enemigo_id": "enemigo12"
+	},
+	{
+		"nombre": "Perro de ataque en llamas",
+		"vida": "124",
+		"es_jefe": "0",
+		"almas": "150",
+		"_enemigo_id": "enemigo13"
+	},
+	{
+		"nombre": "Necrófago infestado",
+		"vida": "365",
+		"es_jefe": "0",
+		"almas": "150",
+		"_enemigo_id": "enemigo14"
+	},
+	{
+		"nombre": "Caballero del espectro oscuro",
+		"vida": "525",
+		"es_jefe": "0",
+		"almas": "1200",
+		"_enemigo_id": "enemigo15"
+	},
+	{
+		"nombre": "Nigromante",
+		"vida": "411",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo16"
+	},
+	{
+		"nombre": "Gran caballero de piedra",
+		"vida": "190",
+		"es_jefe": "0",
+		"almas": "600",
+		"_enemigo_id": "enemigo17"
+	},
+	{
+		"nombre": "Gigante",
+		"vida": "1725",
+		"es_jefe": "0",
+		"almas": "3000",
+		"_enemigo_id": "enemigo18"
+	},
+	{
+		"nombre": "Golem de cristal",
+		"vida": "680",
+		"es_jefe": "0",
+		"almas": "1200",
+		"_enemigo_id": "enemigo19"
+	},
+	{
+		"nombre": "Centinela",
+		"vida": "535",
+		"es_jefe": "0",
+		"almas": "1500",
+		"_enemigo_id": "enemigo20"
+	},
+	{
+		"nombre": "Centinela real",
+		"vida": "755",
+		"es_jefe": "0",
+		"almas": "3000",
+		"_enemigo_id": "enemigo21"
+	},
+	{
+		"nombre": "Jardinero treant",
+		"vida": "545",
+		"es_jefe": "0",
+		"almas": "900",
+		"_enemigo_id": "enemigo22"
+	},
+	{
+		"nombre": "Guardián de piedra",
+		"vida": "560",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo23"
+	},
+	{
+		"nombre": "Residente de Oolacile",
+		"vida": "380",
+		"es_jefe": "0",
+		"almas": "400",
+		"_enemigo_id": "enemigo24"
+	},
+	{
+		"nombre": "Hechicera de Oolacile",
+		"vida": "300",
+		"es_jefe": "0",
+		"almas": "700",
+		"_enemigo_id": "enemigo25"
+	},
+	{
+		"nombre": "Prisionero encadenado",
+		"vida": "1280",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo26"
+	},
+	{
+		"nombre": "Humanidad gigante",
+		"vida": "700",
+		"es_jefe": "0",
+		"almas": "20",
+		"_enemigo_id": "enemigo27"
+	},
+	{
+		"nombre": "Basilíco",
+		"vida": "193",
+		"es_jefe": "0",
+		"almas": "400",
+		"_enemigo_id": "enemigo28"
+	},
+	{
+		"nombre": "Esqueleto",
+		"vida": "196",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo29"
+	},
+	{
+		"nombre": "Esqueleto gigante",
+		"vida": "386",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo30"
+	},
+	{
+		"nombre": "Arquero esqueleto gigante",
+		"vida": "262",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo31"
+	},
+	{
+		"nombre": "Bestia esqueleto",
+		"vida": "446",
+		"es_jefe": "0",
+		"almas": "1500",
+		"_enemigo_id": "enemigo32"
+	},
+	{
+		"nombre": "Esqueleto de rueda",
+		"vida": "196",
+		"es_jefe": "0",
+		"almas": "800",
+		"_enemigo_id": "enemigo33"
+	},
+	{
+		"nombre": "Torre de huesos",
+		"vida": "291",
+		"es_jefe": "0",
+		"almas": "250",
+		"_enemigo_id": "enemigo34"
+	},
+	{
+		"nombre": "Bebé Esqueleto",
+		"vida": "36",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo35"
+	},
+	{
+		"nombre": "Demonio de alas de murciélago",
+		"vida": "419",
+		"es_jefe": "0",
+		"almas": "500",
+		"_enemigo_id": "enemigo36"
+	},
+	{
+		"nombre": "Demonio Tauro Menor",
+		"vida": "900",
+		"es_jefe": "0",
+		"almas": "1200",
+		"_enemigo_id": "enemigo37"
+	},
+	{
+		"nombre": "Demonio de Aries Menor",
+		"vida": "589",
+		"es_jefe": "0",
+		"almas": "800",
+		"_enemigo_id": "enemigo38"
+	},
+	{
+		"nombre": "Demonio de Piedra",
+		"vida": "205",
+		"es_jefe": "0",
+		"almas": "300",
+		"_enemigo_id": "enemigo39"
+	},
+	{
+		"nombre": "Demonio Cuervo",
+		"vida": "930",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo40"
+	},
+	{
+		"nombre": "Demonio de Izalith",
+		"vida": "1407",
+		"es_jefe": "0",
+		"almas": "2000",
+		"_enemigo_id": "enemigo41"
+	},
+	{
+		"nombre": "Fantasma",
+		"vida": "231",
+		"es_jefe": "0",
+		"almas": "200",
+		"_enemigo_id": "enemigo42"
+	},
+	{
+		"nombre": "Banshee",
+		"vida": "290",
+		"es_jefe": "0",
+		"almas": "400",
+		"_enemigo_id": "enemigo43"
+	},
+	{
+		"nombre": "Falange",
+		"vida": "335",
+		"es_jefe": "0",
+		"almas": "500",
+		"_enemigo_id": "enemigo44"
+	},
+	{
+		"nombre": "Gusano vil",
+		"vida": "68",
+		"es_jefe": "0",
+		"almas": "18",
+		"_enemigo_id": "enemigo45"
+	},
+	{
+		"nombre": "Portador de Huevos",
+		"vida": "128",
+		"es_jefe": "0",
+		"almas": "0",
+		"_enemigo_id": "enemigo46"
+	},
+	{
+		"nombre": "Devorador del Caos",
+		"vida": "650",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo47"
+	},
+	{
+		"nombre": "Caballero de Plata",
+		"vida": "464",
+		"es_jefe": "0",
+		"almas": "1300",
+		"_enemigo_id": "enemigo48"
+	},
+	{
+		"nombre": "Guardián de la pintura",
+		"vida": "230",
+		"es_jefe": "0",
+		"almas": "300",
+		"_enemigo_id": "enemigo49"
+	},
+	{
+		"nombre": "Clan de los Protectores del Bosque",
+		"vida": "908",
+		"es_jefe": "0",
+		"almas": "5000",
+		"_enemigo_id": "enemigo50"
+	},
+	{
+		"nombre": "Pisaca",
+		"vida": "350",
+		"es_jefe": "0",
+		"almas": "800",
+		"_enemigo_id": "enemigo51"
+	},
+	{
+		"nombre": "Sirviente de rueda de molino",
+		"vida": "506",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo52"
+	},
+	{
+		"nombre": "Lagarto de árbol",
+		"vida": "169",
+		"es_jefe": "0",
+		"almas": "60",
+		"_enemigo_id": "enemigo53"
+	},
+	{
+		"nombre": "Ents",
+		"vida": "283",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo54"
+	},
+	{
+		"nombre": "Rana-raya",
+		"vida": "162",
+		"es_jefe": "0",
+		"almas": "80",
+		"_enemigo_id": "enemigo55"
+	},
+	{
+		"nombre": "Pequeña persona seta",
+		"vida": "662",
+		"es_jefe": "0",
+		"almas": "50",
+		"_enemigo_id": "enemigo56"
+	},
+	{
+		"nombre": "Gran persona seta",
+		"vida": "2483",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo57"
+	},
+	{
+		"nombre": "Concha devoradora-hombres",
+		"vida": "865",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo58"
+	},
+	{
+		"nombre": "Rata pequeña",
+		"vida": "112",
+		"es_jefe": "0",
+		"almas": "60",
+		"_enemigo_id": "enemigo59"
+	},
+	{
+		"nombre": "Rata grande",
+		"vida": "692",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo60"
+	},
+	{
+		"nombre": "Rata de nieve",
+		"vida": "237",
+		"es_jefe": "0",
+		"almas": "400",
+		"_enemigo_id": "enemigo61"
+	},
+	{
+		"nombre": "Drake",
+		"vida": "1152",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo62"
+	},
+	{
+		"nombre": "Sanguijuela gigante",
+		"vida": "124",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo63"
+	},
+	{
+		"nombre": "Mosquito gigante",
+		"vida": "50",
+		"es_jefe": "0",
+		"almas": "30",
+		"_enemigo_id": "enemigo64"
+	},
+	{
+		"nombre": "Araña de risco",
+		"vida": "167",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo65"
+	},
+	{
+		"nombre": "Bicho del Caos",
+		"vida": "73",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo66"
+	},
+	{
+		"nombre": "Hombre Serpiente",
+		"vida": "537",
+		"es_jefe": "0",
+		"almas": "500",
+		"_enemigo_id": "enemigo67"
+	},
+	{
+		"nombre": "Mago serpiente",
+		"vida": "362",
+		"es_jefe": "0",
+		"almas": "2000",
+		"_enemigo_id": "enemigo68"
+	},
+	{
+		"nombre": "Gusano de roca excavador",
+		"vida": "616",
+		"es_jefe": "0",
+		"almas": "900",
+		"_enemigo_id": "enemigo69"
+	},
+	{
+		"nombre": "Limo",
+		"vida": "143",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo70"
+	},
+	{
+		"nombre": "Mariposa pequeña de luz de luna",
+		"vida": "1255",
+		"es_jefe": "0",
+		"almas": "10000",
+		"_enemigo_id": "enemigo71"
+	},
+	{
+		"nombre": "Lagarto de cristal",
+		"vida": "100",
+		"es_jefe": "0",
+		"almas": "1",
+		"_enemigo_id": "enemigo72"
+	},
+	{
+		"nombre": "Parásito abrazador de paredes",
+		"vida": "793",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo73"
+	},
+	{
+		"nombre": "Caballero negro",
+		"vida": "897",
+		"es_jefe": "0",
+		"almas": "1800",
+		"_enemigo_id": "enemigo74"
+	},
+	{
+		"nombre": "Lanza-dardos",
+		"vida": "93",
+		"es_jefe": "0",
+		"almas": "500",
+		"_enemigo_id": "enemigo75"
+	},
+	{
+		"nombre": "Soldados de la luna oscura",
+		"vida": "821",
+		"es_jefe": "0",
+		"almas": "1500",
+		"_enemigo_id": "enemigo76"
+	},
+	{
+		"nombre": "Masa de Almas",
+		"vida": "2059",
+		"es_jefe": "0",
+		"almas": "5000",
+		"_enemigo_id": "enemigo77"
+	},
+	{
+		"nombre": "Árbol Poseido",
+		"vida": "540",
+		"es_jefe": "0",
+		"almas": "180",
+		"_enemigo_id": "enemigo78"
+	},
+	{
+		"nombre": "Gato Gigante",
+		"vida": "1465",
+		"es_jefe": "0",
+		"almas": "2000",
+		"_enemigo_id": "enemigo79"
+	},
+	{
+		"nombre": "Mímico",
+		"vida": "1240",
+		"es_jefe": "0",
+		"almas": "3000",
+		"_enemigo_id": "enemigo80"
+	},
+	{
+		"nombre": "El canalizador",
+		"vida": "397",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo81"
+	},
+	{
+		"nombre": "Vagabundo",
+		"vida": "148",
+		"es_jefe": "0",
+		"almas": "100",
+		"_enemigo_id": "enemigo82"
+	},
+	{
+		"nombre": "Hidra negra",
+		"vida": "3864",
+		"es_jefe": "0",
+		"almas": "10000",
+		"_enemigo_id": "enemigo83"
+	},
+	{
+		"nombre": "Carnicera",
+		"vida": "671",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo84"
+	},
+	{
+		"nombre": "Jabalí blindado",
+		"vida": "640",
+		"es_jefe": "0",
+		"almas": "1000",
+		"_enemigo_id": "enemigo85"
+	},
+	{
+		"nombre": "Havel la Roca",
+		"vida": "1000",
+		"es_jefe": "0",
+		"almas": "3000",
+		"_enemigo_id": "enemigo86"
+	},
+	{
+		"nombre": "Hidra negra",
+		"vida": "2520",
+		"es_jefe": "0",
+		"almas": "5000",
+		"_enemigo_id": "enemigo87"
+	},
+	{
+		"nombre": "Príncipe Ricard",
+		"vida": "719",
+		"es_jefe": "0",
+		"almas": "4000",
+		"_enemigo_id": "enemigo88"
+	},
+	{
+		"nombre": "El caballero Berenique",
+		"vida": "775",
+		"es_jefe": "0",
+		"almas": "1300",
+		"_enemigo_id": "enemigo89"
+	},
+	{
+		"nombre": "Dragon rojo",
+		"vida": "2208",
+		"es_jefe": "0",
+		"almas": "10000",
+		"_enemigo_id": "enemigo90"
+	},
+	{
+		"nombre": "Demonio titanita",
+		"vida": "1506",
+		"es_jefe": "0",
+		"almas": "2000",
+		"_enemigo_id": "enemigo91"
+	},
+	{
+		"nombre": "Dragón no muerto",
+		"vida": "3956",
+		"es_jefe": "0",
+		"almas": "3000",
+		"_enemigo_id": "enemigo92"
+	},
+	{
+		"nombre": "Demonio del asilo",
+		"vida": "825",
+		"es_jefe": "1",
+		"almas": "2000",
+		"_enemigo_id": "enemigo93"
+	},
+	{
+		"nombre": "Gárgola campana",
+		"vida": "1000",
+		"es_jefe": "1",
+		"almas": "10000",
+		"_enemigo_id": "enemigo94"
+	},
+	{
+		"nombre": "Demonio de Aries Menor",
+		"vida": "1176",
+		"es_jefe": "1",
+		"almas": "6000",
+		"_enemigo_id": "enemigo95"
+	},
+	{
+		"nombre": "Descarga incesante",
+		"vida": "4200",
+		"es_jefe": "1",
+		"almas": "20000",
+		"_enemigo_id": "enemigo96"
+	},
+	{
+		"nombre": "Demonio ciempiés",
+		"vida": "3342",
+		"es_jefe": "1",
+		"almas": "40000",
+		"_enemigo_id": "enemigo97"
+	},
+	{
+		"nombre": "Bruja del caos Quelaag",
+		"vida": "3139",
+		"es_jefe": "1",
+		"almas": "20000",
+		"_enemigo_id": "enemigo98"
+	},
+	{
+		"nombre": "Priscilla la Mestiza",
+		"vida": "2300",
+		"es_jefe": "1",
+		"almas": "30000",
+		"_enemigo_id": "enemigo99"
+	},
+	{
+		"nombre": "Sol negro Gwyndolin",
+		"vida": "2000",
+		"es_jefe": "1",
+		"almas": "40000",
+		"_enemigo_id": "enemigo100"
+	},
+	{
+		"nombre": "Sabio del fuego demoníaco",
+		"vida": "5950",
+		"es_jefe": "1",
+		"almas": "20000",
+		"_enemigo_id": "enemigo101"
+	},
+	{
+		"nombre": "Cuatro reyes",
+		"vida": "9604",
+		"es_jefe": "1",
+		"almas": "60000",
+		"_enemigo_id": "enemigo102"
+	},
+	{
+		"nombre": "Dragón boquiabierto",
+		"vida": "4401",
+		"es_jefe": "1",
+		"almas": "25000",
+		"_enemigo_id": "enemigo103"
+	},
+	{
+		"nombre": "Gran lobo gris Sif",
+		"vida": "3432",
+		"es_jefe": "1",
+		"almas": "40000",
+		"_enemigo_id": "enemigo104"
+	},
+	{
+		"nombre": "Gwyn Señor de la Ceniza",
+		"vida": "4250",
+		"es_jefe": "1",
+		"almas": "70000",
+		"_enemigo_id": "enemigo105"
+	},
+	{
+		"nombre": "Golem de hierro",
+		"vida": "2880",
+		"es_jefe": "1",
+		"almas": "40000",
+		"_enemigo_id": "enemigo106"
+	},
+	{
+		"nombre": "Mariposa de luz de luna",
+		"vida": "1255",
+		"es_jefe": "1",
+		"almas": "10000",
+		"_enemigo_id": "enemigo107"
+	},
+	{
+		"nombre": "Nito",
+		"vida": "4317",
+		"es_jefe": "1",
+		"almas": "60000",
+		"_enemigo_id": "enemigo108"
+	},
+	{
+		"nombre": "Ornstein y Smough",
+		"vida": "4515",
+		"es_jefe": "1",
+		"almas": "50000",
+		"_enemigo_id": "enemigo109"
+	},
+	{
+		"nombre": "Molinete",
+		"vida": "1326",
+		"es_jefe": "1",
+		"almas": "15000",
+		"_enemigo_id": "enemigo110"
+	},
+	{
+		"nombre": "Seath el Sin Escamas",
+		"vida": "5525",
+		"es_jefe": "1",
+		"almas": "60000",
+		"_enemigo_id": "enemigo111"
+	},
+	{
+		"nombre": "Demonio extraviado",
+		"vida": "5250",
+		"es_jefe": "1",
+		"almas": "20000",
+		"_enemigo_id": "enemigo112"
+	},
+	{
+		"nombre": "Demonio Tauro",
+		"vida": "1215",
+		"es_jefe": "1",
+		"almas": "3000",
+		"_enemigo_id": "enemigo113"
+	},
+	{
+		"nombre": "El Lecho del Caos",
+		"vida": "2",
+		"es_jefe": "1",
+		"almas": "60000",
+		"_enemigo_id": "enemigo114"
+	},
+	{
+		"nombre": "Artorias",
+		"vida": "3750",
+		"es_jefe": "1",
+		"almas": "50000",
+		"_enemigo_id": "enemigo115"
+	},
+	{
+		"nombre": "Dragón negro Kalameet",
+		"vida": "5400",
+		"es_jefe": "1",
+		"almas": "60000",
+		"_enemigo_id": "enemigo116"
+	},
+	{
+		"nombre": "Manus, Padre del Abismo",
+		"vida": "6665",
+		"es_jefe": "1",
+		"almas": "60000",
+		"_enemigo_id": "enemigo117"
+	},
+	{
+		"nombre": "Guardián del santuario",
+		"vida": "2560",
+		"es_jefe": "1",
+		"almas": "30000",
+		"_enemigo_id": "enemigo118"
+	}
+]

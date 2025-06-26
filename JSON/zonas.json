@@ -1,0 +1,559 @@
+[
+    {
+        "nombre": "Refugio de los No Muertos",
+        "lista_enemigos": [
+            {
+                "cantidad": "1",
+                "_enemigo_id": "enemigo85"
+            },
+            {
+                "cantidad": "2",
+                "_enemigo_id": "enemigo59"
+            }
+        ],
+        "lista_hogueras": [
+            "0",
+            "1"
+        ],
+        "_zona_id": "0"
+    },
+    {
+        "nombre": "Santuario de Enlace de Fuego",
+        "lista_enemigos": [
+            {
+                "cantidad": "7",
+                "_enemigo_id": "enemigo50"
+            }
+        ],
+        "lista_hogueras": [
+            "2"
+        ],
+        "_zona_id": "1"
+    },
+    {
+        "nombre": "Burgo de los No Muertos",
+        "lista_enemigos": [
+            {
+                "cantidad": "8",
+                "_enemigo_id": "enemigo51"
+            },
+            {
+                "cantidad": "10",
+                "_enemigo_id": "enemigo34"
+            }
+        ],
+        "lista_hogueras": [
+            "3"
+        ],
+        "_zona_id": "2"
+    },
+    {
+        "nombre": "Parroquia de los No Muertos",
+        "lista_enemigos": [
+            {
+                "cantidad": "2",
+                "_enemigo_id": "enemigo83"
+            },
+            {
+                "cantidad": "6",
+                "_enemigo_id": "enemigo3"
+            }
+        ],
+        "lista_hogueras": [
+            "4",
+            "5"
+        ],
+        "_zona_id": "3"
+    },
+    {
+        "nombre": "Jardín Tenebroso",
+        "lista_enemigos": [
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo110"
+            },
+            {
+                "cantidad": "4",
+                "_enemigo_id": "enemigo70"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo52"
+            }
+        ],
+        "lista_hogueras": [
+            "6"
+        ],
+        "_zona_id": "4"
+    },
+    {
+        "nombre": "Cuenca Tenebrosa",
+        "lista_enemigos": [
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo75"
+            },
+            {
+                "cantidad": "8",
+                "_enemigo_id": "enemigo107"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo78"
+            },
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo1"
+            }
+        ],
+        "lista_hogueras": [
+            "7"
+        ],
+        "_zona_id": "5"
+    },
+    {
+        "nombre": "Profundidades",
+        "lista_enemigos": [
+            {
+                "cantidad": "1",
+                "_enemigo_id": "enemigo12"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo26"
+            },
+            {
+                "cantidad": "6",
+                "_enemigo_id": "enemigo106"
+            }
+        ],
+        "lista_hogueras": [
+            "8"
+        ],
+        "_zona_id": "6"
+    },
+    {
+        "nombre": "Ciudad Infestada",
+        "lista_enemigos": [
+            {
+                "cantidad": "1",
+                "_enemigo_id": "enemigo34"
+            },
+            {
+                "cantidad": "7",
+                "_enemigo_id": "enemigo14"
+            },
+            {
+                "cantidad": "4",
+                "_enemigo_id": "enemigo44"
+            }
+        ],
+        "lista_hogueras": [
+            "9",
+            "10"
+        ],
+        "_zona_id": "7"
+    },
+    {
+        "nombre": "Dominios de Quelaag",
+        "lista_enemigos": [
+            {
+                "cantidad": "8",
+                "_enemigo_id": "enemigo56"
+            },
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo104"
+            },
+            {
+                "cantidad": "7",
+                "_enemigo_id": "enemigo14"
+            },
+            {
+                "cantidad": "8",
+                "_enemigo_id": "enemigo52"
+            }
+        ],
+        "lista_hogueras": [
+            "11"
+        ],
+        "_zona_id": "8"
+    },
+    {
+        "nombre": "Fortaleza de Sen",
+        "lista_enemigos": [
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo105"
+            },
+            {
+                "cantidad": "4",
+                "_enemigo_id": "enemigo70"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo73"
+            }
+        ],
+        "lista_hogueras": [
+            "12"
+        ],
+        "_zona_id": "9"
+    },
+    {
+        "nombre": "Anor Londo",
+        "lista_enemigos": null,
+        "lista_hogueras": [
+            "13",
+            "14",
+            "15",
+            "16"
+        ],
+        "_zona_id": "10"
+    },
+    {
+        "nombre": "Mundo Pintado de Ariamis",
+        "lista_enemigos": [
+            {
+                "cantidad": "6",
+                "_enemigo_id": "enemigo16"
+            }
+        ],
+        "lista_hogueras": [
+            "17"
+        ],
+        "_zona_id": "11"
+    },
+    {
+        "nombre": "El Gran Hueco",
+        "lista_enemigos": [
+            {
+                "cantidad": "7",
+                "_enemigo_id": "enemigo38"
+            }
+        ],
+        "lista_hogueras": [
+            "18"
+        ],
+        "_zona_id": "12"
+    },
+    {
+        "nombre": "Lago de Ceniza",
+        "lista_enemigos": [
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo96"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo34"
+            },
+            {
+                "cantidad": "5",
+                "_enemigo_id": "enemigo35"
+            }
+        ],
+        "lista_hogueras": [
+            "19",
+            "20"
+        ],
+        "_zona_id": "13"
+    },
+    {
+        "nombre": "Las Catacumbas",
+        "lista_enemigos": [
+            {
+                "cantidad": "6",
+                "_enemigo_id": "enemigo17"
+            },
+            {
+                "cantidad": "2",
+                "_enemigo_id": "enemigo51"
+            }
+        ],
+        "lista_hogueras": [
+            "21",
+            "22"
+        ],
+        "_zona_id": "14"
+    },
+    {
+        "nombre": "Tumba de los Gigantes",
+        "lista_enemigos": [
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo83"
+            },
+            {
+                "cantidad": "6",
+                "_enemigo_id": "enemigo88"
+            },
+            {
+                "cantidad": "2",
+                "_enemigo_id": "enemigo37"
+            }
+        ],
+        "lista_hogueras": [
+            "23",
+            "24",
+            "25"
+        ],
+        "_zona_id": "15"
+    },
+    {
+        "nombre": "Los Archivos del Duque",
+        "lista_enemigos": [
+            {
+                "cantidad": "1",
+                "_enemigo_id": "enemigo17"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo76"
+            },
+            {
+                "cantidad": "8",
+                "_enemigo_id": "enemigo95"
+            }
+        ],
+        "lista_hogueras": [
+            "26",
+            "27",
+            "28"
+        ],
+        "_zona_id": "16"
+    },
+    {
+        "nombre": "Cueva de Cristal",
+        "lista_enemigos": [
+            {
+                "cantidad": "7",
+                "_enemigo_id": "enemigo92"
+            }
+        ],
+        "lista_hogueras": [
+            "29"
+        ],
+        "_zona_id": "17"
+    },
+    {
+        "nombre": "Ruinas de Nuevo Londo",
+        "lista_enemigos": [
+            {
+                "cantidad": "4",
+                "_enemigo_id": "enemigo22"
+            },
+            {
+                "cantidad": "6",
+                "_enemigo_id": "enemigo102"
+            }
+        ],
+        "lista_hogueras": null,
+        "_zona_id": "18"
+    },
+    {
+        "nombre": "El Abismo",
+        "lista_enemigos": [
+            {
+                "cantidad": "10",
+                "_enemigo_id": "enemigo59"
+            },
+            {
+                "cantidad": "8",
+                "_enemigo_id": "enemigo118"
+            }
+        ],
+        "lista_hogueras": [
+            "30"
+        ],
+        "_zona_id": "19"
+    },
+    {
+        "nombre": "Valle de los Dragones",
+        "lista_enemigos": [
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo69"
+            },
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo61"
+            },
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo68"
+            }
+        ],
+        "lista_hogueras": null,
+        "_zona_id": "20"
+    },
+    {
+        "nombre": "Ruinas de los Demonios",
+        "lista_enemigos": [
+            {
+                "cantidad": "6",
+                "_enemigo_id": "enemigo105"
+            },
+            {
+                "cantidad": "8",
+                "_enemigo_id": "enemigo60"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo0"
+            }
+        ],
+        "lista_hogueras": [
+            "31",
+            "32",
+            "33"
+        ],
+        "_zona_id": "21"
+    },
+    {
+        "nombre": "Izalith Perdida",
+        "lista_enemigos": [
+            {
+                "cantidad": "4",
+                "_enemigo_id": "enemigo82"
+            },
+            {
+                "cantidad": "10",
+                "_enemigo_id": "enemigo101"
+            },
+            {
+                "cantidad": "8",
+                "_enemigo_id": "enemigo49"
+            }
+        ],
+        "lista_hogueras": [
+            "34",
+            "35",
+            "36"
+        ],
+        "_zona_id": "22"
+    },
+    {
+        "nombre": "Altar del Enlace de Fuego",
+        "lista_enemigos": null,
+        "lista_hogueras": [
+            "37"
+        ],
+        "_zona_id": "23"
+    },
+    {
+        "nombre": "Horno de la Primera Llama",
+        "lista_enemigos": [
+            {
+                "cantidad": "1",
+                "_enemigo_id": "enemigo0"
+            },
+            {
+                "cantidad": "1",
+                "_enemigo_id": "enemigo49"
+            }
+        ],
+        "lista_hogueras": null,
+        "_zona_id": "24"
+    },
+    {
+        "nombre": "Jardín del Santuario",
+        "lista_enemigos": [
+            {
+                "cantidad": "10",
+                "_enemigo_id": "enemigo3"
+            },
+            {
+                "cantidad": "10",
+                "_enemigo_id": "enemigo102"
+            }
+        ],
+        "lista_hogueras": [
+            "38"
+        ],
+        "_zona_id": "25"
+    },
+    {
+        "nombre": "Santuario de Oolacile",
+        "lista_enemigos": [
+            {
+                "cantidad": "1",
+                "_enemigo_id": "enemigo39"
+            }
+        ],
+        "lista_hogueras": [
+            "39"
+        ],
+        "_zona_id": "26"
+    },
+    {
+        "nombre": "Bosque Real",
+        "lista_enemigos": [
+            {
+                "cantidad": "4",
+                "_enemigo_id": "enemigo64"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo18"
+            },
+            {
+                "cantidad": "9",
+                "_enemigo_id": "enemigo61"
+            },
+            {
+                "cantidad": "10",
+                "_enemigo_id": "enemigo16"
+            }
+        ],
+        "lista_hogueras": null,
+        "_zona_id": "27"
+    },
+    {
+        "nombre": "Municipio de Oolacile",
+        "lista_enemigos": [
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo38"
+            },
+            {
+                "cantidad": "1",
+                "_enemigo_id": "enemigo65"
+            }
+        ],
+        "lista_hogueras": [
+            "40"
+        ],
+        "_zona_id": "28"
+    },
+    {
+        "nombre": "Mazmorra Municipal de Oolacile",
+        "lista_enemigos": [
+            {
+                "cantidad": "10",
+                "_enemigo_id": "enemigo12"
+            }
+        ],
+        "lista_hogueras": [
+            "41"
+        ],
+        "_zona_id": "29"
+    },
+    {
+        "nombre": "Sima del Abismo",
+        "lista_enemigos": [
+            {
+                "cantidad": "3",
+                "_enemigo_id": "enemigo31"
+            },
+            {
+                "cantidad": "6",
+                "_enemigo_id": "enemigo7"
+            }
+        ],
+        "lista_hogueras": [
+            "42"
+        ],
+        "_zona_id": "30"
+    }
+]

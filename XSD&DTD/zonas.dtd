@@ -1,0 +1,17 @@
+<!-- ELEMENTO RAIZ -->
+
+<!ELEMENT zonas (zona)+>
+
+<!-- ELEMENTO ZONA -->
+
+<!ELEMENT zona (nombre, lista_enemigos, lista_hogueras)>
+<!ELEMENT nombre (#PCDATA)>
+
+<!ELEMENT lista_enemigos (enemigo)*>
+<!ELEMENT enemigo (#PCDATA)>
+<!ATTLIST enemigo cantidad CDATA #REQUIRED>
+
+<!ELEMENT lista_hogueras (hoguera)*>
+<!ELEMENT hoguera (#PCDATA)>
+
+<!ATTLIST zona zona_id CDATA #REQUIRED>

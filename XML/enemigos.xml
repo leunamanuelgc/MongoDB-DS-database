@@ -1,0 +1,717 @@
+<?xml version='1.0' encoding='utf-8'?>
+<enemigos>
+  <enemigo enemigo_id="enemigo0">
+    <nombre>Hueco</nombre>
+    <vida>220</vida>
+    <es_jefe>0</es_jefe>
+    <almas>300</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo1">
+    <nombre>Hueco con antorcha</nombre>
+    <vida>220</vida>
+    <es_jefe>0</es_jefe>
+    <almas>300</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo2">
+    <nombre>Guerrero hueco</nombre>
+    <vida>75</vida>
+    <es_jefe>0</es_jefe>
+    <almas>60</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo3">
+    <nombre>Asesino no muerto</nombre>
+    <vida>138</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo4">
+    <nombre>Gerrero no muerto</nombre>
+    <vida>144</vida>
+    <es_jefe>0</es_jefe>
+    <almas>150</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo5">
+    <nombre>Caballero de Balder</nombre>
+    <vida>385</vida>
+    <es_jefe>0</es_jefe>
+    <almas>500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo6">
+    <nombre>Arquero no muerto</nombre>
+    <vida>130</vida>
+    <es_jefe>0</es_jefe>
+    <almas>500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo7">
+    <nombre>Hueco hinchado</nombre>
+    <vida>330</vida>
+    <es_jefe>0</es_jefe>
+    <almas>400</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo8">
+    <nombre>Bárbaro infestado</nombre>
+    <vida>883</vida>
+    <es_jefe>0</es_jefe>
+    <almas>500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo9">
+    <nombre>Soldado no muerto de cristal</nombre>
+    <vida>212</vida>
+    <es_jefe>0</es_jefe>
+    <almas>400</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo10">
+    <nombre>Arquero no muerto de cristal</nombre>
+    <vida>155</vida>
+    <es_jefe>0</es_jefe>
+    <almas>400</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo11">
+    <nombre>Caballero de cristal</nombre>
+    <vida>742</vida>
+    <es_jefe>0</es_jefe>
+    <almas>3000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo12">
+    <nombre>Perro de ataque no muerto</nombre>
+    <vida>210</vida>
+    <es_jefe>0</es_jefe>
+    <almas>300</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo13">
+    <nombre>Perro de ataque en llamas</nombre>
+    <vida>124</vida>
+    <es_jefe>0</es_jefe>
+    <almas>150</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo14">
+    <nombre>Necrófago infestado</nombre>
+    <vida>365</vida>
+    <es_jefe>0</es_jefe>
+    <almas>150</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo15">
+    <nombre>Caballero del espectro oscuro</nombre>
+    <vida>525</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1200</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo16">
+    <nombre>Nigromante</nombre>
+    <vida>411</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo17">
+    <nombre>Gran caballero de piedra</nombre>
+    <vida>190</vida>
+    <es_jefe>0</es_jefe>
+    <almas>600</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo18">
+    <nombre>Gigante</nombre>
+    <vida>1725</vida>
+    <es_jefe>0</es_jefe>
+    <almas>3000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo19">
+    <nombre>Golem de cristal</nombre>
+    <vida>680</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1200</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo20">
+    <nombre>Centinela</nombre>
+    <vida>535</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo21">
+    <nombre>Centinela real</nombre>
+    <vida>755</vida>
+    <es_jefe>0</es_jefe>
+    <almas>3000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo22">
+    <nombre>Jardinero treant</nombre>
+    <vida>545</vida>
+    <es_jefe>0</es_jefe>
+    <almas>900</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo23">
+    <nombre>Guardián de piedra</nombre>
+    <vida>560</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo24">
+    <nombre>Residente de Oolacile</nombre>
+    <vida>380</vida>
+    <es_jefe>0</es_jefe>
+    <almas>400</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo25">
+    <nombre>Hechicera de Oolacile</nombre>
+    <vida>300</vida>
+    <es_jefe>0</es_jefe>
+    <almas>700</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo26">
+    <nombre>Prisionero encadenado</nombre>
+    <vida>1280</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo27">
+    <nombre>Humanidad gigante</nombre>
+    <vida>700</vida>
+    <es_jefe>0</es_jefe>
+    <almas>20</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo28">
+    <nombre>Basilíco</nombre>
+    <vida>193</vida>
+    <es_jefe>0</es_jefe>
+    <almas>400</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo29">
+    <nombre>Esqueleto</nombre>
+    <vida>196</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo30">
+    <nombre>Esqueleto gigante</nombre>
+    <vida>386</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo31">
+    <nombre>Arquero esqueleto gigante</nombre>
+    <vida>262</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo32">
+    <nombre>Bestia esqueleto</nombre>
+    <vida>446</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo33">
+    <nombre>Esqueleto de rueda</nombre>
+    <vida>196</vida>
+    <es_jefe>0</es_jefe>
+    <almas>800</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo34">
+    <nombre>Torre de huesos</nombre>
+    <vida>291</vida>
+    <es_jefe>0</es_jefe>
+    <almas>250</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo35">
+    <nombre>Bebé Esqueleto</nombre>
+    <vida>36</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo36">
+    <nombre>Demonio de alas de murciélago</nombre>
+    <vida>419</vida>
+    <es_jefe>0</es_jefe>
+    <almas>500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo37">
+    <nombre>Demonio Tauro Menor</nombre>
+    <vida>900</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1200</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo38">
+    <nombre>Demonio de Aries Menor</nombre>
+    <vida>589</vida>
+    <es_jefe>0</es_jefe>
+    <almas>800</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo39">
+    <nombre>Demonio de Piedra</nombre>
+    <vida>205</vida>
+    <es_jefe>0</es_jefe>
+    <almas>300</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo40">
+    <nombre>Demonio Cuervo</nombre>
+    <vida>930</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo41">
+    <nombre>Demonio de Izalith</nombre>
+    <vida>1407</vida>
+    <es_jefe>0</es_jefe>
+    <almas>2000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo42">
+    <nombre>Fantasma</nombre>
+    <vida>231</vida>
+    <es_jefe>0</es_jefe>
+    <almas>200</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo43">
+    <nombre>Banshee</nombre>
+    <vida>290</vida>
+    <es_jefe>0</es_jefe>
+    <almas>400</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo44">
+    <nombre>Falange</nombre>
+    <vida>335</vida>
+    <es_jefe>0</es_jefe>
+    <almas>500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo45">
+    <nombre>Gusano vil</nombre>
+    <vida>68</vida>
+    <es_jefe>0</es_jefe>
+    <almas>18</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo46">
+    <nombre>Portador de Huevos</nombre>
+    <vida>128</vida>
+    <es_jefe>0</es_jefe>
+    <almas>0</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo47">
+    <nombre>Devorador del Caos</nombre>
+    <vida>650</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo48">
+    <nombre>Caballero de Plata</nombre>
+    <vida>464</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1300</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo49">
+    <nombre>Guardián de la pintura</nombre>
+    <vida>230</vida>
+    <es_jefe>0</es_jefe>
+    <almas>300</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo50">
+    <nombre>Clan de los Protectores del Bosque</nombre>
+    <vida>908</vida>
+    <es_jefe>0</es_jefe>
+    <almas>5000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo51">
+    <nombre>Pisaca</nombre>
+    <vida>350</vida>
+    <es_jefe>0</es_jefe>
+    <almas>800</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo52">
+    <nombre>Sirviente de rueda de molino</nombre>
+    <vida>506</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo53">
+    <nombre>Lagarto de árbol</nombre>
+    <vida>169</vida>
+    <es_jefe>0</es_jefe>
+    <almas>60</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo54">
+    <nombre>Ents</nombre>
+    <vida>283</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo55">
+    <nombre>Rana-raya</nombre>
+    <vida>162</vida>
+    <es_jefe>0</es_jefe>
+    <almas>80</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo56">
+    <nombre>Pequeña persona seta</nombre>
+    <vida>662</vida>
+    <es_jefe>0</es_jefe>
+    <almas>50</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo57">
+    <nombre>Gran persona seta</nombre>
+    <vida>2483</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo58">
+    <nombre>Concha devoradora-hombres</nombre>
+    <vida>865</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo59">
+    <nombre>Rata pequeña</nombre>
+    <vida>112</vida>
+    <es_jefe>0</es_jefe>
+    <almas>60</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo60">
+    <nombre>Rata grande</nombre>
+    <vida>692</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo61">
+    <nombre>Rata de nieve</nombre>
+    <vida>237</vida>
+    <es_jefe>0</es_jefe>
+    <almas>400</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo62">
+    <nombre>Drake</nombre>
+    <vida>1152</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo63">
+    <nombre>Sanguijuela gigante</nombre>
+    <vida>124</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo64">
+    <nombre>Mosquito gigante</nombre>
+    <vida>50</vida>
+    <es_jefe>0</es_jefe>
+    <almas>30</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo65">
+    <nombre>Araña de risco</nombre>
+    <vida>167</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo66">
+    <nombre>Bicho del Caos</nombre>
+    <vida>73</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo67">
+    <nombre>Hombre Serpiente</nombre>
+    <vida>537</vida>
+    <es_jefe>0</es_jefe>
+    <almas>500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo68">
+    <nombre>Mago serpiente</nombre>
+    <vida>362</vida>
+    <es_jefe>0</es_jefe>
+    <almas>2000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo69">
+    <nombre>Gusano de roca excavador</nombre>
+    <vida>616</vida>
+    <es_jefe>0</es_jefe>
+    <almas>900</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo70">
+    <nombre>Limo</nombre>
+    <vida>143</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo71">
+    <nombre>Mariposa pequeña de luz de luna</nombre>
+    <vida>1255</vida>
+    <es_jefe>0</es_jefe>
+    <almas>10000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo72">
+    <nombre>Lagarto de cristal</nombre>
+    <vida>100</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo73">
+    <nombre>Parásito abrazador de paredes</nombre>
+    <vida>793</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo74">
+    <nombre>Caballero negro</nombre>
+    <vida>897</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1800</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo75">
+    <nombre>Lanza-dardos</nombre>
+    <vida>93</vida>
+    <es_jefe>0</es_jefe>
+    <almas>500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo76">
+    <nombre>Soldados de la luna oscura</nombre>
+    <vida>821</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1500</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo77">
+    <nombre>Masa de Almas</nombre>
+    <vida>2059</vida>
+    <es_jefe>0</es_jefe>
+    <almas>5000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo78">
+    <nombre>Árbol Poseido</nombre>
+    <vida>540</vida>
+    <es_jefe>0</es_jefe>
+    <almas>180</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo79">
+    <nombre>Gato Gigante</nombre>
+    <vida>1465</vida>
+    <es_jefe>0</es_jefe>
+    <almas>2000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo80">
+    <nombre>Mímico</nombre>
+    <vida>1240</vida>
+    <es_jefe>0</es_jefe>
+    <almas>3000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo81">
+    <nombre>El canalizador</nombre>
+    <vida>397</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo82">
+    <nombre>Vagabundo</nombre>
+    <vida>148</vida>
+    <es_jefe>0</es_jefe>
+    <almas>100</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo83">
+    <nombre>Hidra negra</nombre>
+    <vida>3864</vida>
+    <es_jefe>0</es_jefe>
+    <almas>10000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo84">
+    <nombre>Carnicera</nombre>
+    <vida>671</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo85">
+    <nombre>Jabalí blindado</nombre>
+    <vida>640</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo86">
+    <nombre>Havel la Roca</nombre>
+    <vida>1000</vida>
+    <es_jefe>0</es_jefe>
+    <almas>3000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo87">
+    <nombre>Hidra negra</nombre>
+    <vida>2520</vida>
+    <es_jefe>0</es_jefe>
+    <almas>5000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo88">
+    <nombre>Príncipe Ricard</nombre>
+    <vida>719</vida>
+    <es_jefe>0</es_jefe>
+    <almas>4000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo89">
+    <nombre>El caballero Berenique</nombre>
+    <vida>775</vida>
+    <es_jefe>0</es_jefe>
+    <almas>1300</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo90">
+    <nombre>Dragon rojo</nombre>
+    <vida>2208</vida>
+    <es_jefe>0</es_jefe>
+    <almas>10000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo91">
+    <nombre>Demonio titanita</nombre>
+    <vida>1506</vida>
+    <es_jefe>0</es_jefe>
+    <almas>2000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo92">
+    <nombre>Dragón no muerto</nombre>
+    <vida>3956</vida>
+    <es_jefe>0</es_jefe>
+    <almas>3000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo93">
+    <nombre>Demonio del asilo</nombre>
+    <vida>825</vida>
+    <es_jefe>1</es_jefe>
+    <almas>2000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo94">
+    <nombre>Gárgola campana</nombre>
+    <vida>1000</vida>
+    <es_jefe>1</es_jefe>
+    <almas>10000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo95">
+    <nombre>Demonio de Aries Menor</nombre>
+    <vida>1176</vida>
+    <es_jefe>1</es_jefe>
+    <almas>6000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo96">
+    <nombre>Descarga incesante</nombre>
+    <vida>4200</vida>
+    <es_jefe>1</es_jefe>
+    <almas>20000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo97">
+    <nombre>Demonio ciempiés</nombre>
+    <vida>3342</vida>
+    <es_jefe>1</es_jefe>
+    <almas>40000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo98">
+    <nombre>Bruja del caos Quelaag</nombre>
+    <vida>3139</vida>
+    <es_jefe>1</es_jefe>
+    <almas>20000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo99">
+    <nombre>Priscilla la Mestiza</nombre>
+    <vida>2300</vida>
+    <es_jefe>1</es_jefe>
+    <almas>30000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo100">
+    <nombre>Sol negro Gwyndolin</nombre>
+    <vida>2000</vida>
+    <es_jefe>1</es_jefe>
+    <almas>40000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo101">
+    <nombre>Sabio del fuego demoníaco</nombre>
+    <vida>5950</vida>
+    <es_jefe>1</es_jefe>
+    <almas>20000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo102">
+    <nombre>Cuatro reyes</nombre>
+    <vida>9604</vida>
+    <es_jefe>1</es_jefe>
+    <almas>60000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo103">
+    <nombre>Dragón boquiabierto</nombre>
+    <vida>4401</vida>
+    <es_jefe>1</es_jefe>
+    <almas>25000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo104">
+    <nombre>Gran lobo gris Sif</nombre>
+    <vida>3432</vida>
+    <es_jefe>1</es_jefe>
+    <almas>40000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo105">
+    <nombre>Gwyn Señor de la Ceniza</nombre>
+    <vida>4250</vida>
+    <es_jefe>1</es_jefe>
+    <almas>70000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo106">
+    <nombre>Golem de hierro</nombre>
+    <vida>2880</vida>
+    <es_jefe>1</es_jefe>
+    <almas>40000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo107">
+    <nombre>Mariposa de luz de luna</nombre>
+    <vida>1255</vida>
+    <es_jefe>1</es_jefe>
+    <almas>10000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo108">
+    <nombre>Nito</nombre>
+    <vida>4317</vida>
+    <es_jefe>1</es_jefe>
+    <almas>60000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo109">
+    <nombre>Ornstein y Smough</nombre>
+    <vida>4515</vida>
+    <es_jefe>1</es_jefe>
+    <almas>50000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo110">
+    <nombre>Molinete</nombre>
+    <vida>1326</vida>
+    <es_jefe>1</es_jefe>
+    <almas>15000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo111">
+    <nombre>Seath el Sin Escamas</nombre>
+    <vida>5525</vida>
+    <es_jefe>1</es_jefe>
+    <almas>60000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo112">
+    <nombre>Demonio extraviado</nombre>
+    <vida>5250</vida>
+    <es_jefe>1</es_jefe>
+    <almas>20000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo113">
+    <nombre>Demonio Tauro</nombre>
+    <vida>1215</vida>
+    <es_jefe>1</es_jefe>
+    <almas>3000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo114">
+    <nombre>El Lecho del Caos</nombre>
+    <vida>2</vida>
+    <es_jefe>1</es_jefe>
+    <almas>60000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo115">
+    <nombre>Artorias</nombre>
+    <vida>3750</vida>
+    <es_jefe>1</es_jefe>
+    <almas>50000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo116">
+    <nombre>Dragón negro Kalameet</nombre>
+    <vida>5400</vida>
+    <es_jefe>1</es_jefe>
+    <almas>60000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo117">
+    <nombre>Manus, Padre del Abismo</nombre>
+    <vida>6665</vida>
+    <es_jefe>1</es_jefe>
+    <almas>60000</almas>
+  </enemigo>
+  <enemigo enemigo_id="enemigo118">
+    <nombre>Guardián del santuario</nombre>
+    <vida>2560</vida>
+    <es_jefe>1</es_jefe>
+    <almas>30000</almas>
+  </enemigo>
+</enemigos>
